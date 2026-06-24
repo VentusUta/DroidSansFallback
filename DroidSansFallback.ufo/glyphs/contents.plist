@@ -182,8 +182,6 @@
     <string>amS_quare.glif</string>
     <key>ampersand.full</key>
     <string>ampersand.full.glif</string>
-    <key>ampersandsmall</key>
-    <string>ampersandsmall.glif</string>
     <key>an-bopomofo</key>
     <string>an-bopomofo.glif</string>
     <key>an-ko</key>
@@ -218,14 +216,10 @@
     <string>ass-ko.glif</string>
     <key>asterisk.full</key>
     <string>asterisk.full.glif</string>
-    <key>asterisksmall</key>
-    <string>asterisksmall.glif</string>
     <key>at-ko</key>
     <string>at-ko.glif</string>
     <key>at.full</key>
     <string>at.full.glif</string>
-    <key>atsmall</key>
-    <string>atsmall.glif</string>
     <key>au-bopomofo</key>
     <string>au-bopomofo.glif</string>
     <key>b-bopomofo</key>
@@ -1884,12 +1878,8 @@
     <string>bqS_quare.glif</string>
     <key>braceleft.full</key>
     <string>braceleft.full.glif</string>
-    <key>braceleftsmall</key>
-    <string>braceleftsmall.glif</string>
     <key>braceright.full</key>
     <string>braceright.full.glif</string>
-    <key>bracerightsmall</key>
-    <string>bracerightsmall.glif</string>
     <key>bracketleft.full</key>
     <string>bracketleft.full.glif</string>
     <key>bracketright.full</key>
@@ -3102,8 +3092,6 @@
     <string>colm-ko.glif</string>
     <key>colon.full</key>
     <string>colon.full.glif</string>
-    <key>colonsmall</key>
-    <string>colonsmall.glif</string>
     <key>colp-ko</key>
     <string>colp-ko.glif</string>
     <key>cols-ko</key>
@@ -3118,10 +3106,6 @@
     <string>comma-han.half.glif</string>
     <key>comma.full</key>
     <string>comma.full.glif</string>
-    <key>commasmall</key>
-    <string>commasmall.glif</string>
-    <key>commasmall-han</key>
-    <string>commasmall-han.glif</string>
     <key>con-ko</key>
     <string>con-ko.glif</string>
     <key>cong-ko</key>
@@ -6410,8 +6394,6 @@
     <string>ep-ko.glif</string>
     <key>equal.full</key>
     <string>equal.full.glif</string>
-    <key>equalsmall</key>
-    <string>equalsmall.glif</string>
     <key>er-bopomofo</key>
     <string>er-bopomofo.glif</string>
     <key>es-ko</key>
@@ -6486,8 +6468,6 @@
     <string>eut-ko.glif</string>
     <key>exclam.full</key>
     <string>exclam.full.glif</string>
-    <key>exclamsmall</key>
-    <string>exclamsmall.glif</string>
     <key>f-bopomofo</key>
     <string>f-bopomofo.glif</string>
     <key>f.full</key>
@@ -41356,8 +41336,6 @@
     <string>grave.full.glif</string>
     <key>greater.full</key>
     <string>greater.full.glif</string>
-    <key>greatersmall</key>
-    <string>greatersmall.glif</string>
     <key>gu-hira</key>
     <string>gu-hira.glif</string>
     <key>gu-kata</key>
@@ -43270,8 +43248,6 @@
     <string>hyot-ko.glif</string>
     <key>hyphen.full</key>
     <string>hyphen.full.glif</string>
-    <key>hyphensmall</key>
-    <string>hyphensmall.glif</string>
     <key>hyu-ko</key>
     <string>hyu-ko.glif</string>
     <key>hyub-ko</key>
@@ -47062,8 +47038,6 @@
     <string>lefttorightoverride.glif</string>
     <key>less.full</key>
     <string>less.full.glif</string>
-    <key>lesssmall</key>
-    <string>lesssmall.glif</string>
     <key>lmSquare</key>
     <string>lmS_quare.glif</string>
     <key>lnSquare</key>
@@ -48938,8 +48912,6 @@
     <string>num-ko.glif</string>
     <key>numbersign.full</key>
     <string>numbersign.full.glif</string>
-    <key>numbersignsmall</key>
-    <string>numbersignsmall.glif</string>
     <key>nun-ko</key>
     <string>nun-ko.glif</string>
     <key>nung-ko</key>
@@ -49904,12 +49876,8 @@
     <string>pap-ko.glif</string>
     <key>parenleft.full</key>
     <string>parenleft.full.glif</string>
-    <key>parenleftsmall</key>
-    <string>parenleftsmall.glif</string>
     <key>parenright.full</key>
     <string>parenright.full.glif</string>
-    <key>parenrightsmall</key>
-    <string>parenrightsmall.glif</string>
     <key>pas-ko</key>
     <string>pas-ko.glif</string>
     <key>pass-ko</key>
@@ -50030,16 +49998,12 @@
     <string>pep-ko.glif</string>
     <key>percent.full</key>
     <string>percent.full.glif</string>
-    <key>percentsmall</key>
-    <string>percentsmall.glif</string>
     <key>period-han</key>
     <string>period-han.glif</string>
     <key>period-han.half</key>
     <string>period-han.half.glif</string>
     <key>period.full</key>
     <string>period.full.glif</string>
-    <key>periodsmall</key>
-    <string>periodsmall.glif</string>
     <key>pes-ko</key>
     <string>pes-ko.glif</string>
     <key>pess-ko</key>
@@ -50200,8 +50164,6 @@
     <string>pit-ko.glif</string>
     <key>plus.full</key>
     <string>plus.full.glif</string>
-    <key>plussmall</key>
-    <string>plussmall.glif</string>
     <key>pmSquare</key>
     <string>pmS_quare.glif</string>
     <key>po-hira</key>
@@ -51072,8 +51034,6 @@
     <string>q.full.glif</string>
     <key>question.full</key>
     <string>question.full.glif</string>
-    <key>questionsmall</key>
-    <string>questionsmall.glif</string>
     <key>quotedbl.full</key>
     <string>quotedbl.full.glif</string>
     <key>quotedoubleprime</key>
@@ -51386,8 +51346,6 @@
     <string>reuss-ko.glif</string>
     <key>reut-ko</key>
     <string>reut-ko.glif</string>
-    <key>reverseslashsmall</key>
-    <string>reverseslashsmall.glif</string>
     <key>ri-hira</key>
     <string>ri-hira.glif</string>
     <key>ri-kata</key>
@@ -52512,8 +52470,6 @@
     <string>sem-ko.glif</string>
     <key>semicolon.full</key>
     <string>semicolon.full.glif</string>
-    <key>semicolonsmall</key>
-    <string>semicolonsmall.glif</string>
     <key>semivoiced-kana</key>
     <string>semivoiced-kana.glif</string>
     <key>semivoiced-kana.half</key>
@@ -55316,12 +55272,8 @@
     <string>top-ko.glif</string>
     <key>tortoiseshellbracketleft</key>
     <string>tortoiseshellbracketleft.glif</string>
-    <key>tortoiseshellbracketleftsmall</key>
-    <string>tortoiseshellbracketleftsmall.glif</string>
     <key>tortoiseshellbracketright</key>
     <string>tortoiseshellbracketright.glif</string>
-    <key>tortoiseshellbracketrightsmall</key>
-    <string>tortoiseshellbracketrightsmall.glif</string>
     <key>tos-ko</key>
     <string>tos-ko.glif</string>
     <key>toss-ko</key>

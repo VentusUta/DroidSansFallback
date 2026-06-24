@@ -32971,30 +32971,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>lowlinedashed</string>
       <string>lowlinecenterline</string>
       <string>underscorewavy</string>
-      <string>commasmall</string>
-      <string>commasmall-han</string>
-      <string>periodsmall</string>
-      <string>semicolonsmall</string>
-      <string>colonsmall</string>
-      <string>questionsmall</string>
-      <string>exclamsmall</string>
-      <string>parenleftsmall</string>
-      <string>parenrightsmall</string>
-      <string>braceleftsmall</string>
-      <string>bracerightsmall</string>
-      <string>tortoiseshellbracketleftsmall</string>
-      <string>tortoiseshellbracketrightsmall</string>
-      <string>numbersignsmall</string>
-      <string>ampersandsmall</string>
-      <string>asterisksmall</string>
-      <string>plussmall</string>
-      <string>hyphensmall</string>
-      <string>lesssmall</string>
-      <string>greatersmall</string>
-      <string>equalsmall</string>
-      <string>reverseslashsmall</string>
-      <string>percentsmall</string>
-      <string>atsmall</string>
       <string>exclam.full</string>
       <string>quotedbl.full</string>
       <string>numbersign.full</string>
@@ -49934,8 +49910,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uni33C2</string>
       <key>ampersand.full</key>
       <string>uniFF06</string>
-      <key>ampersandsmall</key>
-      <string>uniFE60</string>
       <key>an-bopomofo</key>
       <string>uni3122</string>
       <key>an-ko</key>
@@ -49970,14 +49944,10 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniC558</string>
       <key>asterisk.full</key>
       <string>uniFF0A</string>
-      <key>asterisksmall</key>
-      <string>uniFE61</string>
       <key>at-ko</key>
       <string>uniC55D</string>
       <key>at.full</key>
       <string>uniFF20</string>
-      <key>atsmall</key>
-      <string>uniFE6B</string>
       <key>au-bopomofo</key>
       <string>uni3120</string>
       <key>b-bopomofo</key>
@@ -51636,12 +51606,8 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uni33C3</string>
       <key>braceleft.full</key>
       <string>uniFF5B</string>
-      <key>braceleftsmall</key>
-      <string>uniFE5B</string>
       <key>braceright.full</key>
       <string>uniFF5D</string>
-      <key>bracerightsmall</key>
-      <string>uniFE5C</string>
       <key>bracketleft.full</key>
       <string>uniFF3B</string>
       <key>bracketright.full</key>
@@ -52854,8 +52820,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniCD12</string>
       <key>colon.full</key>
       <string>uniFF1A</string>
-      <key>colonsmall</key>
-      <string>uniFE55</string>
       <key>colp-ko</key>
       <string>uniCD16</string>
       <key>cols-ko</key>
@@ -52870,10 +52834,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniFF64</string>
       <key>comma.full</key>
       <string>uniFF0C</string>
-      <key>commasmall</key>
-      <string>uniFE50</string>
-      <key>commasmall-han</key>
-      <string>uniFE51</string>
       <key>con-ko</key>
       <string>uniCD0C</string>
       <key>cong-ko</key>
@@ -56162,8 +56122,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniC5EA</string>
       <key>equal.full</key>
       <string>uniFF1D</string>
-      <key>equalsmall</key>
-      <string>uniFE66</string>
       <key>er-bopomofo</key>
       <string>uni3126</string>
       <key>es-ko</key>
@@ -56238,8 +56196,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniC755</string>
       <key>exclam.full</key>
       <string>uniFF01</string>
-      <key>exclamsmall</key>
-      <string>uniFE57</string>
       <key>f-bopomofo</key>
       <string>uni3108</string>
       <key>f.full</key>
@@ -57914,8 +57870,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniFF40</string>
       <key>greater.full</key>
       <string>uniFF1E</string>
-      <key>greatersmall</key>
-      <string>uniFE65</string>
       <key>gu-hira</key>
       <string>uni3050</string>
       <key>gu-kata</key>
@@ -59828,8 +59782,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniD6C1</string>
       <key>hyphen.full</key>
       <string>uniFF0D</string>
-      <key>hyphensmall</key>
-      <string>uniFE63</string>
       <key>hyu-ko</key>
       <string>uniD734</string>
       <key>hyub-ko</key>
@@ -63620,8 +63572,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uni202D</string>
       <key>less.full</key>
       <string>uniFF1C</string>
-      <key>lesssmall</key>
-      <string>uniFE64</string>
       <key>lmSquare</key>
       <string>uni33D0</string>
       <key>lnSquare</key>
@@ -65496,8 +65446,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniB214</string>
       <key>numbersign.full</key>
       <string>uniFF03</string>
-      <key>numbersignsmall</key>
-      <string>uniFE5F</string>
       <key>nun-ko</key>
       <string>uniB208</string>
       <key>nung-ko</key>
@@ -66462,12 +66410,8 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniD326</string>
       <key>parenleft.full</key>
       <string>uniFF08</string>
-      <key>parenleftsmall</key>
-      <string>uniFE59</string>
       <key>parenright.full</key>
       <string>uniFF09</string>
-      <key>parenrightsmall</key>
-      <string>uniFE5A</string>
       <key>pas-ko</key>
       <string>uniD31F</string>
       <key>pass-ko</key>
@@ -66588,16 +66532,12 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniD3B2</string>
       <key>percent.full</key>
       <string>uniFF05</string>
-      <key>percentsmall</key>
-      <string>uniFE6A</string>
       <key>period-han</key>
       <string>uni3002</string>
       <key>period-han.half</key>
       <string>uniFF61</string>
       <key>period.full</key>
       <string>uniFF0E</string>
-      <key>periodsmall</key>
-      <string>uniFE52</string>
       <key>pes-ko</key>
       <string>uniD3AB</string>
       <key>pess-ko</key>
@@ -66758,8 +66698,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniD555</string>
       <key>plus.full</key>
       <string>uniFF0B</string>
-      <key>plussmall</key>
-      <string>uniFE62</string>
       <key>pmSquare</key>
       <string>uni33D8</string>
       <key>po-hira</key>
@@ -67630,8 +67568,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniFF51</string>
       <key>question.full</key>
       <string>uniFF1F</string>
-      <key>questionsmall</key>
-      <string>uniFE56</string>
       <key>quotedbl.full</key>
       <string>uniFF02</string>
       <key>quotedoubleprime</key>
@@ -67944,8 +67880,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniB988</string>
       <key>reut-ko</key>
       <string>uniB98D</string>
-      <key>reverseslashsmall</key>
-      <string>uniFE68</string>
       <key>ri-hira</key>
       <string>uni308A</string>
       <key>ri-kata</key>
@@ -69070,8 +69004,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniC148</string>
       <key>semicolon.full</key>
       <string>uniFF1B</string>
-      <key>semicolonsmall</key>
-      <string>uniFE54</string>
       <key>semivoiced-kana</key>
       <string>uni309C</string>
       <key>semivoiced-kana.half</key>
@@ -71872,12 +71804,8 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniD1BA</string>
       <key>tortoiseshellbracketleft</key>
       <string>uni3014</string>
-      <key>tortoiseshellbracketleftsmall</key>
-      <string>uniFE5D</string>
       <key>tortoiseshellbracketright</key>
       <string>uni3015</string>
-      <key>tortoiseshellbracketrightsmall</key>
-      <string>uniFE5E</string>
       <key>tos-ko</key>
       <string>uniD1B3</string>
       <key>toss-ko</key>
