@@ -63,7 +63,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>.notdef</string>
       <string>NULL</string>
       <string>space</string>
-      <string>baht</string>
       <string>kiyeokCho-ko</string>
       <string>ssangkiyeokCho-ko</string>
       <string>nieunCho-ko</string>
@@ -260,8 +259,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>wo-hira</string>
       <string>n-hira</string>
       <string>vu-hira</string>
-      <string>voicedcomb-kana</string>
-      <string>semivoicedcomb-kana</string>
       <string>voiced-kana</string>
       <string>semivoiced-kana</string>
       <string>iteration-hira</string>
@@ -32965,36 +32962,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniFA2B</string>
       <string>uniFA2C</string>
       <string>uniFA2D</string>
-      <string>comma.full.vert</string>
-      <string>comma-han.vert</string>
-      <string>period-han.vert</string>
-      <string>colon.vert</string>
-      <string>semicolon.vert</string>
-      <string>exclam.vert</string>
-      <string>question.vert</string>
-      <string>whitelenticularbracketleft.vert</string>
-      <string>whitelenticularbracketright.vert</string>
-      <string>ellipsis.vert</string>
-      <string>twodotleader.vert</string>
-      <string>emdash.vert</string>
-      <string>underscore.full.vert</string>
-      <string>wavyunderscore.vert</string>
-      <string>parenleft.full.vert</string>
-      <string>parenright.full.vert</string>
-      <string>braceleft.full.vert</string>
-      <string>braceright.full.vert</string>
-      <string>tortoiseshellbracketleft.vert</string>
-      <string>tortoiseshellbracketright.vert</string>
-      <string>blacklenticularbracketleft.vert</string>
-      <string>blacklenticularbracketright.vert</string>
-      <string>dblanglebracketleft.vert</string>
-      <string>dblanglebracketright.vert</string>
-      <string>anglebracketleft.vert</string>
-      <string>anglebracketright.vert</string>
-      <string>cornerbracketleft.vert</string>
-      <string>cornerbracketright.vert</string>
-      <string>whitecornerbracketleft.vert</string>
-      <string>whitecornerbracketright.vert</string>
       <string>sesamedot</string>
       <string>whitesesamedot</string>
       <string>overlinedashed</string>
@@ -33026,7 +32993,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>greatersmall</string>
       <string>equalsmall</string>
       <string>reverseslashsmall</string>
-      <string>dollarsmall</string>
       <string>percentsmall</string>
       <string>atsmall</string>
       <string>exclam.full</string>
@@ -33192,11 +33158,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>macron.full</string>
       <string>brokenbar.full</string>
       <string>yen.full</string>
-      <string>Ilong-deseret</string>
-      <string>ilong-deseret</string>
-      <string>eng-deseret</string>
-      <string>oi-deseret</string>
-      <string>ew-deseret</string>
       <string>glyph33137</string>
       <string>glyph33138</string>
       <string>glyph33139</string>
@@ -49794,47 +49755,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>glyph49731</string>
       <string>glyph49732</string>
       <string>glyph49733</string>
-      <string>comma-han.vert.001</string>
-      <string>period-han.vert.001</string>
-      <string>dblanglebracketleft.vert.001</string>
-      <string>dblanglebracketright.vert.001</string>
-      <string>cornerbracketleft.vert.001</string>
-      <string>cornerbracketright.vert.001</string>
-      <string>whitecornerbracketleft.vert.001</string>
-      <string>whitecornerbracketright.vert.001</string>
-      <string>blacklenticularbracketleft.vert.001</string>
-      <string>blacklenticularbracketright.vert.001</string>
-      <string>getamark.vert</string>
-      <string>tortoiseshellbracketleft.vert.001</string>
-      <string>tortoiseshellbracketright.vert.001</string>
-      <string>whitelenticularbracketleft.vert.001</string>
-      <string>whitelenticularbracketright.vert.001</string>
-      <string>quotedoubleprimeReversed.vert</string>
-      <string>lowquotedoubleprime.vert</string>
-      <string>dot-kata.vert</string>
-      <string>prolonged-kana.vert</string>
-      <string>exclam.full.vert</string>
-      <string>parenleft.full.vert.001</string>
-      <string>parenright.full.vert.001</string>
-      <string>comma.full.vert.001</string>
-      <string>hyphen.full.vert</string>
-      <string>period.full.vert</string>
-      <string>colon.full.vert</string>
-      <string>semicolon.full.vert</string>
-      <string>equal.full.vert</string>
-      <string>question.full.vert</string>
-      <string>bracketleft.full.vert</string>
-      <string>bracketright.full.vert</string>
-      <string>underscore.full.vert.001</string>
-      <string>braceleft.full.vert.001</string>
-      <string>bar.full.vert</string>
-      <string>braceright.full.vert.001</string>
-      <string>asciitilde.full.vert</string>
-      <string>macron.full.vert</string>
-      <string>whitetortoiseshellbracketleft.vert</string>
-      <string>whitetortoiseshellbracketright.vert</string>
-      <string>wavedash.vert</string>
-      <string>dblhyphen-kana.vert</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
@@ -49858,8 +49778,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uni3390</string>
       <key>I.full</key>
       <string>uniFF29</string>
-      <key>Ilong-deseret</key>
-      <string>u10400</string>
       <key>J.full</key>
       <string>uniFF2A</string>
       <key>K.full</key>
@@ -50146,8 +50064,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniBC17</string>
       <key>bah-ko</key>
       <string>uniBC2F</string>
-      <key>baht</key>
-      <string>uni0E3F</string>
       <key>baj-ko</key>
       <string>uniBC2A</string>
       <key>bak-ko</key>
@@ -55346,8 +55262,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniB3D3</string>
       <key>dollar.full</key>
       <string>uniFF04</string>
-      <key>dollarsmall</key>
-      <string>uniFE69</string>
       <key>dolm-ko</key>
       <string>uniB3CE</string>
       <key>dolp-ko</key>
@@ -56180,8 +56094,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniC5D4</string>
       <key>eng-bopomofo</key>
       <string>uni3125</string>
-      <key>eng-deseret</key>
-      <string>u1044D</string>
       <key>eng-ko</key>
       <string>uniC5E5</string>
       <key>enh-ko</key>
@@ -56324,8 +56236,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniC750</string>
       <key>eut-ko</key>
       <string>uniC755</string>
-      <key>ew-deseret</key>
-      <string>u1044F</string>
       <key>exclam.full</key>
       <string>uniFF01</string>
       <key>exclamsmall</key>
@@ -60030,8 +59940,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniC783</string>
       <key>ilm-ko</key>
       <string>uniC77E</string>
-      <key>ilong-deseret</key>
-      <string>u10428</string>
       <key>ilp-ko</key>
       <string>uniC782</string>
       <key>ils-ko</key>
@@ -66370,8 +66278,6 @@ ENDF[ ]	/* EndFunctionDefinition */</string>
       <string>uniC627</string>
       <key>oh-ko</key>
       <string>uniC63F</string>
-      <key>oi-deseret</key>
-      <string>u1044E</string>
       <key>oj-ko</key>
       <string>uniC63A</string>
       <key>ok-ko</key>
