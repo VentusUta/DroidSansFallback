@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jeuk-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="C9A0"/>
+  <note>
+uniC9A0
+</note>
+  <outline>
+    <component base="glyph49069"/>
+    <component base="glyph48360"/>
+    <component base="glyph48091"/>
+  </outline>
+</glyph>

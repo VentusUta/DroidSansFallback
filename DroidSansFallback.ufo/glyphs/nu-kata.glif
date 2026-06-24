@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nu-kata" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30CC"/>
+  <note>
+uni30CC
+</note>
+  <outline>
+    <contour>
+      <point x="206" y="52"/>
+      <point x="167" y="79" type="qcurve"/>
+      <point x="189" y="112"/>
+      <point x="205" y="160" type="qcurve"/>
+      <point x="211" y="163"/>
+      <point x="211" y="168" type="qcurve" smooth="yes"/>
+      <point x="211" y="171"/>
+      <point x="192" y="188" type="qcurve"/>
+      <point x="185" y="183" type="line"/>
+      <point x="51" y="182" type="line"/>
+      <point x="51" y="158" type="line"/>
+      <point x="180" y="161" type="line"/>
+      <point x="181" y="160" type="line"/>
+      <point x="169" y="128"/>
+      <point x="147" y="93" type="qcurve"/>
+      <point x="77" y="132" type="line"/>
+      <point x="65" y="112" type="line"/>
+      <point x="100" y="96"/>
+      <point x="133" y="74" type="qcurve"/>
+      <point x="95" y="27"/>
+      <point x="32" y="4" type="qcurve"/>
+      <point x="48" y="-17" type="line"/>
+      <point x="114" y="12"/>
+      <point x="153" y="60" type="qcurve"/>
+      <point x="186" y="36"/>
+      <point x="215" y="8" type="qcurve"/>
+      <point x="232" y="26" type="line"/>
+    </contour>
+  </outline>
+</glyph>

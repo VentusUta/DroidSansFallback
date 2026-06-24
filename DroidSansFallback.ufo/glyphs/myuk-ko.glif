@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="myuk-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BBBC"/>
+  <note>
+uniBBBC
+</note>
+  <outline>
+    <component base="glyph48708"/>
+    <component base="glyph48355"/>
+    <component base="glyph48091"/>
+  </outline>
+</glyph>

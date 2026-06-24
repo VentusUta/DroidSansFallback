@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="overlinedblwavy" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="FE4C"/>
+  <note>
+uniFE4C
+</note>
+  <outline>
+    <contour>
+      <point x="256" y="172" type="line"/>
+      <point x="246" y="172"/>
+      <point x="206" y="208"/>
+      <point x="178" y="208"/>
+      <point x="137" y="172"/>
+      <point x="128" y="172" type="qcurve" smooth="yes"/>
+      <point x="118" y="172"/>
+      <point x="78" y="208"/>
+      <point x="50" y="208"/>
+      <point x="9" y="172"/>
+      <point x="0" y="172" type="qcurve"/>
+      <point x="0" y="161" type="line"/>
+      <point x="14" y="161"/>
+      <point x="55" y="196"/>
+      <point x="73" y="196"/>
+      <point x="114" y="161"/>
+      <point x="142" y="161"/>
+      <point x="183" y="196"/>
+      <point x="201" y="196"/>
+      <point x="242" y="161"/>
+      <point x="256" y="161" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

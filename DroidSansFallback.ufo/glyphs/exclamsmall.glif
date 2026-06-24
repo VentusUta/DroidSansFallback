@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamsmall" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FE57"/>
+  <note>
+uniFE57
+</note>
+  <outline>
+    <contour>
+      <point x="72" y="110" type="line"/>
+      <point x="56" y="110" type="line"/>
+      <point x="59" y="31" type="line"/>
+      <point x="68" y="31" type="line"/>
+    </contour>
+    <contour>
+      <point x="74" y="19"/>
+      <point x="54" y="19"/>
+      <point x="54" y="8" type="qcurve" smooth="yes"/>
+      <point x="54" y="-2"/>
+      <point x="74" y="-2"/>
+      <point x="74" y="8" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

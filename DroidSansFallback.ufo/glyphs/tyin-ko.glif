@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tyin-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="D2D8"/>
+  <note>
+uniD2D8
+</note>
+  <outline>
+    <component base="glyph49275"/>
+    <component base="glyph48663"/>
+    <component base="glyph48515"/>
+  </outline>
+</glyph>

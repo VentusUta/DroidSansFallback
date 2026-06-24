@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yaeJung-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="1164"/>
+  <unicode hex="3152"/>
+  <note>
+uni1164
+</note>
+  <outline>
+    <contour>
+      <point x="90" y="-2" type="line"/>
+      <point x="110" y="-2" type="line"/>
+      <point x="110" y="60" type="line"/>
+      <point x="152" y="60" type="line"/>
+      <point x="152" y="-15" type="line"/>
+      <point x="172" y="-15" type="line"/>
+      <point x="172" y="200" type="line"/>
+      <point x="152" y="200" type="line"/>
+      <point x="152" y="143" type="line"/>
+      <point x="110" y="143" type="line"/>
+      <point x="110" y="196" type="line"/>
+      <point x="90" y="196" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="124" type="line"/>
+      <point x="152" y="124" type="line"/>
+      <point x="152" y="79" type="line"/>
+      <point x="110" y="79" type="line"/>
+    </contour>
+  </outline>
+</glyph>

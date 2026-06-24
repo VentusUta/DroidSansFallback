@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wi-kata" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30F0"/>
+  <note>
+uni30F0
+</note>
+  <outline>
+    <contour>
+      <point x="236" y="61" type="line"/>
+      <point x="183" y="61" type="line"/>
+      <point x="183" y="137" type="line"/>
+      <point x="228" y="137" type="line"/>
+      <point x="228" y="161" type="line"/>
+      <point x="183" y="161" type="line"/>
+      <point x="183" y="199" type="line"/>
+      <point x="159" y="199" type="line"/>
+      <point x="159" y="161" type="line"/>
+      <point x="31" y="161" type="line"/>
+      <point x="31" y="137" type="line"/>
+      <point x="73" y="137" type="line"/>
+      <point x="73" y="61" type="line"/>
+      <point x="20" y="61" type="line"/>
+      <point x="20" y="38" type="line"/>
+      <point x="159" y="38" type="line"/>
+      <point x="159" y="-16" type="line"/>
+      <point x="183" y="-16" type="line"/>
+      <point x="183" y="38" type="line"/>
+      <point x="236" y="38" type="line"/>
+    </contour>
+    <contour>
+      <point x="97" y="61" type="line"/>
+      <point x="97" y="137" type="line"/>
+      <point x="159" y="137" type="line"/>
+      <point x="159" y="61" type="line"/>
+    </contour>
+  </outline>
+</glyph>

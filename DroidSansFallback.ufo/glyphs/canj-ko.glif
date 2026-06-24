@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="canj-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="CC2D"/>
+  <note>
+uniCC2D
+</note>
+  <outline>
+    <component base="glyph49129"/>
+    <component base="glyph47491"/>
+    <component base="glyph47964"/>
+  </outline>
+</glyph>

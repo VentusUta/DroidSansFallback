@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="na-kata" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30CA"/>
+  <note>
+uni30CA
+</note>
+  <outline>
+    <contour>
+      <point x="234" y="145" type="line"/>
+      <point x="141" y="145" type="line"/>
+      <point x="140" y="198" type="line"/>
+      <point x="116" y="198" type="line"/>
+      <point x="117" y="145" type="line"/>
+      <point x="22" y="145" type="line"/>
+      <point x="22" y="122" type="line"/>
+      <point x="118" y="122" type="line"/>
+      <point x="119" y="99" type="line" smooth="yes"/>
+      <point x="119" y="58"/>
+      <point x="88" y="20"/>
+      <point x="40" y="9" type="qcurve"/>
+      <point x="53" y="-14" type="line"/>
+      <point x="105" y="2"/>
+      <point x="142" y="49"/>
+      <point x="142" y="122" type="qcurve"/>
+      <point x="234" y="122" type="line"/>
+    </contour>
+  </outline>
+</glyph>

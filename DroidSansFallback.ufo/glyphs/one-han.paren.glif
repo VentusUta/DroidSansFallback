@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one-han.paren" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3220"/>
+  <note>
+uni3220
+</note>
+  <outline>
+    <contour>
+      <point x="252" y="37"/>
+      <point x="252" y="92" type="qcurve" smooth="yes"/>
+      <point x="252" y="145"/>
+      <point x="229" y="204" type="qcurve"/>
+      <point x="213" y="199" type="line"/>
+      <point x="235" y="143"/>
+      <point x="235" y="92" type="qcurve" smooth="yes"/>
+      <point x="235" y="40"/>
+      <point x="213" y="-16" type="qcurve"/>
+      <point x="229" y="-20" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="-16" type="line"/>
+      <point x="21" y="32"/>
+      <point x="21" y="92" type="qcurve" smooth="yes"/>
+      <point x="21" y="153"/>
+      <point x="43" y="199" type="qcurve"/>
+      <point x="29" y="204" type="line"/>
+      <point x="4" y="155"/>
+      <point x="4" y="29"/>
+      <point x="29" y="-20" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="39" y="92" type="line"/>
+      <point x="211" y="92" type="line"/>
+      <point x="211" y="113" type="line"/>
+      <point x="39" y="113" type="line"/>
+    </contour>
+  </outline>
+</glyph>

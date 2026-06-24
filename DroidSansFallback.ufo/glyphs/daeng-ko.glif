@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daeng-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="B315"/>
+  <note>
+uniB315
+</note>
+  <outline>
+    <component base="glyph48261"/>
+    <component base="glyph47549"/>
+    <component base="glyph48009"/>
+  </outline>
+</glyph>

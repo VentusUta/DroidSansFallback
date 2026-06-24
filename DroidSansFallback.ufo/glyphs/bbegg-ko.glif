@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bbegg-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BEEE"/>
+  <note>
+uniBEEE
+</note>
+  <outline>
+    <component base="glyph48765"/>
+    <component base="glyph48792"/>
+    <component base="glyph47990"/>
+  </outline>
+</glyph>

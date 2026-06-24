@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ssid-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="C52F"/>
+  <note>
+uniC52F
+</note>
+  <outline>
+    <component base="glyph48963"/>
+    <component base="glyph47842"/>
+    <component base="glyph48030"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hwals-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="D660"/>
+  <note>
+uniD660
+</note>
+  <outline>
+    <component base="glyph49408"/>
+    <component base="glyph49409"/>
+    <component base="glyph49416"/>
+  </outline>
+</glyph>

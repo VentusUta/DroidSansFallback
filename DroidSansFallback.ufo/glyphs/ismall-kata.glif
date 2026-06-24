@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ismall-kata" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30A3"/>
+  <note>
+uni30A3
+</note>
+  <outline>
+    <contour>
+      <point x="175" y="158" type="line"/>
+      <point x="124" y="103"/>
+      <point x="39" y="61" type="qcurve"/>
+      <point x="54" y="43" type="line"/>
+      <point x="118" y="80" type="line"/>
+      <point x="118" y="-15" type="line"/>
+      <point x="142" y="-15" type="line"/>
+      <point x="142" y="97" type="line"/>
+      <point x="172" y="120"/>
+      <point x="193" y="143" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

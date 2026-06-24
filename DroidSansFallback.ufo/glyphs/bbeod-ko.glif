@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bbeod-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BED7"/>
+  <note>
+uniBED7
+</note>
+  <outline>
+    <component base="glyph48784"/>
+    <component base="glyph48785"/>
+    <component base="glyph48030"/>
+  </outline>
+</glyph>

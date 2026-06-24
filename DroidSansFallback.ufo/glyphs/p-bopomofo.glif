@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p-bopomofo" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3106"/>
+  <note>
+uni3106
+</note>
+  <outline>
+    <contour>
+      <point x="165" y="50" type="line"/>
+      <point x="198" y="89"/>
+      <point x="213" y="132" type="qcurve"/>
+      <point x="200" y="149" type="line"/>
+      <point x="66" y="149" type="line"/>
+      <point x="98" y="186" type="line"/>
+      <point x="79" y="199" type="line"/>
+      <point x="38" y="150" type="line"/>
+      <point x="48" y="127" type="line"/>
+      <point x="186" y="127" type="line"/>
+      <point x="171" y="90"/>
+      <point x="147" y="63" type="qcurve"/>
+      <point x="107" y="89"/>
+      <point x="62" y="109" type="qcurve"/>
+      <point x="51" y="89" type="line"/>
+      <point x="128" y="49" type="line"/>
+      <point x="91" y="21"/>
+      <point x="35" y="13" type="qcurve"/>
+      <point x="43" y="-9" type="line"/>
+      <point x="105" y="1"/>
+      <point x="149" y="35" type="qcurve"/>
+      <point x="203" y="-11" type="line"/>
+      <point x="221" y="6" type="line"/>
+    </contour>
+  </outline>
+</glyph>

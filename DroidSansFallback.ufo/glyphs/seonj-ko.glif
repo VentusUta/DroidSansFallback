@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seonj-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="C121"/>
+  <note>
+uniC121
+</note>
+  <outline>
+    <component base="glyph48910"/>
+    <component base="glyph48266"/>
+    <component base="glyph48026"/>
+  </outline>
+</glyph>

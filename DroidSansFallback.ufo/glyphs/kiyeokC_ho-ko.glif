@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kiyeokCho-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="1100"/>
+  <unicode hex="11A8"/>
+  <unicode hex="3131"/>
+  <note>
+uni11A8
+</note>
+  <outline>
+    <contour>
+      <point x="43" y="136" type="line"/>
+      <point x="185" y="136" type="line"/>
+      <point x="185" y="27" type="line"/>
+      <point x="205" y="27" type="line"/>
+      <point x="205" y="155" type="line"/>
+      <point x="43" y="155" type="line"/>
+    </contour>
+  </outline>
+</glyph>

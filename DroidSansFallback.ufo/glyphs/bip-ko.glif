@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bip-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BE5E"/>
+  <note>
+uniBE5E
+</note>
+  <outline>
+    <component base="glyph48720"/>
+    <component base="glyph47839"/>
+    <component base="glyph48048"/>
+  </outline>
+</glyph>

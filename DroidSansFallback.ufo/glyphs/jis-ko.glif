@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jis-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="C9D3"/>
+  <note>
+uniC9D3
+</note>
+  <outline>
+    <component base="glyph49059"/>
+    <component base="glyph47843"/>
+    <component base="glyph47598"/>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="do-kata" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30C9"/>
+  <note>
+uni30C9
+</note>
+  <outline>
+    <contour>
+      <point x="176" y="113"/>
+      <point x="110" y="126" type="qcurve"/>
+      <point x="110" y="199" type="line"/>
+      <point x="85" y="199" type="line"/>
+      <point x="85" y="-15" type="line"/>
+      <point x="110" y="-15" type="line"/>
+      <point x="110" y="102" type="line"/>
+      <point x="162" y="91"/>
+      <point x="214" y="72" type="qcurve"/>
+      <point x="224" y="93" type="line"/>
+    </contour>
+    <contour>
+      <point x="217" y="174"/>
+      <point x="197" y="192" type="qcurve"/>
+      <point x="184" y="182" type="line"/>
+      <point x="203" y="164"/>
+      <point x="212" y="146" type="qcurve"/>
+      <point x="225" y="156" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="160"/>
+      <point x="175" y="177" type="qcurve"/>
+      <point x="162" y="167" type="line"/>
+      <point x="181" y="150"/>
+      <point x="190" y="132" type="qcurve"/>
+      <point x="204" y="142" type="line"/>
+    </contour>
+  </outline>
+</glyph>

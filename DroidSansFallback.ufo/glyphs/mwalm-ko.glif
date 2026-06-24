@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mwalm-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BACE"/>
+  <note>
+uniBACE
+</note>
+  <outline>
+    <component base="glyph48702"/>
+    <component base="glyph48300"/>
+    <component base="glyph48111"/>
+  </outline>
+</glyph>

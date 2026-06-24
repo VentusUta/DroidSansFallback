@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tikeutCho-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="1103"/>
+  <unicode hex="11AE"/>
+  <unicode hex="3137"/>
+  <note>
+uni11AE
+</note>
+  <outline>
+    <contour>
+      <point x="45" y="155" type="line"/>
+      <point x="45" y="29" type="line"/>
+      <point x="203" y="29" type="line"/>
+      <point x="203" y="48" type="line"/>
+      <point x="65" y="48" type="line"/>
+      <point x="65" y="136" type="line"/>
+      <point x="198" y="136" type="line"/>
+      <point x="198" y="155" type="line"/>
+    </contour>
+  </outline>
+</glyph>

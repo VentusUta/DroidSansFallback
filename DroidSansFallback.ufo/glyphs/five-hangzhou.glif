@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five-hangzhou" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3025"/>
+  <note>
+uni3025
+</note>
+  <outline>
+    <contour>
+      <point x="176" y="185" type="line"/>
+      <point x="165" y="148"/>
+      <point x="126" y="123" type="qcurve"/>
+      <point x="101" y="137"/>
+      <point x="101" y="145" type="qcurve" smooth="yes"/>
+      <point x="101" y="151"/>
+      <point x="116" y="160" type="qcurve"/>
+      <point x="103" y="175" type="line"/>
+      <point x="78" y="161"/>
+      <point x="78" y="145" type="qcurve" smooth="yes"/>
+      <point x="78" y="125"/>
+      <point x="106" y="111" type="qcurve"/>
+      <point x="59" y="81"/>
+      <point x="59" y="52" type="qcurve" smooth="yes"/>
+      <point x="59" y="29"/>
+      <point x="93" y="-3"/>
+      <point x="145" y="-3"/>
+      <point x="182" y="32"/>
+      <point x="182" y="56" type="qcurve" smooth="yes"/>
+      <point x="182" y="90"/>
+      <point x="145" y="112" type="qcurve"/>
+      <point x="183" y="138"/>
+      <point x="196" y="178" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="159" y="83"/>
+      <point x="159" y="57" type="qcurve" smooth="yes"/>
+      <point x="159" y="17"/>
+      <point x="119" y="17" type="qcurve" smooth="yes"/>
+      <point x="82" y="17"/>
+      <point x="82" y="51" type="qcurve" smooth="yes"/>
+      <point x="82" y="76"/>
+      <point x="126" y="100" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

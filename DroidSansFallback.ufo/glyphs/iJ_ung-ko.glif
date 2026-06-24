@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iJung-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="1175"/>
+  <unicode hex="3163"/>
+  <note>
+uni1175
+</note>
+  <outline>
+    <contour>
+      <point x="118" y="-15" type="line"/>
+      <point x="138" y="-15" type="line"/>
+      <point x="138" y="200" type="line"/>
+      <point x="118" y="200" type="line"/>
+    </contour>
+  </outline>
+</glyph>

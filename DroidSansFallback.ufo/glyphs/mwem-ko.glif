@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mwem-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BB7C"/>
+  <note>
+uniBB7C
+</note>
+  <outline>
+    <component base="glyph48716"/>
+    <component base="glyph48341"/>
+    <component base="glyph48181"/>
+  </outline>
+</glyph>

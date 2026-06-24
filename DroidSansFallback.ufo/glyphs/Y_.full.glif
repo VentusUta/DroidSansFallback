@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y.full" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="FF39"/>
+  <note>
+uniFF39
+</note>
+  <outline>
+    <contour>
+      <point x="77" y="183" type="line"/>
+      <point x="50" y="183" type="line"/>
+      <point x="116" y="70" type="line"/>
+      <point x="116" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="71" type="line"/>
+      <point x="206" y="183" type="line"/>
+      <point x="179" y="183" type="line"/>
+      <point x="128" y="90" type="line"/>
+    </contour>
+  </outline>
+</glyph>

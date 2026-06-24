@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boes-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BD5B"/>
+  <note>
+uniBD5B
+</note>
+  <outline>
+    <component base="glyph48737"/>
+    <component base="glyph48315"/>
+    <component base="glyph48121"/>
+  </outline>
+</glyph>

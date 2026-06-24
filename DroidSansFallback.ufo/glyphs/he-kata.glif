@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="he-kata" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30D8"/>
+  <note>
+uni30D8
+</note>
+  <outline>
+    <contour>
+      <point x="129" y="142" type="line" smooth="yes"/>
+      <point x="111" y="161"/>
+      <point x="101" y="161" type="qcurve" smooth="yes"/>
+      <point x="93" y="161"/>
+      <point x="87" y="154" type="qcurve" smooth="yes"/>
+      <point x="16" y="74" type="line"/>
+      <point x="36" y="56" type="line"/>
+      <point x="94" y="127" type="line" smooth="yes"/>
+      <point x="101" y="136"/>
+      <point x="103" y="136" type="qcurve"/>
+      <point x="224" y="7" type="line"/>
+      <point x="240" y="27" type="line"/>
+    </contour>
+  </outline>
+</glyph>

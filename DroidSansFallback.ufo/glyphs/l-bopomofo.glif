@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l-bopomofo" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="310C"/>
+  <note>
+uni310C
+</note>
+  <outline>
+    <contour>
+      <point x="151" y="138" type="line"/>
+      <point x="162" y="186" type="line"/>
+      <point x="140" y="190" type="line"/>
+      <point x="128" y="138" type="line"/>
+      <point x="63" y="138" type="line"/>
+      <point x="99" y="181" type="line"/>
+      <point x="81" y="195" type="line"/>
+      <point x="58" y="164"/>
+      <point x="31" y="137" type="qcurve"/>
+      <point x="43" y="117" type="line"/>
+      <point x="122" y="117" type="line"/>
+      <point x="95" y="40"/>
+      <point x="34" y="12" type="qcurve"/>
+      <point x="45" y="-6" type="line"/>
+      <point x="115" y="24"/>
+      <point x="145" y="117" type="qcurve"/>
+      <point x="202" y="117" type="line"/>
+      <point x="201" y="42"/>
+      <point x="188" y="13"/>
+      <point x="172" y="13" type="qcurve" smooth="yes"/>
+      <point x="159" y="13"/>
+      <point x="130" y="22" type="qcurve"/>
+      <point x="130" y="-3" type="line"/>
+      <point x="155" y="-9"/>
+      <point x="176" y="-9" type="qcurve" smooth="yes"/>
+      <point x="204" y="-9"/>
+      <point x="225" y="35"/>
+      <point x="225" y="138" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mwak-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BADC"/>
+  <note>
+uniBADC
+</note>
+  <outline>
+    <component base="glyph48700"/>
+    <component base="glyph48296"/>
+    <component base="glyph48126"/>
+  </outline>
+</glyph>

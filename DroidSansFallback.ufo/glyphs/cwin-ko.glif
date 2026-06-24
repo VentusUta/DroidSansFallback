@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cwin-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="CDEC"/>
+  <note>
+uniCDEC
+</note>
+  <outline>
+    <component base="glyph49176"/>
+    <component base="glyph48623"/>
+    <component base="glyph48624"/>
+  </outline>
+</glyph>

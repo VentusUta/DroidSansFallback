@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bbyalt-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BEA5"/>
+  <note>
+uniBEA5
+</note>
+  <outline>
+    <component base="glyph48761"/>
+    <component base="glyph48775"/>
+    <component base="glyph47973"/>
+  </outline>
+</glyph>

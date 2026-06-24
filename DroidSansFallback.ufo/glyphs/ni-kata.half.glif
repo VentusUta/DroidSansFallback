@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ni-kata.half" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FF86"/>
+  <note>
+uniFF86
+</note>
+  <outline>
+    <contour>
+      <point x="109" y="167" type="line"/>
+      <point x="18" y="167" type="line"/>
+      <point x="18" y="146" type="line"/>
+      <point x="109" y="146" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="22" type="line"/>
+      <point x="9" y="22" type="line"/>
+      <point x="9" y="0" type="line"/>
+      <point x="119" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

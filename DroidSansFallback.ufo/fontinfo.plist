@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>196</integer>
+    <key>capHeight</key>
+    <integer>183</integer>
+    <key>copyright</key>
+    <string>Digitized data copyright Google Corporation © 2006</string>
+    <key>descender</key>
+    <integer>-61</integer>
+    <key>familyName</key>
+    <string>Droid Sans Fallback</string>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2007/10/26 10:56:39</string>
+    <key>openTypeHheaAscender</key>
+    <integer>267</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-68</integer>
+    <key>openTypeNameDescription</key>
+    <string>Droid Sans is a humanist sans serif typeface designed for user interfaces and electronic communications.</string>
+    <key>openTypeNameDesigner</key>
+    <string>Steve Matteson</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>http://www.ascendercorp.com/typedesigners.html</string>
+    <key>openTypeNameLicense</key>
+    <string>Licensed under the Apache License, Version 2.0</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://www.apache.org/licenses/LICENSE-2.0</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Ascender Corporation</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>http://www.ascendercorp.com/</string>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>Regular</string>
+    <key>openTypeOS2StrikeoutPosition</key>
+    <integer>62</integer>
+    <key>openTypeOS2StrikeoutSize</key>
+    <integer>13</integer>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>196</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-61</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>16</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>267</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>68</integer>
+    <key>postscriptFontName</key>
+    <string>DroidSansFallback</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>trademark</key>
+    <string>Droid is a trademark of Google and may be registered in certain jurisdictions.</string>
+    <key>unitsPerEm</key>
+    <integer>256</integer>
+    <key>versionMajor</key>
+    <integer>3</integer>
+    <key>versionMinor</key>
+    <integer>3</integer>
+    <key>xHeight</key>
+    <integer>137</integer>
+  </dict>
+</plist>

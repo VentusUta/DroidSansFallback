@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mwalh-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BAD3"/>
+  <note>
+uniBAD3
+</note>
+  <outline>
+    <component base="glyph48702"/>
+    <component base="glyph48300"/>
+    <component base="glyph48116"/>
+  </outline>
+</glyph>

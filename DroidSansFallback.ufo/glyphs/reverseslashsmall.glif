@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reverseslashsmall" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FE68"/>
+  <note>
+uniFE68
+</note>
+  <outline>
+    <contour>
+      <point x="37" y="110" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="50" y="110" type="line"/>
+    </contour>
+  </outline>
+</glyph>

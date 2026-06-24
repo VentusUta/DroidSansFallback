@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="byeogs-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BCBF"/>
+  <note>
+uniBCBF
+</note>
+  <outline>
+    <component base="glyph48729"/>
+    <component base="glyph48687"/>
+    <component base="glyph48023"/>
+  </outline>
+</glyph>

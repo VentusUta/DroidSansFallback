@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pieupSiosCho-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="1121"/>
+  <unicode hex="11B9"/>
+  <unicode hex="3144"/>
+  <note>
+uni11B9
+</note>
+  <outline>
+    <contour>
+      <point x="192" y="49"/>
+      <point x="225" y="28" type="qcurve"/>
+      <point x="238" y="44" type="line"/>
+      <point x="195" y="66"/>
+      <point x="195" y="125" type="qcurve" smooth="yes"/>
+      <point x="195" y="158" type="line"/>
+      <point x="175" y="158" type="line"/>
+      <point x="175" y="125" type="line"/>
+      <point x="170" y="67"/>
+      <point x="128" y="42" type="qcurve"/>
+      <point x="140" y="26" type="line"/>
+      <point x="174" y="50"/>
+      <point x="184" y="87" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="38" y="28" type="line"/>
+      <point x="58" y="28" type="line"/>
+      <point x="58" y="33" type="line"/>
+      <point x="107" y="33" type="line"/>
+      <point x="107" y="28" type="line"/>
+      <point x="127" y="28" type="line"/>
+      <point x="127" y="153" type="line"/>
+      <point x="107" y="153" type="line"/>
+      <point x="107" y="115" type="line"/>
+      <point x="58" y="115" type="line"/>
+      <point x="58" y="153" type="line"/>
+      <point x="38" y="153" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="96" type="line"/>
+      <point x="107" y="96" type="line"/>
+      <point x="107" y="52" type="line"/>
+      <point x="58" y="52" type="line"/>
+    </contour>
+  </outline>
+</glyph>

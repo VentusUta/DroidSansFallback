@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bbuls-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BFD8"/>
+  <note>
+uniBFD8
+</note>
+  <outline>
+    <component base="glyph48848"/>
+    <component base="glyph48849"/>
+    <component base="glyph48081"/>
+  </outline>
+</glyph>

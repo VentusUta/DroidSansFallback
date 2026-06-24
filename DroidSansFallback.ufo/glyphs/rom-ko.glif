@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rom-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="B86C"/>
+  <note>
+uniB86C
+</note>
+  <outline>
+    <component base="glyph48499"/>
+    <component base="glyph48500"/>
+    <component base="glyph48085"/>
+  </outline>
+</glyph>

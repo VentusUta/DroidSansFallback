@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yuYeJung-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="1192"/>
+  <unicode hex="318B"/>
+  <note>
+uni1192
+</note>
+  <outline>
+    <contour>
+      <point x="192" y="-15" type="line"/>
+      <point x="212" y="-15" type="line"/>
+      <point x="212" y="200" type="line"/>
+      <point x="192" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="152" y="110" type="line"/>
+      <point x="123" y="110" type="line"/>
+      <point x="123" y="91" type="line"/>
+      <point x="152" y="91" type="line"/>
+      <point x="152" y="70" type="line"/>
+      <point x="123" y="70" type="line"/>
+      <point x="123" y="51" type="line"/>
+      <point x="152" y="51" type="line"/>
+      <point x="152" y="-2" type="line"/>
+      <point x="172" y="-2" type="line"/>
+      <point x="172" y="196" type="line"/>
+      <point x="152" y="196" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="19" type="line"/>
+      <point x="75" y="19" type="line"/>
+      <point x="75" y="119" type="line"/>
+      <point x="95" y="120" type="line"/>
+      <point x="95" y="18" type="line"/>
+      <point x="114" y="18" type="line"/>
+      <point x="114" y="121" type="line"/>
+      <point x="138" y="122" type="line"/>
+      <point x="138" y="141" type="line"/>
+      <point x="19" y="135" type="line"/>
+      <point x="22" y="116" type="line"/>
+      <point x="55" y="118" type="line"/>
+    </contour>
+  </outline>
+</glyph>

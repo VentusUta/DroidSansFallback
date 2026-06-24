@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tusmall-kata" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30C3"/>
+  <note>
+uni30C3
+</note>
+  <outline>
+    <contour>
+      <point x="135" y="113"/>
+      <point x="113" y="148" type="qcurve"/>
+      <point x="93" y="136" type="line"/>
+      <point x="111" y="108"/>
+      <point x="123" y="78" type="qcurve"/>
+      <point x="144" y="89" type="line"/>
+    </contour>
+    <contour>
+      <point x="187" y="144" type="line"/>
+      <point x="178" y="81" type="line"/>
+      <point x="164" y="23"/>
+      <point x="80" y="6" type="qcurve"/>
+      <point x="91" y="-17" type="line"/>
+      <point x="139" y="-4"/>
+      <point x="185" y="30"/>
+      <point x="206" y="77"/>
+      <point x="212" y="140" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="80" y="109"/>
+      <point x="64" y="129" type="qcurve"/>
+      <point x="44" y="119" type="line"/>
+      <point x="62" y="93"/>
+      <point x="74" y="61" type="qcurve"/>
+      <point x="96" y="72" type="line"/>
+    </contour>
+  </outline>
+</glyph>

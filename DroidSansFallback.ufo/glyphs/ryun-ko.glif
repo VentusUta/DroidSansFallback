@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ryun-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="B95C"/>
+  <note>
+uniB95C
+</note>
+  <outline>
+    <component base="glyph48565"/>
+    <component base="glyph48652"/>
+    <component base="glyph48148"/>
+  </outline>
+</glyph>

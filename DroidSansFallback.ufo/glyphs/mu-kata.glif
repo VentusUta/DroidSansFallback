@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mu-kata" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30E0"/>
+  <note>
+uni30E0
+</note>
+  <outline>
+    <contour>
+      <point x="192" y="87"/>
+      <point x="171" y="119" type="qcurve"/>
+      <point x="150" y="106" type="line"/>
+      <point x="191" y="32" type="line"/>
+      <point x="73" y="22" type="line"/>
+      <point x="133" y="188" type="line"/>
+      <point x="108" y="197" type="line"/>
+      <point x="47" y="21" type="line"/>
+      <point x="20" y="20" type="line"/>
+      <point x="24" y="-5" type="line"/>
+      <point x="202" y="9" type="line"/>
+      <point x="214" y="-17" type="line"/>
+      <point x="236" y="-7" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="weJung-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="1170"/>
+  <unicode hex="315E"/>
+  <note>
+uni1170
+</note>
+  <outline>
+    <contour>
+      <point x="195" y="-15" type="line"/>
+      <point x="215" y="-15" type="line"/>
+      <point x="215" y="200" type="line"/>
+      <point x="195" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="100" type="line"/>
+      <point x="108" y="100" type="line"/>
+      <point x="108" y="81" type="line"/>
+      <point x="150" y="81" type="line"/>
+      <point x="150" y="-2" type="line"/>
+      <point x="170" y="-2" type="line"/>
+      <point x="170" y="196" type="line"/>
+      <point x="150" y="196" type="line"/>
+    </contour>
+    <contour>
+      <point x="73" y="21" type="line"/>
+      <point x="93" y="21" type="line"/>
+      <point x="93" y="122" type="line"/>
+      <point x="135" y="125" type="line"/>
+      <point x="135" y="144" type="line"/>
+      <point x="23" y="135" type="line"/>
+      <point x="26" y="117" type="line"/>
+      <point x="73" y="120" type="line"/>
+    </contour>
+  </outline>
+</glyph>

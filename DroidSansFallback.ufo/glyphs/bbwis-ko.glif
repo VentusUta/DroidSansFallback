@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bbwis-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="C033"/>
+  <note>
+uniC033
+</note>
+  <outline>
+    <component base="glyph48854"/>
+    <component base="glyph48876"/>
+    <component base="glyph48228"/>
+  </outline>
+</glyph>

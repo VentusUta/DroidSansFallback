@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodsmall" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FE52"/>
+  <note>
+uniFE52
+</note>
+  <outline>
+    <contour>
+      <point x="74" y="19"/>
+      <point x="54" y="19"/>
+      <point x="54" y="8" type="qcurve" smooth="yes"/>
+      <point x="54" y="-2"/>
+      <point x="74" y="-2"/>
+      <point x="74" y="8" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

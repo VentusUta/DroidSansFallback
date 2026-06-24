@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaSquare" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3384"/>
+  <note>
+uni3384
+</note>
+  <outline>
+    <contour>
+      <point x="59" y="78" type="line"/>
+      <point x="107" y="137" type="line"/>
+      <point x="80" y="137" type="line"/>
+      <point x="31" y="72" type="line"/>
+      <point x="32" y="105" type="line"/>
+      <point x="32" y="195" type="line"/>
+      <point x="10" y="195" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="32" y="53" type="line"/>
+      <point x="44" y="63" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="184" type="line"/>
+      <point x="171" y="184" type="line"/>
+      <point x="119" y="0" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="158" y="57" type="line"/>
+      <point x="207" y="57" type="line"/>
+      <point x="223" y="0" type="line"/>
+      <point x="246" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="163" y="77" type="line"/>
+      <point x="183" y="156" type="line"/>
+      <point x="202" y="77" type="line"/>
+    </contour>
+  </outline>
+</glyph>

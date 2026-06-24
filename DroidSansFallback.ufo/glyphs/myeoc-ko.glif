@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="myeoc-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BA87"/>
+  <note>
+uniBA87
+</note>
+  <outline>
+    <component base="glyph48677"/>
+    <component base="glyph48687"/>
+    <component base="glyph48045"/>
+  </outline>
+</glyph>

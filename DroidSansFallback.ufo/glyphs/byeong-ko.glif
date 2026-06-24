@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="byeong-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BCD1"/>
+  <note>
+uniBCD1
+</note>
+  <outline>
+    <component base="glyph48729"/>
+    <component base="glyph48043"/>
+    <component base="glyph48689"/>
+  </outline>
+</glyph>

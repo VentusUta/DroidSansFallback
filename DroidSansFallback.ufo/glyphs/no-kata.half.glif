@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="no-kata.half" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FF89"/>
+  <note>
+uniFF89
+</note>
+  <outline>
+    <contour>
+      <point x="89" y="191" type="line"/>
+      <point x="79" y="58"/>
+      <point x="16" y="3" type="qcurve"/>
+      <point x="34" y="-15" type="line"/>
+      <point x="100" y="49"/>
+      <point x="112" y="186" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

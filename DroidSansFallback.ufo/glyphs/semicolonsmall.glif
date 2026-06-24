@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolonsmall" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FE54"/>
+  <note>
+uniFE54
+</note>
+  <outline>
+    <contour>
+      <point x="74" y="85"/>
+      <point x="64" y="85" type="qcurve" smooth="yes"/>
+      <point x="55" y="85"/>
+      <point x="55" y="74" type="qcurve" smooth="yes"/>
+      <point x="55" y="64"/>
+      <point x="64" y="64" type="qcurve" smooth="yes"/>
+      <point x="74" y="64"/>
+      <point x="74" y="74" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="56" y="18" type="line"/>
+      <point x="49" y="-20" type="line"/>
+      <point x="59" y="-20" type="line"/>
+      <point x="72" y="16" type="line"/>
+      <point x="71" y="18" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mieumSiosJong-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="11DD"/>
+  <unicode hex="316F"/>
+  <note>
+uni316F
+</note>
+  <outline>
+    <contour>
+      <point x="181" y="49"/>
+      <point x="222" y="29" type="qcurve"/>
+      <point x="234" y="45" type="line"/>
+      <point x="183" y="66"/>
+      <point x="183" y="122" type="qcurve" smooth="yes"/>
+      <point x="183" y="158" type="line"/>
+      <point x="163" y="158" type="line"/>
+      <point x="163" y="123" type="line"/>
+      <point x="158" y="66"/>
+      <point x="118" y="42" type="qcurve"/>
+      <point x="131" y="26" type="line"/>
+      <point x="165" y="50"/>
+      <point x="174" y="85" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="27" y="154" type="line"/>
+      <point x="27" y="30" type="line"/>
+      <point x="47" y="30" type="line"/>
+      <point x="47" y="37" type="line"/>
+      <point x="95" y="37" type="line"/>
+      <point x="95" y="30" type="line"/>
+      <point x="115" y="30" type="line"/>
+      <point x="115" y="154" type="line"/>
+    </contour>
+    <contour>
+      <point x="47" y="135" type="line"/>
+      <point x="95" y="135" type="line"/>
+      <point x="95" y="56" type="line"/>
+      <point x="47" y="56" type="line"/>
+    </contour>
+  </outline>
+</glyph>

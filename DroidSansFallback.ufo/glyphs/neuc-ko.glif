@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="neuc-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="B2A7"/>
+  <note>
+uniB2A7
+</note>
+  <outline>
+    <component base="glyph48074"/>
+    <component base="glyph48248"/>
+    <component base="glyph48090"/>
+  </outline>
+</glyph>

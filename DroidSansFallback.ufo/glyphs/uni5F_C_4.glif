@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5FC4" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="5FC4"/>
+  <note>
+uni5FC4
+</note>
+  <outline>
+    <contour>
+      <point x="117" y="-23" type="line"/>
+      <point x="137" y="-23" type="line"/>
+      <point x="137" y="133" type="line"/>
+      <point x="170" y="92" type="line"/>
+      <point x="185" y="113" type="line"/>
+      <point x="137" y="158" type="line"/>
+      <point x="137" y="207" type="line"/>
+      <point x="117" y="207" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="122"/>
+      <point x="66" y="92" type="qcurve"/>
+      <point x="84" y="82" type="line"/>
+      <point x="102" y="113"/>
+      <point x="107" y="155" type="qcurve"/>
+      <point x="88" y="160" type="line"/>
+    </contour>
+  </outline>
+</glyph>

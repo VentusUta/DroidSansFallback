@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dyeog-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="B38D"/>
+  <note>
+uniB38D
+</note>
+  <outline>
+    <component base="glyph48265"/>
+    <component base="glyph48275"/>
+    <component base="glyph48021"/>
+  </outline>
+</glyph>

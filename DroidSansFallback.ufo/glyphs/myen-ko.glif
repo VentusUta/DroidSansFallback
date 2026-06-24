@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="myen-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BA90"/>
+  <note>
+uniBA90
+</note>
+  <outline>
+    <component base="glyph48672"/>
+    <component base="glyph48692"/>
+    <component base="glyph47993"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bung-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BD95"/>
+  <note>
+uniBD95
+</note>
+  <outline>
+    <component base="glyph48745"/>
+    <component base="glyph48323"/>
+    <component base="glyph47731"/>
+  </outline>
+</glyph>

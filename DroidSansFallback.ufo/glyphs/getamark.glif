@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="getamark" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3013"/>
+  <note>
+uni3013
+</note>
+  <outline>
+    <contour>
+      <point x="204" y="168" type="line"/>
+      <point x="51" y="168" type="line"/>
+      <point x="51" y="117" type="line"/>
+      <point x="204" y="117" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="68" type="line"/>
+      <point x="51" y="68" type="line"/>
+      <point x="51" y="17" type="line"/>
+      <point x="204" y="17" type="line"/>
+    </contour>
+  </outline>
+</glyph>

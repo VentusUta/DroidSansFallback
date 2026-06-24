@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mu-kata.half" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FF91"/>
+  <note>
+uniFF91
+</note>
+  <outline>
+    <contour>
+      <point x="88" y="116" type="line"/>
+      <point x="69" y="105" type="line"/>
+      <point x="91" y="30" type="line"/>
+      <point x="37" y="22" type="line"/>
+      <point x="70" y="187" type="line"/>
+      <point x="48" y="196" type="line"/>
+      <point x="15" y="19" type="line"/>
+      <point x="4" y="19" type="line"/>
+      <point x="6" y="-4" type="line"/>
+      <point x="97" y="9" type="line"/>
+      <point x="103" y="-16" type="line"/>
+      <point x="123" y="-7" type="line"/>
+    </contour>
+  </outline>
+</glyph>

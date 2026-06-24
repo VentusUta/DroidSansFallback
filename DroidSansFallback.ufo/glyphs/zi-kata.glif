@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zi-kata" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30B8"/>
+  <note>
+uni30B8
+</note>
+  <outline>
+    <contour>
+      <point x="235" y="197"/>
+      <point x="214" y="213" type="qcurve"/>
+      <point x="202" y="202" type="line"/>
+      <point x="222" y="186"/>
+      <point x="233" y="166" type="qcurve"/>
+      <point x="246" y="177" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="185"/>
+      <point x="185" y="203" type="qcurve"/>
+      <point x="173" y="191" type="line"/>
+      <point x="193" y="175"/>
+      <point x="204" y="156" type="qcurve"/>
+      <point x="218" y="167" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="177"/>
+      <point x="55" y="193" type="qcurve"/>
+      <point x="45" y="171" type="line"/>
+      <point x="86" y="156"/>
+      <point x="114" y="139" type="qcurve"/>
+      <point x="128" y="160" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="145" type="line"/>
+      <point x="178" y="86"/>
+      <point x="103" y="25"/>
+      <point x="37" y="7" type="qcurve"/>
+      <point x="48" y="-16" type="line"/>
+      <point x="116" y="4"/>
+      <point x="198" y="70"/>
+      <point x="229" y="130" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="71" y="118"/>
+      <point x="33" y="126" type="qcurve"/>
+      <point x="27" y="104" type="line"/>
+      <point x="73" y="90"/>
+      <point x="99" y="77" type="qcurve"/>
+      <point x="107" y="100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

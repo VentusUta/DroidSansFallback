@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cyeols-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="CCDC"/>
+  <note>
+uniCCDC
+</note>
+  <outline>
+    <component base="glyph49141"/>
+    <component base="glyph49149"/>
+    <component base="glyph48035"/>
+  </outline>
+</glyph>

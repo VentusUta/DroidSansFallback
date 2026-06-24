@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zh-bopomofo" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3113"/>
+  <note>
+uni3113
+</note>
+  <outline>
+    <contour>
+      <point x="228" y="21" type="line"/>
+      <point x="140" y="21" type="line"/>
+      <point x="140" y="73" type="line"/>
+      <point x="193" y="73" type="line" smooth="yes"/>
+      <point x="215" y="73"/>
+      <point x="215" y="94" type="qcurve" smooth="yes"/>
+      <point x="215" y="172" type="line"/>
+      <point x="192" y="172" type="line"/>
+      <point x="192" y="104" type="line" smooth="yes"/>
+      <point x="192" y="95"/>
+      <point x="182" y="95" type="qcurve" smooth="yes"/>
+      <point x="140" y="95" type="line"/>
+      <point x="140" y="190" type="line"/>
+      <point x="117" y="190" type="line"/>
+      <point x="117" y="95" type="line"/>
+      <point x="71" y="95" type="line" smooth="yes"/>
+      <point x="63" y="95"/>
+      <point x="63" y="104" type="qcurve" smooth="yes"/>
+      <point x="63" y="172" type="line"/>
+      <point x="39" y="172" type="line"/>
+      <point x="39" y="95" type="line" smooth="yes"/>
+      <point x="39" y="73"/>
+      <point x="61" y="73" type="qcurve" smooth="yes"/>
+      <point x="117" y="73" type="line"/>
+      <point x="117" y="21" type="line"/>
+      <point x="27" y="21" type="line"/>
+      <point x="27" y="0" type="line"/>
+      <point x="228" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

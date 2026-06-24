@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni79BE" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="79BE"/>
+  <note>
+uni79BE
+</note>
+  <outline>
+    <contour>
+      <point x="117" y="133" type="line"/>
+      <point x="15" y="133" type="line"/>
+      <point x="15" y="114" type="line"/>
+      <point x="101" y="114" type="line"/>
+      <point x="67" y="50"/>
+      <point x="12" y="14" type="qcurve"/>
+      <point x="25" y="-4" type="line"/>
+      <point x="82" y="35"/>
+      <point x="117" y="102" type="qcurve"/>
+      <point x="117" y="-23" type="line"/>
+      <point x="137" y="-23" type="line"/>
+      <point x="137" y="98" type="line"/>
+      <point x="168" y="35"/>
+      <point x="230" y="-4" type="qcurve"/>
+      <point x="245" y="15" type="line"/>
+      <point x="180" y="48"/>
+      <point x="150" y="114" type="qcurve"/>
+      <point x="239" y="114" type="line"/>
+      <point x="239" y="133" type="line"/>
+      <point x="137" y="133" type="line"/>
+      <point x="137" y="179" type="line"/>
+      <point x="225" y="190" type="line"/>
+      <point x="216" y="208" type="line"/>
+      <point x="129" y="195"/>
+      <point x="25" y="188" type="qcurve"/>
+      <point x="32" y="169" type="line"/>
+      <point x="117" y="177" type="line"/>
+    </contour>
+  </outline>
+</glyph>

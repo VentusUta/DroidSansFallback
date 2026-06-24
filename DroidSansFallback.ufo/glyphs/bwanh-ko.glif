@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bwanh-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BD16"/>
+  <note>
+uniBD16
+</note>
+  <outline>
+    <component base="glyph48739"/>
+    <component base="glyph48300"/>
+    <component base="glyph48107"/>
+  </outline>
+</glyph>

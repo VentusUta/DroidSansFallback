@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="byeoss-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BCD0"/>
+  <note>
+uniBCD0
+</note>
+  <outline>
+    <component base="glyph48729"/>
+    <component base="glyph48687"/>
+    <component base="glyph47890"/>
+  </outline>
+</glyph>

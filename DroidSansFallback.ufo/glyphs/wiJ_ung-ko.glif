@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wiJung-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="1171"/>
+  <unicode hex="315F"/>
+  <note>
+uni315F
+</note>
+  <outline>
+    <contour>
+      <point x="184" y="133" type="line"/>
+      <point x="19" y="123" type="line"/>
+      <point x="22" y="104" type="line"/>
+      <point x="98" y="109" type="line"/>
+      <point x="98" y="12" type="line"/>
+      <point x="118" y="12" type="line"/>
+      <point x="118" y="110" type="line"/>
+      <point x="184" y="114" type="line"/>
+      <point x="184" y="-15" type="line"/>
+      <point x="204" y="-15" type="line"/>
+      <point x="204" y="200" type="line"/>
+      <point x="184" y="200" type="line"/>
+    </contour>
+  </outline>
+</glyph>

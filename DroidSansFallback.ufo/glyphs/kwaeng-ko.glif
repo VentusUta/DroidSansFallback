@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kwaeng-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="CFA1"/>
+  <note>
+uniCFA1
+</note>
+  <outline>
+    <component base="glyph49216"/>
+    <component base="glyph49222"/>
+    <component base="glyph48123"/>
+  </outline>
+</glyph>

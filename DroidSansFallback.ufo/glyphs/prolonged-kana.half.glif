@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="prolonged-kana.half" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FF70"/>
+  <note>
+uniFF70
+</note>
+  <outline>
+    <contour>
+      <point x="115" y="105" type="line"/>
+      <point x="13" y="105" type="line"/>
+      <point x="13" y="80" type="line"/>
+      <point x="115" y="80" type="line"/>
+    </contour>
+  </outline>
+</glyph>

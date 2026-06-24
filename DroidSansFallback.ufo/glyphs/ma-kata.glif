@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ma-kata" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30DE"/>
+  <note>
+uni30DE
+</note>
+  <outline>
+    <contour>
+      <point x="231" y="158"/>
+      <point x="231" y="164" type="qcurve"/>
+      <point x="213" y="183" type="line"/>
+      <point x="206" y="179" type="line"/>
+      <point x="25" y="179" type="line"/>
+      <point x="25" y="155" type="line"/>
+      <point x="195" y="156" type="line"/>
+      <point x="196" y="155" type="line"/>
+      <point x="170" y="115"/>
+      <point x="125" y="69" type="qcurve"/>
+      <point x="93" y="97"/>
+      <point x="69" y="112" type="qcurve"/>
+      <point x="56" y="92" type="line"/>
+      <point x="118" y="50"/>
+      <point x="175" y="-18" type="qcurve"/>
+      <point x="195" y="-2" type="line"/>
+      <point x="142" y="53" type="line"/>
+      <point x="201" y="114"/>
+      <point x="224" y="154" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

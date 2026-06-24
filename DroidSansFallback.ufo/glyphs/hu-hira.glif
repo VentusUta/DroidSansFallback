@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hu-hira" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3075"/>
+  <note>
+uni3075
+</note>
+  <outline>
+    <contour>
+      <point x="139" y="188"/>
+      <point x="65" y="193" type="qcurve"/>
+      <point x="64" y="172" type="line"/>
+      <point x="124" y="167"/>
+      <point x="181" y="153" type="qcurve"/>
+      <point x="184" y="175" type="line"/>
+    </contour>
+    <contour>
+      <point x="117" y="-13" type="line"/>
+      <point x="141" y="-13"/>
+      <point x="169" y="12"/>
+      <point x="169" y="32" type="qcurve" smooth="yes"/>
+      <point x="169" y="45"/>
+      <point x="158" y="65"/>
+      <point x="118" y="108"/>
+      <point x="118" y="110" type="qcurve" smooth="yes"/>
+      <point x="118" y="114"/>
+      <point x="146" y="136" type="qcurve"/>
+      <point x="128" y="151" type="line"/>
+      <point x="94" y="120"/>
+      <point x="94" y="109" type="qcurve" smooth="yes"/>
+      <point x="94" y="99"/>
+      <point x="144" y="46"/>
+      <point x="144" y="33" type="qcurve" smooth="yes"/>
+      <point x="144" y="9"/>
+      <point x="117" y="9" type="qcurve" smooth="yes"/>
+      <point x="110" y="9"/>
+      <point x="82" y="19" type="qcurve"/>
+      <point x="75" y="-3" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="90"/>
+      <point x="206" y="119" type="qcurve"/>
+      <point x="187" y="110" type="line"/>
+      <point x="202" y="77"/>
+      <point x="222" y="6" type="qcurve"/>
+      <point x="244" y="15" type="line"/>
+    </contour>
+    <contour>
+      <point x="38" y="113" type="line"/>
+      <point x="32" y="55"/>
+      <point x="12" y="15" type="qcurve"/>
+      <point x="33" y="5" type="line"/>
+      <point x="42" y="23"/>
+      <point x="60" y="93"/>
+      <point x="60" y="108" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

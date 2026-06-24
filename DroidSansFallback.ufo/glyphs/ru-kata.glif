@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ru-kata" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30EB"/>
+  <note>
+uni30EB
+</note>
+  <outline>
+    <contour>
+      <point x="232" y="104" type="line"/>
+      <point x="196" y="49"/>
+      <point x="158" y="20" type="qcurve"/>
+      <point x="157" y="21" type="line"/>
+      <point x="158" y="192" type="line"/>
+      <point x="133" y="192" type="line"/>
+      <point x="133" y="6" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="149" y="-17"/>
+      <point x="151" y="-17" type="qcurve" smooth="yes"/>
+      <point x="155" y="-17"/>
+      <point x="158" y="-9" type="qcurve"/>
+      <point x="178" y="3"/>
+      <point x="233" y="60"/>
+      <point x="249" y="86" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="85" y="187" type="line"/>
+      <point x="59" y="187" type="line"/>
+      <point x="60" y="156" type="line"/>
+      <point x="60" y="97" type="line" smooth="yes"/>
+      <point x="60" y="35"/>
+      <point x="14" y="1" type="qcurve"/>
+      <point x="30" y="-19" type="line"/>
+      <point x="60" y="4"/>
+      <point x="85" y="59"/>
+      <point x="85" y="107" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

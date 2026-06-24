@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bbeon-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BED4"/>
+  <note>
+uniBED4
+</note>
+  <outline>
+    <component base="glyph48786"/>
+    <component base="glyph48787"/>
+    <component base="glyph47580"/>
+  </outline>
+</glyph>

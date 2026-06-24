@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mieumPansiosJong-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="11DF"/>
+  <unicode hex="3170"/>
+  <note>
+uni11DF
+</note>
+  <outline>
+    <contour>
+      <point x="123" y="32" type="line"/>
+      <point x="234" y="32" type="line"/>
+      <point x="179" y="165" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="49" type="line"/>
+      <point x="151" y="49" type="line"/>
+      <point x="179" y="123" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="154" type="line"/>
+      <point x="35" y="30" type="line"/>
+      <point x="55" y="30" type="line"/>
+      <point x="55" y="37" type="line"/>
+      <point x="101" y="37" type="line"/>
+      <point x="101" y="30" type="line"/>
+      <point x="121" y="30" type="line"/>
+      <point x="121" y="154" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="135" type="line"/>
+      <point x="101" y="135" type="line"/>
+      <point x="101" y="56" type="line"/>
+      <point x="55" y="56" type="line"/>
+    </contour>
+  </outline>
+</glyph>

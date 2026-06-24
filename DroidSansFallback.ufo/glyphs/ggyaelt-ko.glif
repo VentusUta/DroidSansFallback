@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ggyaelt-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="AEAD"/>
+  <note>
+uniAEAD
+</note>
+  <outline>
+    <component base="glyph47858"/>
+    <component base="glyph47869"/>
+    <component base="glyph47543"/>
+  </outline>
+</glyph>

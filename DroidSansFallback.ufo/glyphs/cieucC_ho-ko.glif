@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cieucCho-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="110C"/>
+  <unicode hex="11BD"/>
+  <unicode hex="3148"/>
+  <note>
+uni11BD
+</note>
+  <outline>
+    <contour>
+      <point x="41" y="155" type="line"/>
+      <point x="41" y="136" type="line"/>
+      <point x="120" y="136" type="line"/>
+      <point x="115" y="69"/>
+      <point x="35" y="45" type="qcurve"/>
+      <point x="46" y="27" type="line"/>
+      <point x="111" y="55"/>
+      <point x="130" y="102" type="qcurve"/>
+      <point x="148" y="52"/>
+      <point x="210" y="27" type="qcurve"/>
+      <point x="222" y="45" type="line"/>
+      <point x="143" y="68"/>
+      <point x="139" y="136" type="qcurve"/>
+      <point x="217" y="136" type="line"/>
+      <point x="217" y="155" type="line"/>
+    </contour>
+  </outline>
+</glyph>

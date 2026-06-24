@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lowlinecenterline" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="FE4E"/>
+  <note>
+uniFE4E
+</note>
+  <outline>
+    <contour>
+      <point x="118" y="-27"/>
+      <point x="138" y="-27"/>
+      <point x="138" y="-7"/>
+      <point x="118" y="-7"/>
+    </contour>
+    <contour>
+      <point x="237" y="-9" type="line"/>
+      <point x="170" y="-9" type="line"/>
+      <point x="170" y="-26" type="line"/>
+      <point x="237" y="-26" type="line"/>
+    </contour>
+    <contour>
+      <point x="86" y="-9" type="line"/>
+      <point x="19" y="-9" type="line"/>
+      <point x="19" y="-26" type="line"/>
+      <point x="86" y="-26" type="line"/>
+    </contour>
+  </outline>
+</glyph>

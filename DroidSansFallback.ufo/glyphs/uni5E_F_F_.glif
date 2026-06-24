@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5EFF" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="5EFF"/>
+  <note>
+uni5EFF
+</note>
+  <outline>
+    <contour>
+      <point x="13" y="137" type="line"/>
+      <point x="62" y="137" type="line"/>
+      <point x="62" y="-23" type="line"/>
+      <point x="82" y="-23" type="line"/>
+      <point x="82" y="5" type="line"/>
+      <point x="174" y="5" type="line"/>
+      <point x="174" y="-23" type="line"/>
+      <point x="194" y="-23" type="line"/>
+      <point x="194" y="137" type="line"/>
+      <point x="243" y="137" type="line"/>
+      <point x="243" y="156" type="line"/>
+      <point x="194" y="156" type="line"/>
+      <point x="194" y="207" type="line"/>
+      <point x="174" y="207" type="line"/>
+      <point x="174" y="156" type="line"/>
+      <point x="82" y="156" type="line"/>
+      <point x="82" y="207" type="line"/>
+      <point x="62" y="207" type="line"/>
+      <point x="62" y="156" type="line"/>
+      <point x="13" y="156" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="137" type="line"/>
+      <point x="174" y="137" type="line"/>
+      <point x="174" y="24" type="line"/>
+      <point x="82" y="24" type="line"/>
+    </contour>
+  </outline>
+</glyph>

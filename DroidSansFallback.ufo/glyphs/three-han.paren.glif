@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three-han.paren" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3222"/>
+  <note>
+uni3222
+</note>
+  <outline>
+    <contour>
+      <point x="34" y="7" type="line"/>
+      <point x="21" y="46"/>
+      <point x="21" y="92" type="qcurve" smooth="yes"/>
+      <point x="21" y="153"/>
+      <point x="43" y="199" type="qcurve"/>
+      <point x="29" y="204" type="line"/>
+      <point x="4" y="155"/>
+      <point x="4" y="29"/>
+      <point x="29" y="-20" type="qcurve"/>
+      <point x="43" y="-16" type="line"/>
+      <point x="35" y="3" type="line"/>
+      <point x="219" y="3" type="line"/>
+      <point x="213" y="-16" type="line"/>
+      <point x="229" y="-20" type="line"/>
+      <point x="252" y="37"/>
+      <point x="252" y="92" type="qcurve" smooth="yes"/>
+      <point x="252" y="145"/>
+      <point x="229" y="204" type="qcurve"/>
+      <point x="213" y="199" type="line"/>
+      <point x="235" y="143"/>
+      <point x="235" y="92" type="qcurve" smooth="yes"/>
+      <point x="235" y="51"/>
+      <point x="221" y="7" type="qcurve"/>
+      <point x="221" y="22" type="line"/>
+      <point x="34" y="22" type="line"/>
+    </contour>
+    <contour>
+      <point x="47" y="156" type="line"/>
+      <point x="210" y="156" type="line"/>
+      <point x="210" y="175" type="line"/>
+      <point x="47" y="175" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="81" type="line"/>
+      <point x="201" y="81" type="line"/>
+      <point x="201" y="100" type="line"/>
+      <point x="56" y="100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

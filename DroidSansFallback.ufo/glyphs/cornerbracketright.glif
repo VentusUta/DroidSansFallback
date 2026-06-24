@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cornerbracketright" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="300D"/>
+  <note>
+uni300D
+</note>
+  <outline>
+    <contour>
+      <point x="128" y="92" type="line"/>
+      <point x="105" y="92" type="line"/>
+      <point x="105" y="-1" type="line"/>
+      <point x="60" y="-1" type="line"/>
+      <point x="60" y="-19" type="line"/>
+      <point x="128" y="-19" type="line"/>
+    </contour>
+  </outline>
+</glyph>

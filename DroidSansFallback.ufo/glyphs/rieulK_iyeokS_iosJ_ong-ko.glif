@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rieulKiyeokSiosJong-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="11CC"/>
+  <unicode hex="3169"/>
+  <note>
+uni3169
+</note>
+  <outline>
+    <contour>
+      <point x="174" y="37"/>
+      <point x="181" y="49" type="qcurve"/>
+      <point x="190" y="76" type="line"/>
+      <point x="192" y="82" type="line"/>
+      <point x="192" y="72"/>
+      <point x="208" y="37"/>
+      <point x="218" y="28" type="qcurve"/>
+      <point x="231" y="44" type="line"/>
+      <point x="202" y="66"/>
+      <point x="202" y="119" type="qcurve" smooth="yes"/>
+      <point x="202" y="158" type="line"/>
+      <point x="182" y="158" type="line"/>
+      <point x="182" y="120" type="line" smooth="yes"/>
+      <point x="179" y="66"/>
+      <point x="152" y="44" type="qcurve"/>
+      <point x="164" y="28" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="135" type="line"/>
+      <point x="71" y="135" type="line"/>
+      <point x="71" y="110" type="line"/>
+      <point x="30" y="110" type="line"/>
+      <point x="30" y="29" type="line"/>
+      <point x="69" y="30"/>
+      <point x="106" y="37" type="qcurve"/>
+      <point x="102" y="55" type="line"/>
+      <point x="50" y="48" type="line"/>
+      <point x="50" y="91" type="line"/>
+      <point x="91" y="91" type="line"/>
+      <point x="91" y="154" type="line"/>
+      <point x="30" y="154" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="135" type="line"/>
+      <point x="131" y="135" type="line"/>
+      <point x="131" y="27" type="line"/>
+      <point x="151" y="27" type="line"/>
+      <point x="151" y="154" type="line"/>
+      <point x="95" y="154" type="line"/>
+    </contour>
+  </outline>
+</glyph>

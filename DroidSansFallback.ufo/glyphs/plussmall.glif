@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plussmall" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FE62"/>
+  <note>
+uniFE62
+</note>
+  <outline>
+    <contour>
+      <point x="58" y="20" type="line"/>
+      <point x="69" y="20" type="line"/>
+      <point x="69" y="49" type="line"/>
+      <point x="99" y="49" type="line"/>
+      <point x="99" y="60" type="line"/>
+      <point x="69" y="60" type="line"/>
+      <point x="69" y="89" type="line"/>
+      <point x="58" y="89" type="line"/>
+      <point x="58" y="60" type="line"/>
+      <point x="29" y="60" type="line"/>
+      <point x="29" y="49" type="line"/>
+      <point x="58" y="49" type="line"/>
+    </contour>
+  </outline>
+</glyph>

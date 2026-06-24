@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="byot-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BD7D"/>
+  <note>
+uniBD7D
+</note>
+  <outline>
+    <component base="glyph48735"/>
+    <component base="glyph48319"/>
+    <component base="glyph48092"/>
+  </outline>
+</glyph>

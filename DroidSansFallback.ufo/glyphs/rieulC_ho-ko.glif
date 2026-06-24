@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rieulCho-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="1105"/>
+  <unicode hex="11AF"/>
+  <unicode hex="3139"/>
+  <note>
+uni11AF
+</note>
+  <outline>
+    <contour>
+      <point x="51" y="135" type="line"/>
+      <point x="185" y="135" type="line"/>
+      <point x="185" y="105" type="line"/>
+      <point x="50" y="105" type="line"/>
+      <point x="50" y="29" type="line"/>
+      <point x="208" y="29" type="line"/>
+      <point x="208" y="48" type="line"/>
+      <point x="70" y="48" type="line"/>
+      <point x="70" y="86" type="line"/>
+      <point x="205" y="86" type="line"/>
+      <point x="205" y="154" type="line"/>
+      <point x="51" y="154" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ni-kata" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30CB"/>
+  <note>
+uni30CB
+</note>
+  <outline>
+    <contour>
+      <point x="213" y="168" type="line"/>
+      <point x="41" y="168" type="line"/>
+      <point x="41" y="145" type="line"/>
+      <point x="213" y="145" type="line"/>
+    </contour>
+    <contour>
+      <point x="232" y="33" type="line"/>
+      <point x="24" y="33" type="line"/>
+      <point x="24" y="10" type="line"/>
+      <point x="232" y="10" type="line"/>
+    </contour>
+  </outline>
+</glyph>

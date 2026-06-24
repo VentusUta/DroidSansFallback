@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iteration-kata" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30FD"/>
+  <note>
+uni30FD
+</note>
+  <outline>
+    <contour>
+      <point x="134" y="117"/>
+      <point x="86" y="155" type="qcurve"/>
+      <point x="70" y="138" type="line"/>
+      <point x="123" y="92"/>
+      <point x="163" y="38" type="qcurve"/>
+      <point x="182" y="54" type="line"/>
+    </contour>
+  </outline>
+</glyph>

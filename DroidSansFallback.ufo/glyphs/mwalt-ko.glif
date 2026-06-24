@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mwalt-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BAD1"/>
+  <note>
+uniBAD1
+</note>
+  <outline>
+    <component base="glyph48702"/>
+    <component base="glyph48300"/>
+    <component base="glyph48114"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bbweos-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BFFB"/>
+  <note>
+uniBFFB
+</note>
+  <outline>
+    <component base="glyph48854"/>
+    <component base="glyph48860"/>
+    <component base="glyph48185"/>
+  </outline>
+</glyph>

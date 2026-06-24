@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sseol-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="C370"/>
+  <note>
+uniC370
+</note>
+  <outline>
+    <component base="glyph48973"/>
+    <component base="glyph48386"/>
+    <component base="glyph48031"/>
+  </outline>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="de-hira" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3067"/>
+  <note>
+uni3067
+</note>
+  <outline>
+    <contour>
+      <point x="23" y="169" type="line"/>
+      <point x="25" y="146" type="line"/>
+      <point x="140" y="157" type="line"/>
+      <point x="141" y="155" type="line"/>
+      <point x="87" y="121"/>
+      <point x="87" y="65" type="qcurve" smooth="yes"/>
+      <point x="87" y="-10"/>
+      <point x="202" y="-13" type="qcurve"/>
+      <point x="207" y="11" type="line"/>
+      <point x="110" y="11"/>
+      <point x="110" y="66" type="qcurve" smooth="yes"/>
+      <point x="110" y="95"/>
+      <point x="151" y="147"/>
+      <point x="167" y="154" type="qcurve" smooth="yes"/>
+      <point x="178" y="158"/>
+      <point x="232" y="158" type="qcurve"/>
+      <point x="233" y="181" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="139"/>
+      <point x="212" y="154" type="qcurve"/>
+      <point x="199" y="145" type="line"/>
+      <point x="214" y="131"/>
+      <point x="224" y="108" type="qcurve"/>
+      <point x="238" y="117" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="125"/>
+      <point x="188" y="141" type="qcurve"/>
+      <point x="175" y="132" type="line"/>
+      <point x="190" y="118"/>
+      <point x="201" y="95" type="qcurve"/>
+      <point x="214" y="104" type="line"/>
+    </contour>
+  </outline>
+</glyph>

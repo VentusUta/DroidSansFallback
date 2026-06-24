@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mieumCho-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="1106"/>
+  <unicode hex="11B7"/>
+  <unicode hex="3141"/>
+  <note>
+uni11B7
+</note>
+  <outline>
+    <contour>
+      <point x="49" y="155" type="line"/>
+      <point x="49" y="30" type="line"/>
+      <point x="69" y="30" type="line"/>
+      <point x="69" y="36" type="line"/>
+      <point x="184" y="36" type="line"/>
+      <point x="184" y="30" type="line"/>
+      <point x="204" y="30" type="line"/>
+      <point x="204" y="155" type="line"/>
+    </contour>
+    <contour>
+      <point x="69" y="136" type="line"/>
+      <point x="184" y="136" type="line"/>
+      <point x="184" y="55" type="line"/>
+      <point x="69" y="55" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="re-kata.half" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FF9A"/>
+  <note>
+uniFF9A
+</note>
+  <outline>
+    <contour>
+      <point x="98" y="104" type="line"/>
+      <point x="73" y="47"/>
+      <point x="38" y="18" type="qcurve"/>
+      <point x="37" y="18" type="line"/>
+      <point x="38" y="194" type="line"/>
+      <point x="15" y="194" type="line"/>
+      <point x="15" y="9" type="line"/>
+      <point x="12" y="5" type="line"/>
+      <point x="25" y="-17"/>
+      <point x="28" y="-17" type="qcurve"/>
+      <point x="30" y="-18"/>
+      <point x="94" y="40"/>
+      <point x="117" y="88" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

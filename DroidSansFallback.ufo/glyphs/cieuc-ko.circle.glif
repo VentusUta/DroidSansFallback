@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cieuc-ko.circle" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3268"/>
+  <note>
+uni3268
+</note>
+  <outline>
+    <contour>
+      <point x="1" y="40"/>
+      <point x="75" y="-35"/>
+      <point x="128" y="-35" type="qcurve" smooth="yes"/>
+      <point x="180" y="-35"/>
+      <point x="255" y="39"/>
+      <point x="255" y="145"/>
+      <point x="180" y="219"/>
+      <point x="128" y="219" type="qcurve" smooth="yes"/>
+      <point x="75" y="219"/>
+      <point x="1" y="145"/>
+      <point x="1" y="92" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="13" y="140"/>
+      <point x="80" y="207"/>
+      <point x="128" y="207" type="qcurve" smooth="yes"/>
+      <point x="175" y="207"/>
+      <point x="242" y="140"/>
+      <point x="242" y="92" type="qcurve" smooth="yes"/>
+      <point x="242" y="45"/>
+      <point x="175" y="-23"/>
+      <point x="81" y="-23"/>
+      <point x="13" y="45"/>
+      <point x="13" y="92" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="65" y="150" type="line"/>
+      <point x="65" y="131" type="line"/>
+      <point x="120" y="131" type="line"/>
+      <point x="120" y="124" type="line"/>
+      <point x="113" y="74"/>
+      <point x="57" y="52" type="qcurve"/>
+      <point x="70" y="37" type="line"/>
+      <point x="115" y="57"/>
+      <point x="129" y="90" type="qcurve"/>
+      <point x="142" y="55"/>
+      <point x="191" y="36" type="qcurve"/>
+      <point x="203" y="51" type="line"/>
+      <point x="139" y="72"/>
+      <point x="139" y="124" type="qcurve" smooth="yes"/>
+      <point x="139" y="131" type="line"/>
+      <point x="195" y="131" type="line"/>
+      <point x="195" y="150" type="line"/>
+    </contour>
+  </outline>
+</glyph>

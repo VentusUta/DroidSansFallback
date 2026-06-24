@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="araeaIJung-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="11A1"/>
+  <unicode hex="318E"/>
+  <note>
+uni318E
+</note>
+  <outline>
+    <contour>
+      <point x="182" y="-15" type="line"/>
+      <point x="202" y="-15" type="line"/>
+      <point x="202" y="200" type="line"/>
+      <point x="182" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="69"/>
+      <point x="124" y="95" type="qcurve" smooth="yes"/>
+      <point x="124" y="120"/>
+      <point x="99" y="120" type="qcurve" smooth="yes"/>
+      <point x="73" y="120"/>
+      <point x="73" y="95" type="qcurve" smooth="yes"/>
+      <point x="73" y="69"/>
+      <point x="99" y="69" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

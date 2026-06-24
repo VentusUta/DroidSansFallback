@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mweols-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BB5C"/>
+  <note>
+uniBB5C
+</note>
+  <outline>
+    <component base="glyph48714"/>
+    <component base="glyph48335"/>
+    <component base="glyph48177"/>
+  </outline>
+</glyph>

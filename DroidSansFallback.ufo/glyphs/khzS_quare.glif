@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="khzSquare" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3391"/>
+  <note>
+uni3391
+</note>
+  <outline>
+    <contour>
+      <point x="48" y="79" type="line"/>
+      <point x="88" y="137" type="line"/>
+      <point x="64" y="137" type="line"/>
+      <point x="25" y="78" type="line"/>
+      <point x="24" y="78" type="line"/>
+      <point x="26" y="108" type="line"/>
+      <point x="26" y="195" type="line"/>
+      <point x="4" y="195" type="line"/>
+      <point x="4" y="0" type="line"/>
+      <point x="26" y="0" type="line"/>
+      <point x="26" y="55" type="line"/>
+      <point x="34" y="62" type="line"/>
+      <point x="67" y="0" type="line"/>
+      <point x="91" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="179" y="183" type="line"/>
+      <point x="156" y="183" type="line"/>
+      <point x="156" y="106" type="line"/>
+      <point x="118" y="106" type="line"/>
+      <point x="118" y="183" type="line"/>
+      <point x="96" y="183" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="118" y="86" type="line"/>
+      <point x="156" y="86" type="line"/>
+      <point x="156" y="0" type="line"/>
+      <point x="179" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="251" y="17" type="line"/>
+      <point x="209" y="17" type="line"/>
+      <point x="249" y="119" type="line"/>
+      <point x="249" y="137" type="line"/>
+      <point x="189" y="137" type="line"/>
+      <point x="189" y="120" type="line"/>
+      <point x="227" y="120" type="line"/>
+      <point x="187" y="16" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="251" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

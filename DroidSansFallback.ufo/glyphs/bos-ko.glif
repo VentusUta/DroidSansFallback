@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bos-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BD07"/>
+  <note>
+uniBD07
+</note>
+  <outline>
+    <component base="glyph48733"/>
+    <component base="glyph48292"/>
+    <component base="glyph47654"/>
+  </outline>
+</glyph>

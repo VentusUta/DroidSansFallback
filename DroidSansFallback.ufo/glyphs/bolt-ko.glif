@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bolt-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BD01"/>
+  <note>
+uniBD01
+</note>
+  <outline>
+    <component base="glyph48735"/>
+    <component base="glyph48291"/>
+    <component base="glyph48082"/>
+  </outline>
+</glyph>

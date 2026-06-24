@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="moeng-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BB11"/>
+  <note>
+uniBB11
+</note>
+  <outline>
+    <component base="glyph48700"/>
+    <component base="glyph48315"/>
+    <component base="glyph48123"/>
+  </outline>
+</glyph>

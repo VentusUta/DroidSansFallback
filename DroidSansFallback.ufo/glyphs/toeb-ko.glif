@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="toeb-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="D205"/>
+  <note>
+uniD205
+</note>
+  <outline>
+    <component base="glyph49274"/>
+    <component base="glyph48552"/>
+    <component base="glyph48530"/>
+  </outline>
+</glyph>

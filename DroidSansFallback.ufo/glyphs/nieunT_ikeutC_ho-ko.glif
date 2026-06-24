@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nieunTikeutCho-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="1115"/>
+  <unicode hex="11C6"/>
+  <unicode hex="3166"/>
+  <note>
+uni1115
+</note>
+  <outline>
+    <contour>
+      <point x="133" y="154" type="line"/>
+      <point x="133" y="29" type="line"/>
+      <point x="224" y="29" type="line"/>
+      <point x="224" y="48" type="line"/>
+      <point x="152" y="48" type="line"/>
+      <point x="152" y="135" type="line"/>
+      <point x="220" y="135" type="line"/>
+      <point x="220" y="154" type="line"/>
+    </contour>
+    <contour>
+      <point x="33" y="30" type="line"/>
+      <point x="81" y="30"/>
+      <point x="120" y="39" type="qcurve"/>
+      <point x="117" y="55" type="line"/>
+      <point x="86" y="48"/>
+      <point x="53" y="48" type="qcurve"/>
+      <point x="53" y="153" type="line"/>
+      <point x="33" y="153" type="line"/>
+    </contour>
+  </outline>
+</glyph>

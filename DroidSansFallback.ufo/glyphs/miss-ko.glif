@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="miss-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BC0C"/>
+  <note>
+uniBC0C
+</note>
+  <outline>
+    <component base="glyph48668"/>
+    <component base="glyph47839"/>
+    <component base="glyph47890"/>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two-hangzhou" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3022"/>
+  <note>
+uni3022
+</note>
+  <outline>
+    <contour>
+      <point x="156" y="-20" type="line"/>
+      <point x="176" y="-20" type="line"/>
+      <point x="176" y="203" type="line"/>
+      <point x="156" y="203" type="line"/>
+    </contour>
+    <contour>
+      <point x="79" y="18" type="line"/>
+      <point x="99" y="18" type="line"/>
+      <point x="99" y="175" type="line"/>
+      <point x="79" y="175" type="line"/>
+    </contour>
+  </outline>
+</glyph>

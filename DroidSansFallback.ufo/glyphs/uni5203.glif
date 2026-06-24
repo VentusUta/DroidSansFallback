@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5203" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="5203"/>
+  <note>
+uni5203
+</note>
+  <outline>
+    <contour>
+      <point x="39" y="175" type="line"/>
+      <point x="121" y="175" type="line"/>
+      <point x="120" y="90"/>
+      <point x="80" y="16"/>
+      <point x="25" y="-9" type="qcurve"/>
+      <point x="39" y="-25" type="line"/>
+      <point x="91" y="2"/>
+      <point x="140" y="74"/>
+      <point x="141" y="175" type="qcurve"/>
+      <point x="207" y="175" type="line"/>
+      <point x="204" y="35"/>
+      <point x="195" y="-1"/>
+      <point x="182" y="-1" type="qcurve"/>
+      <point x="140" y="3" type="line"/>
+      <point x="143" y="-16" type="line"/>
+      <point x="185" y="-20" type="line"/>
+      <point x="208" y="-20"/>
+      <point x="227" y="32"/>
+      <point x="227" y="194" type="qcurve"/>
+      <point x="39" y="194" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="96"/>
+      <point x="34" y="63" type="qcurve"/>
+      <point x="51" y="53" type="line"/>
+      <point x="74" y="87"/>
+      <point x="79" y="132" type="qcurve"/>
+      <point x="61" y="136" type="line"/>
+    </contour>
+  </outline>
+</glyph>

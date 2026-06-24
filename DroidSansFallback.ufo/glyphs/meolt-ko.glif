@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="meolt-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BA45"/>
+  <note>
+uniBA45
+</note>
+  <outline>
+    <component base="glyph48679"/>
+    <component base="glyph48680"/>
+    <component base="glyph48036"/>
+  </outline>
+</glyph>

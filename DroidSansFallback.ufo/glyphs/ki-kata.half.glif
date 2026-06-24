@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ki-kata.half" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FF77"/>
+  <note>
+uniFF77
+</note>
+  <outline>
+    <contour>
+      <point x="119" y="96" type="line"/>
+      <point x="75" y="91" type="line"/>
+      <point x="72" y="138" type="line"/>
+      <point x="111" y="142" type="line"/>
+      <point x="111" y="163" type="line"/>
+      <point x="71" y="159" type="line"/>
+      <point x="69" y="199" type="line"/>
+      <point x="47" y="198" type="line"/>
+      <point x="49" y="156" type="line"/>
+      <point x="11" y="152" type="line"/>
+      <point x="12" y="131" type="line"/>
+      <point x="50" y="135" type="line"/>
+      <point x="53" y="89" type="line"/>
+      <point x="8" y="84" type="line"/>
+      <point x="9" y="62" type="line"/>
+      <point x="54" y="67" type="line"/>
+      <point x="59" y="-15" type="line"/>
+      <point x="81" y="-14" type="line"/>
+      <point x="76" y="70" type="line"/>
+      <point x="120" y="74" type="line"/>
+    </contour>
+  </outline>
+</glyph>

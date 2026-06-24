@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hi-kata.half" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FF8B"/>
+  <note>
+uniFF8B
+</note>
+  <outline>
+    <contour>
+      <point x="65" y="13" type="line"/>
+      <point x="47" y="13"/>
+      <point x="38" y="23"/>
+      <point x="38" y="43" type="qcurve" smooth="yes"/>
+      <point x="38" y="98" type="line"/>
+      <point x="83" y="123"/>
+      <point x="108" y="149" type="qcurve"/>
+      <point x="96" y="165" type="line"/>
+      <point x="76" y="144"/>
+      <point x="38" y="121" type="qcurve"/>
+      <point x="38" y="193" type="line"/>
+      <point x="16" y="193" type="line"/>
+      <point x="16" y="42" type="line" smooth="yes"/>
+      <point x="16" y="10"/>
+      <point x="33" y="-8"/>
+      <point x="58" y="-8" type="qcurve" smooth="yes"/>
+      <point x="112" y="-6" type="line"/>
+      <point x="112" y="17" type="line"/>
+    </contour>
+  </outline>
+</glyph>

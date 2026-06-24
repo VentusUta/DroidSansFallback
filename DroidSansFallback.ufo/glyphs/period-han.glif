@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period-han" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3002"/>
+  <note>
+uni3002
+</note>
+  <outline>
+    <contour>
+      <point x="6" y="-9"/>
+      <point x="26" y="-29"/>
+      <point x="41" y="-29" type="qcurve" smooth="yes"/>
+      <point x="55" y="-29"/>
+      <point x="75" y="-9"/>
+      <point x="75" y="19"/>
+      <point x="55" y="39"/>
+      <point x="41" y="39" type="qcurve" smooth="yes"/>
+      <point x="26" y="39"/>
+      <point x="6" y="19"/>
+    </contour>
+    <contour>
+      <point x="22" y="23"/>
+      <point x="41" y="23" type="qcurve" smooth="yes"/>
+      <point x="59" y="23"/>
+      <point x="59" y="5" type="qcurve" smooth="yes"/>
+      <point x="59" y="-3"/>
+      <point x="48" y="-14"/>
+      <point x="41" y="-14" type="qcurve" smooth="yes"/>
+      <point x="22" y="-14"/>
+      <point x="22" y="5" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

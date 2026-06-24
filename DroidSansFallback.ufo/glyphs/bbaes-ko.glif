@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bbaes-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BE8F"/>
+  <note>
+uniBE8F
+</note>
+  <outline>
+    <component base="glyph48765"/>
+    <component base="glyph48771"/>
+    <component base="glyph48008"/>
+  </outline>
+</glyph>

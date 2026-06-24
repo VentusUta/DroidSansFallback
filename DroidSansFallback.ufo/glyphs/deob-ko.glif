@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="deob-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="B365"/>
+  <note>
+uniB365
+</note>
+  <outline>
+    <component base="glyph48265"/>
+    <component base="glyph48266"/>
+    <component base="glyph48040"/>
+  </outline>
+</glyph>

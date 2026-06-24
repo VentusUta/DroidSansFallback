@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mwaen-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BAE4"/>
+  <note>
+uniBAE4
+</note>
+  <outline>
+    <component base="glyph48705"/>
+    <component base="glyph48307"/>
+    <component base="glyph47496"/>
+  </outline>
+</glyph>

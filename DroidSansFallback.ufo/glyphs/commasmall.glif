@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commasmall" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FE50"/>
+  <note>
+uniFE50
+</note>
+  <outline>
+    <contour>
+      <point x="57" y="18" type="line"/>
+      <point x="50" y="-20" type="line"/>
+      <point x="60" y="-20" type="line"/>
+      <point x="73" y="16" type="line"/>
+      <point x="72" y="18" type="line"/>
+    </contour>
+  </outline>
+</glyph>

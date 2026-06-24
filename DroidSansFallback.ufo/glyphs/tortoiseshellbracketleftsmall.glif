@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tortoiseshellbracketleftsmall" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FE5D"/>
+  <note>
+uniFE5D
+</note>
+  <outline>
+    <contour>
+      <point x="85" y="-9" type="line"/>
+      <point x="57" y="6" type="line"/>
+      <point x="57" y="80" type="line"/>
+      <point x="85" y="94" type="line"/>
+      <point x="85" y="110" type="line"/>
+      <point x="43" y="86" type="line"/>
+      <point x="43" y="-1" type="line"/>
+      <point x="85" y="-24" type="line"/>
+    </contour>
+  </outline>
+</glyph>

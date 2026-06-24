@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whitetortoiseshellbracketleft" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3018"/>
+  <note>
+uni3018
+</note>
+  <outline>
+    <contour>
+      <point x="241" y="151" type="line"/>
+      <point x="241" y="168" type="line"/>
+      <point x="188" y="148" type="line"/>
+      <point x="188" y="36" type="line"/>
+      <point x="241" y="17" type="line"/>
+      <point x="241" y="35" type="line"/>
+      <point x="205" y="47" type="line"/>
+      <point x="205" y="137" type="line"/>
+    </contour>
+    <contour>
+      <point x="241" y="194" type="line"/>
+      <point x="241" y="211" type="line"/>
+      <point x="152" y="177" type="line"/>
+      <point x="152" y="7" type="line"/>
+      <point x="241" y="-26" type="line"/>
+      <point x="241" y="-9" type="line"/>
+      <point x="169" y="17" type="line"/>
+      <point x="169" y="167" type="line"/>
+    </contour>
+  </outline>
+</glyph>

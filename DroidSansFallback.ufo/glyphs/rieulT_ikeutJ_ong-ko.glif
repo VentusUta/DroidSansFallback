@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rieulTikeutJong-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="11CE"/>
+  <unicode hex="316A"/>
+  <note>
+uni11CE
+</note>
+  <outline>
+    <contour>
+      <point x="141" y="154" type="line"/>
+      <point x="141" y="29" type="line"/>
+      <point x="231" y="29" type="line"/>
+      <point x="231" y="48" type="line"/>
+      <point x="160" y="48" type="line"/>
+      <point x="160" y="135" type="line"/>
+      <point x="227" y="135" type="line"/>
+      <point x="227" y="154" type="line"/>
+    </contour>
+    <contour>
+      <point x="29" y="135" type="line"/>
+      <point x="92" y="135" type="line"/>
+      <point x="92" y="108" type="line"/>
+      <point x="30" y="108" type="line"/>
+      <point x="30" y="29" type="line"/>
+      <point x="79" y="30"/>
+      <point x="125" y="37" type="qcurve"/>
+      <point x="122" y="55" type="line"/>
+      <point x="50" y="48" type="line"/>
+      <point x="50" y="89" type="line"/>
+      <point x="112" y="89" type="line"/>
+      <point x="112" y="154" type="line"/>
+      <point x="29" y="154" type="line"/>
+    </contour>
+  </outline>
+</glyph>

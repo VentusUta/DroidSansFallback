@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tu-hira" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3064"/>
+  <note>
+uni3064
+</note>
+  <outline>
+    <contour>
+      <point x="166" y="3"/>
+      <point x="230" y="54"/>
+      <point x="230" y="100" type="qcurve" smooth="yes"/>
+      <point x="230" y="138"/>
+      <point x="189" y="174"/>
+      <point x="139" y="174" type="qcurve" smooth="yes"/>
+      <point x="103" y="174"/>
+      <point x="26" y="156" type="qcurve"/>
+      <point x="34" y="132" type="line"/>
+      <point x="101" y="152"/>
+      <point x="144" y="152" type="qcurve" smooth="yes"/>
+      <point x="206" y="152"/>
+      <point x="206" y="99" type="qcurve" smooth="yes"/>
+      <point x="206" y="63"/>
+      <point x="154" y="26"/>
+      <point x="73" y="21" type="qcurve"/>
+      <point x="79" y="-1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

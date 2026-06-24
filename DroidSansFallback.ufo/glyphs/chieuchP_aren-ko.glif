@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chieuchParen-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3209"/>
+  <note>
+uni3209
+</note>
+  <outline>
+    <contour>
+      <point x="254" y="24"/>
+      <point x="254" y="91" type="qcurve" smooth="yes"/>
+      <point x="254" y="159"/>
+      <point x="225" y="204" type="qcurve"/>
+      <point x="209" y="204" type="line"/>
+      <point x="237" y="155"/>
+      <point x="237" y="91" type="qcurve" smooth="yes"/>
+      <point x="237" y="29"/>
+      <point x="210" y="-19" type="qcurve"/>
+      <point x="225" y="-19" type="line"/>
+    </contour>
+    <contour>
+      <point x="31" y="204" type="line"/>
+      <point x="2" y="159"/>
+      <point x="2" y="91" type="qcurve" smooth="yes"/>
+      <point x="2" y="24"/>
+      <point x="31" y="-19" type="qcurve"/>
+      <point x="46" y="-19" type="line"/>
+      <point x="19" y="29"/>
+      <point x="19" y="91" type="qcurve" smooth="yes"/>
+      <point x="19" y="155"/>
+      <point x="46" y="204" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="90" y="173" type="line"/>
+      <point x="90" y="154" type="line"/>
+      <point x="163" y="154" type="line"/>
+      <point x="163" y="173" type="line"/>
+    </contour>
+    <contour>
+      <point x="63" y="134" type="line"/>
+      <point x="63" y="115" type="line"/>
+      <point x="117" y="115" type="line"/>
+      <point x="107" y="61"/>
+      <point x="58" y="38" type="qcurve"/>
+      <point x="70" y="23" type="line"/>
+      <point x="115" y="50"/>
+      <point x="128" y="90" type="qcurve"/>
+      <point x="138" y="47"/>
+      <point x="188" y="24" type="qcurve"/>
+      <point x="201" y="39" type="line"/>
+      <point x="140" y="61"/>
+      <point x="137" y="115" type="qcurve"/>
+      <point x="195" y="115" type="line"/>
+      <point x="195" y="134" type="line"/>
+    </contour>
+  </outline>
+</glyph>

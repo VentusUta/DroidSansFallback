@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="muaSquare" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3382"/>
+  <note>
+uni3382
+</note>
+  <outline>
+    <contour>
+      <point x="203" y="184" type="line"/>
+      <point x="179" y="184" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="151" y="0" type="line"/>
+      <point x="166" y="57" type="line"/>
+      <point x="216" y="57" type="line"/>
+      <point x="231" y="0" type="line"/>
+      <point x="254" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="77" type="line"/>
+      <point x="191" y="156" type="line"/>
+      <point x="210" y="77" type="line"/>
+    </contour>
+    <contour>
+      <point x="115" y="30" type="line"/>
+      <point x="111" y="19"/>
+      <point x="107" y="19" type="qcurve" smooth="yes"/>
+      <point x="101" y="19"/>
+      <point x="101" y="28" type="qcurve" smooth="yes"/>
+      <point x="102" y="39" type="line"/>
+      <point x="117" y="137" type="line"/>
+      <point x="95" y="137" type="line"/>
+      <point x="82" y="53" type="line" smooth="yes"/>
+      <point x="75" y="17"/>
+      <point x="56" y="17" type="qcurve" smooth="yes"/>
+      <point x="41" y="17"/>
+      <point x="41" y="36" type="qcurve"/>
+      <point x="56" y="137" type="line"/>
+      <point x="33" y="137" type="line"/>
+      <point x="2" y="-61" type="line"/>
+      <point x="24" y="-61" type="line"/>
+      <point x="35" y="9" type="line"/>
+      <point x="36" y="5"/>
+      <point x="48" y="-2"/>
+      <point x="54" y="-2" type="qcurve" smooth="yes"/>
+      <point x="73" y="-2"/>
+      <point x="84" y="18" type="qcurve"/>
+      <point x="85" y="18" type="line"/>
+      <point x="89" y="-2"/>
+      <point x="102" y="-2" type="qcurve" smooth="yes"/>
+      <point x="119" y="-2"/>
+      <point x="128" y="23" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

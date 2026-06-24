@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ou-bopomofo" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3121"/>
+  <note>
+uni3121
+</note>
+  <outline>
+    <contour>
+      <point x="196" y="48"/>
+      <point x="158" y="77" type="qcurve"/>
+      <point x="183" y="108"/>
+      <point x="207" y="168" type="qcurve"/>
+      <point x="190" y="186" type="line"/>
+      <point x="44" y="186" type="line"/>
+      <point x="44" y="164" type="line"/>
+      <point x="181" y="164" type="line"/>
+      <point x="160" y="115"/>
+      <point x="139" y="89" type="qcurve"/>
+      <point x="95" y="116"/>
+      <point x="53" y="134" type="qcurve"/>
+      <point x="42" y="114" type="line"/>
+      <point x="89" y="94"/>
+      <point x="124" y="72" type="qcurve"/>
+      <point x="87" y="37"/>
+      <point x="30" y="25" type="qcurve"/>
+      <point x="37" y="4" type="line"/>
+      <point x="98" y="14"/>
+      <point x="142" y="59" type="qcurve"/>
+      <point x="181" y="29"/>
+      <point x="208" y="-2" type="qcurve"/>
+      <point x="226" y="18" type="line"/>
+    </contour>
+  </outline>
+</glyph>

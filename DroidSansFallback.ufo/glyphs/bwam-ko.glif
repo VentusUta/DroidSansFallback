@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bwam-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BD20"/>
+  <note>
+uniBD20
+</note>
+  <outline>
+    <component base="glyph48737"/>
+    <component base="glyph48296"/>
+    <component base="glyph48117"/>
+  </outline>
+</glyph>

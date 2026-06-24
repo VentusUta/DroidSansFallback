@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="prolonged-kana" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30FC"/>
+  <note>
+uni30FC
+</note>
+  <outline>
+    <contour>
+      <point x="220" y="107" type="line"/>
+      <point x="35" y="107" type="line"/>
+      <point x="35" y="78" type="line"/>
+      <point x="220" y="78" type="line"/>
+    </contour>
+  </outline>
+</glyph>

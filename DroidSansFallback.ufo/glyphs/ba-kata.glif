@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ba-kata" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30D0"/>
+  <note>
+uni30D0
+</note>
+  <outline>
+    <contour>
+      <point x="245" y="198"/>
+      <point x="226" y="218" type="qcurve"/>
+      <point x="212" y="208" type="line"/>
+      <point x="230" y="190"/>
+      <point x="240" y="169" type="qcurve"/>
+      <point x="254" y="179" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="187"/>
+      <point x="202" y="205" type="qcurve"/>
+      <point x="188" y="195" type="line"/>
+      <point x="207" y="177"/>
+      <point x="216" y="156" type="qcurve"/>
+      <point x="230" y="166" type="line"/>
+    </contour>
+    <contour>
+      <point x="185" y="76"/>
+      <point x="178" y="191" type="qcurve"/>
+      <point x="154" y="188" type="line"/>
+      <point x="163" y="57"/>
+      <point x="220" y="-14" type="qcurve"/>
+      <point x="239" y="4" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="190" type="line"/>
+      <point x="72" y="73"/>
+      <point x="16" y="1" type="qcurve"/>
+      <point x="35" y="-15" type="line"/>
+      <point x="95" y="64"/>
+      <point x="96" y="189" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

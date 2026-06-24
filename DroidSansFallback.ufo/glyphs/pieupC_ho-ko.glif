@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pieupCho-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="1107"/>
+  <unicode hex="11B8"/>
+  <unicode hex="3142"/>
+  <note>
+uni11B8
+</note>
+  <outline>
+    <contour>
+      <point x="51" y="30" type="line"/>
+      <point x="71" y="30" type="line"/>
+      <point x="71" y="36" type="line"/>
+      <point x="184" y="36" type="line"/>
+      <point x="184" y="30" type="line"/>
+      <point x="204" y="30" type="line"/>
+      <point x="204" y="153" type="line"/>
+      <point x="184" y="153" type="line"/>
+      <point x="184" y="115" type="line"/>
+      <point x="71" y="115" type="line"/>
+      <point x="71" y="153" type="line"/>
+      <point x="51" y="153" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="96" type="line"/>
+      <point x="184" y="96" type="line"/>
+      <point x="184" y="55" type="line"/>
+      <point x="71" y="55" type="line"/>
+    </contour>
+  </outline>
+</glyph>

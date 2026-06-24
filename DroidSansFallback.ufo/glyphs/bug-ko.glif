@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bug-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BD81"/>
+  <note>
+uniBD81
+</note>
+  <outline>
+    <component base="glyph48745"/>
+    <component base="glyph48323"/>
+    <component base="glyph48069"/>
+  </outline>
+</glyph>

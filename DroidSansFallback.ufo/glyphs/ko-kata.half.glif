@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ko-kata.half" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FF7A"/>
+  <note>
+uniFF7A
+</note>
+  <outline>
+    <contour>
+      <point x="114" y="168" type="line"/>
+      <point x="16" y="168" type="line"/>
+      <point x="16" y="146" type="line"/>
+      <point x="91" y="146" type="line"/>
+      <point x="91" y="29" type="line"/>
+      <point x="14" y="29" type="line"/>
+      <point x="14" y="8" type="line"/>
+      <point x="91" y="8" type="line"/>
+      <point x="91" y="-9" type="line"/>
+      <point x="114" y="-9" type="line"/>
+    </contour>
+  </outline>
+</glyph>

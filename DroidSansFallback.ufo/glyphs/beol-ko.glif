@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beol-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BC8C"/>
+  <note>
+uniBC8C
+</note>
+  <outline>
+    <component base="glyph48729"/>
+    <component base="glyph48031"/>
+    <component base="glyph48680"/>
+  </outline>
+</glyph>

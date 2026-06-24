@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gyin-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="AE18"/>
+  <note>
+uniAE18
+</note>
+  <outline>
+    <component base="glyph47832"/>
+    <component base="glyph47833"/>
+    <component base="glyph47704"/>
+  </outline>
+</glyph>

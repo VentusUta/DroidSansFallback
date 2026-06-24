@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="myinh-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BBE2"/>
+  <note>
+uniBBE2
+</note>
+  <outline>
+    <component base="glyph48702"/>
+    <component base="glyph48368"/>
+    <component base="glyph48107"/>
+  </outline>
+</glyph>

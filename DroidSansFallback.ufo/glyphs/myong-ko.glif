@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="myong-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BB2D"/>
+  <note>
+uniBB2D
+</note>
+  <outline>
+    <component base="glyph48696"/>
+    <component base="glyph48320"/>
+    <component base="glyph47731"/>
+  </outline>
+</glyph>

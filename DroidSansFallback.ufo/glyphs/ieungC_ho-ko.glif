@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ieungCho-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="110B"/>
+  <unicode hex="11BC"/>
+  <unicode hex="3147"/>
+  <note>
+uni11BC
+</note>
+  <outline>
+    <contour>
+      <point x="55" y="149"/>
+      <point x="55" y="89" type="qcurve" smooth="yes"/>
+      <point x="55" y="24"/>
+      <point x="129" y="24" type="qcurve" smooth="yes"/>
+      <point x="202" y="24"/>
+      <point x="202" y="89" type="qcurve" smooth="yes"/>
+      <point x="202" y="149"/>
+      <point x="138" y="155" type="qcurve"/>
+      <point x="138" y="171" type="line"/>
+      <point x="119" y="171" type="line"/>
+      <point x="119" y="155" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="137"/>
+      <point x="182" y="89" type="qcurve" smooth="yes"/>
+      <point x="182" y="42"/>
+      <point x="129" y="42" type="qcurve" smooth="yes"/>
+      <point x="75" y="42"/>
+      <point x="75" y="89" type="qcurve" smooth="yes"/>
+      <point x="75" y="137"/>
+      <point x="129" y="137" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

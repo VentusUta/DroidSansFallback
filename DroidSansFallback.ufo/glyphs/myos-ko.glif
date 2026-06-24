@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="myos-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BB2B"/>
+  <note>
+uniBB2B
+</note>
+  <outline>
+    <component base="glyph48696"/>
+    <component base="glyph48320"/>
+    <component base="glyph47654"/>
+  </outline>
+</glyph>

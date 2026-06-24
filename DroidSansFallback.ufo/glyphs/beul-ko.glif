@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beul-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BE14"/>
+  <note>
+uniBE14
+</note>
+  <outline>
+    <component base="glyph48735"/>
+    <component base="glyph48362"/>
+    <component base="glyph48077"/>
+  </outline>
+</glyph>

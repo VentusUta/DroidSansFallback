@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nieunCho-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="1102"/>
+  <unicode hex="11AB"/>
+  <unicode hex="3134"/>
+  <note>
+uni3134
+</note>
+  <outline>
+    <contour>
+      <point x="50" y="29" type="line"/>
+      <point x="209" y="29" type="line"/>
+      <point x="209" y="48" type="line"/>
+      <point x="70" y="48" type="line"/>
+      <point x="70" y="153" type="line"/>
+      <point x="50" y="153" type="line"/>
+    </contour>
+  </outline>
+</glyph>

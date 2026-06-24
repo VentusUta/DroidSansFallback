@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mohmSquare" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="33C1"/>
+  <note>
+uni33C1
+</note>
+  <outline>
+    <contour>
+      <point x="254" y="21" type="line"/>
+      <point x="224" y="21" type="line"/>
+      <point x="254" y="48"/>
+      <point x="254" y="100" type="qcurve" smooth="yes"/>
+      <point x="254" y="141"/>
+      <point x="218" y="186"/>
+      <point x="164" y="186"/>
+      <point x="129" y="141"/>
+      <point x="129" y="100" type="qcurve" smooth="yes"/>
+      <point x="129" y="48"/>
+      <point x="159" y="21" type="qcurve"/>
+      <point x="129" y="21" type="line"/>
+      <point x="129" y="0" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="183" y="18" type="line"/>
+      <point x="154" y="44"/>
+      <point x="154" y="101" type="qcurve" smooth="yes"/>
+      <point x="154" y="165"/>
+      <point x="192" y="165" type="qcurve" smooth="yes"/>
+      <point x="229" y="165"/>
+      <point x="229" y="101" type="qcurve" smooth="yes"/>
+      <point x="229" y="44"/>
+      <point x="200" y="18" type="qcurve"/>
+      <point x="200" y="0" type="line"/>
+      <point x="254" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="183" type="line"/>
+      <point x="92" y="183" type="line"/>
+      <point x="64" y="45" type="line"/>
+      <point x="63" y="45" type="line"/>
+      <point x="35" y="183" type="line"/>
+      <point x="2" y="183" type="line"/>
+      <point x="2" y="0" type="line"/>
+      <point x="23" y="0" type="line"/>
+      <point x="21" y="146" type="line"/>
+      <point x="22" y="146" type="line"/>
+      <point x="53" y="0" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="105" y="146" type="line"/>
+      <point x="107" y="146" type="line"/>
+      <point x="104" y="99" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

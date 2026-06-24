@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ho-kata" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30DB"/>
+  <note>
+uni30DB
+</note>
+  <outline>
+    <contour>
+      <point x="232" y="158" type="line"/>
+      <point x="139" y="158" type="line"/>
+      <point x="139" y="198" type="line"/>
+      <point x="115" y="198" type="line"/>
+      <point x="115" y="158" type="line"/>
+      <point x="24" y="159" type="line"/>
+      <point x="24" y="135" type="line"/>
+      <point x="116" y="135" type="line"/>
+      <point x="116" y="19" type="line" smooth="yes"/>
+      <point x="116" y="9"/>
+      <point x="108" y="9" type="qcurve"/>
+      <point x="81" y="13" type="line"/>
+      <point x="84" y="-12" type="line"/>
+      <point x="108" y="-15" type="line"/>
+      <point x="138" y="-15"/>
+      <point x="139" y="12" type="qcurve" smooth="yes"/>
+      <point x="139" y="135" type="line"/>
+      <point x="232" y="135" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="71"/>
+      <point x="186" y="124" type="qcurve"/>
+      <point x="164" y="116" type="line"/>
+      <point x="183" y="59"/>
+      <point x="219" y="4" type="qcurve"/>
+      <point x="239" y="18" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="121" type="line"/>
+      <point x="47" y="57"/>
+      <point x="17" y="16" type="qcurve"/>
+      <point x="38" y="3" type="line"/>
+      <point x="71" y="49"/>
+      <point x="86" y="114" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sesamedot" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="FE45"/>
+  <note>
+uniFE45
+</note>
+  <outline>
+    <contour>
+      <point x="140" y="101"/>
+      <point x="110" y="128" type="qcurve"/>
+      <point x="96" y="115" type="line"/>
+      <point x="145" y="61" type="line"/>
+      <point x="160" y="75" type="line"/>
+    </contour>
+  </outline>
+</glyph>

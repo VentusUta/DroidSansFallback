@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three-hangzhou" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3023"/>
+  <note>
+uni3023
+</note>
+  <outline>
+    <contour>
+      <point x="188" y="-23" type="line"/>
+      <point x="208" y="-23" type="line"/>
+      <point x="208" y="204" type="line"/>
+      <point x="188" y="204" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="6" type="line"/>
+      <point x="72" y="6" type="line"/>
+      <point x="72" y="184" type="line"/>
+      <point x="52" y="184" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="21" type="line"/>
+      <point x="139" y="21" type="line"/>
+      <point x="139" y="167" type="line"/>
+      <point x="119" y="167" type="line"/>
+    </contour>
+  </outline>
+</glyph>

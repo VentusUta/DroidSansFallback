@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero-han" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="3007"/>
+  <note>
+uni3007
+</note>
+  <outline>
+    <contour>
+      <point x="175" y="-14"/>
+      <point x="240" y="49"/>
+      <point x="240" y="93" type="qcurve" smooth="yes"/>
+      <point x="240" y="136"/>
+      <point x="175" y="199"/>
+      <point x="81" y="199"/>
+      <point x="16" y="136"/>
+      <point x="16" y="93" type="qcurve" smooth="yes"/>
+      <point x="16" y="49"/>
+      <point x="81" y="-14"/>
+    </contour>
+    <contour>
+      <point x="167" y="182"/>
+      <point x="221" y="129"/>
+      <point x="221" y="57"/>
+      <point x="167" y="5"/>
+      <point x="128" y="5" type="qcurve" smooth="yes"/>
+      <point x="88" y="5"/>
+      <point x="35" y="57"/>
+      <point x="35" y="129"/>
+      <point x="89" y="182"/>
+    </contour>
+  </outline>
+</glyph>

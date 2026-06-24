@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yosmall-kata.half" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FF6E"/>
+  <note>
+uniFF6E
+</note>
+  <outline>
+    <contour>
+      <point x="105" y="136" type="line"/>
+      <point x="24" y="136" type="line"/>
+      <point x="24" y="118" type="line"/>
+      <point x="86" y="118" type="line"/>
+      <point x="86" y="75" type="line"/>
+      <point x="26" y="75" type="line"/>
+      <point x="26" y="57" type="line"/>
+      <point x="86" y="57" type="line"/>
+      <point x="86" y="5" type="line"/>
+      <point x="23" y="5" type="line"/>
+      <point x="23" y="-14" type="line"/>
+      <point x="86" y="-14" type="line"/>
+      <point x="86" y="-26" type="line"/>
+      <point x="105" y="-26" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar.full" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="FF5C"/>
+  <note>
+uniFF5C
+</note>
+  <outline>
+    <contour>
+      <point x="119" y="-61" type="line"/>
+      <point x="137" y="-61" type="line"/>
+      <point x="137" y="195" type="line"/>
+      <point x="119" y="195" type="line"/>
+    </contour>
+  </outline>
+</glyph>

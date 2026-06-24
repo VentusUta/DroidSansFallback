@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mwmegaSquare" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="33BF"/>
+  <note>
+uni33BF
+</note>
+  <outline>
+    <contour>
+      <point x="232" y="183" type="line"/>
+      <point x="218" y="58" type="line"/>
+      <point x="213" y="109" type="line"/>
+      <point x="202" y="183" type="line"/>
+      <point x="180" y="183" type="line"/>
+      <point x="163" y="58" type="line"/>
+      <point x="149" y="183" type="line"/>
+      <point x="127" y="183" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="191" y="130" type="line"/>
+      <point x="195" y="90" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="228" y="0" type="line"/>
+      <point x="255" y="183" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="183" type="line"/>
+      <point x="92" y="183" type="line"/>
+      <point x="64" y="45" type="line"/>
+      <point x="63" y="45" type="line"/>
+      <point x="34" y="183" type="line"/>
+      <point x="1" y="183" type="line"/>
+      <point x="1" y="0" type="line"/>
+      <point x="23" y="0" type="line"/>
+      <point x="21" y="146" type="line"/>
+      <point x="22" y="146" type="line"/>
+      <point x="53" y="0" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="105" y="146" type="line"/>
+      <point x="106" y="146" type="line"/>
+      <point x="104" y="99" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

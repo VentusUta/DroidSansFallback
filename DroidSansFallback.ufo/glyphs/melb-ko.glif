@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="melb-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="BA5F"/>
+  <note>
+uniBA5F
+</note>
+  <outline>
+    <component base="glyph48673"/>
+    <component base="glyph48685"/>
+    <component base="glyph48000"/>
+  </outline>
+</glyph>

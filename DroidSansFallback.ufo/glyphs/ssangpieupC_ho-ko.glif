@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ssangpieupCho-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="1108"/>
+  <unicode hex="3143"/>
+  <note>
+uni1108
+</note>
+  <outline>
+    <contour>
+      <point x="38" y="28" type="line"/>
+      <point x="58" y="28" type="line"/>
+      <point x="58" y="33" type="line"/>
+      <point x="107" y="33" type="line"/>
+      <point x="107" y="28" type="line"/>
+      <point x="127" y="28" type="line"/>
+      <point x="127" y="153" type="line"/>
+      <point x="107" y="153" type="line"/>
+      <point x="107" y="115" type="line"/>
+      <point x="58" y="115" type="line"/>
+      <point x="58" y="153" type="line"/>
+      <point x="38" y="153" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="96" type="line"/>
+      <point x="107" y="96" type="line"/>
+      <point x="107" y="52" type="line"/>
+      <point x="58" y="52" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="28" type="line"/>
+      <point x="152" y="28" type="line"/>
+      <point x="152" y="33" type="line"/>
+      <point x="200" y="33" type="line"/>
+      <point x="200" y="28" type="line"/>
+      <point x="220" y="28" type="line"/>
+      <point x="220" y="153" type="line"/>
+      <point x="200" y="153" type="line"/>
+      <point x="200" y="115" type="line"/>
+      <point x="152" y="115" type="line"/>
+      <point x="152" y="153" type="line"/>
+      <point x="132" y="153" type="line"/>
+    </contour>
+    <contour>
+      <point x="152" y="96" type="line"/>
+      <point x="200" y="96" type="line"/>
+      <point x="200" y="52" type="line"/>
+      <point x="152" y="52" type="line"/>
+    </contour>
+  </outline>
+</glyph>

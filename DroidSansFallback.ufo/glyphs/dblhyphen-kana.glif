@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblhyphen-kana" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="30A0"/>
+  <note>
+uni30A0
+</note>
+  <outline>
+    <contour>
+      <point x="186" y="107" type="line"/>
+      <point x="186" y="125" type="line"/>
+      <point x="70" y="125" type="line"/>
+      <point x="70" y="107" type="line"/>
+    </contour>
+    <contour>
+      <point x="186" y="55" type="line"/>
+      <point x="186" y="74" type="line"/>
+      <point x="70" y="74" type="line"/>
+      <point x="70" y="55" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="khieukhCho-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="110F"/>
+  <unicode hex="11BF"/>
+  <unicode hex="314B"/>
+  <note>
+uni110F
+</note>
+  <outline>
+    <contour>
+      <point x="45" y="136" type="line"/>
+      <point x="185" y="136" type="line"/>
+      <point x="185" y="106" type="line"/>
+      <point x="45" y="90" type="line"/>
+      <point x="47" y="71" type="line"/>
+      <point x="185" y="91" type="line"/>
+      <point x="185" y="30" type="line"/>
+      <point x="205" y="30" type="line"/>
+      <point x="205" y="155" type="line"/>
+      <point x="45" y="155" type="line"/>
+    </contour>
+  </outline>
+</glyph>

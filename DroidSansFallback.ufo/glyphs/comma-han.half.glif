@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma-han.half" format="2">
+  <advance width="128" height="256"/>
+  <unicode hex="FF64"/>
+  <note>
+uniFF64
+</note>
+  <outline>
+    <contour>
+      <point x="56" y="11"/>
+      <point x="22" y="38" type="qcurve"/>
+      <point x="8" y="26" type="line"/>
+      <point x="39" y="2"/>
+      <point x="59" y="-30" type="qcurve"/>
+      <point x="75" y="-17" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph41581" format="2">
+  <advance width="256" height="256"/>
+  <note>
+glyph41581
+</note>
+  <outline>
+    <contour>
+      <point x="166" y="105" type="line"/>
+      <point x="166" y="130" type="line"/>
+      <point x="147" y="130" type="line"/>
+      <point x="147" y="105" type="line"/>
+      <point x="110" y="105" type="line"/>
+      <point x="110" y="130" type="line"/>
+      <point x="91" y="130" type="line"/>
+      <point x="91" y="105" type="line"/>
+      <point x="33" y="105" type="line"/>
+      <point x="33" y="-23" type="line"/>
+      <point x="52" y="-23" type="line"/>
+      <point x="52" y="-13" type="line"/>
+      <point x="205" y="-13" type="line"/>
+      <point x="205" y="-23" type="line"/>
+      <point x="224" y="-23" type="line"/>
+      <point x="224" y="105" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="87" type="line"/>
+      <point x="91" y="87" type="line"/>
+      <point x="91" y="54" type="line"/>
+      <point x="52" y="54" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="87" type="line"/>
+      <point x="147" y="54" type="line"/>
+      <point x="110" y="54" type="line"/>
+      <point x="110" y="87" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="87" type="line"/>
+      <point x="205" y="54" type="line"/>
+      <point x="166" y="54" type="line"/>
+      <point x="166" y="87" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="36" type="line"/>
+      <point x="91" y="36" type="line"/>
+      <point x="91" y="5" type="line"/>
+      <point x="52" y="5" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="36" type="line"/>
+      <point x="147" y="36" type="line"/>
+      <point x="147" y="5" type="line"/>
+      <point x="110" y="5" type="line"/>
+    </contour>
+    <contour>
+      <point x="166" y="36" type="line"/>
+      <point x="205" y="36" type="line"/>
+      <point x="205" y="5" type="line"/>
+      <point x="166" y="5" type="line"/>
+    </contour>
+  </outline>
+</glyph>

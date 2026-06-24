@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="syeok-ko" format="2">
+  <advance width="256" height="256"/>
+  <unicode hex="C16C"/>
+  <note>
+uniC16C
+</note>
+  <outline>
+    <component base="glyph48910"/>
+    <component base="glyph48275"/>
+    <component base="glyph48046"/>
+  </outline>
+</glyph>

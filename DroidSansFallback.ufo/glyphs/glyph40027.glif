@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph40027" format="2">
+  <advance width="256" height="256"/>
+  <note>
+glyph40027
+</note>
+  <outline>
+    <contour>
+      <point x="116" y="40" type="line"/>
+      <point x="224" y="40" type="line"/>
+      <point x="224" y="196" type="line"/>
+      <point x="116" y="196" type="line"/>
+    </contour>
+    <contour>
+      <point x="136" y="177" type="line"/>
+      <point x="204" y="177" type="line"/>
+      <point x="204" y="127" type="line"/>
+      <point x="136" y="127" type="line"/>
+    </contour>
+    <contour>
+      <point x="136" y="108" type="line"/>
+      <point x="204" y="108" type="line"/>
+      <point x="204" y="59" type="line"/>
+      <point x="136" y="59" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="-11" type="line"/>
+      <point x="242" y="-11" type="line"/>
+      <point x="242" y="8" type="line"/>
+      <point x="98" y="8" type="line"/>
+    </contour>
+  </outline>
+</glyph>
