@@ -1,0 +1,23 @@
+{
+glyphname = "syubs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48952;
+},
+{
+ref = glyph48357;
+},
+{
+ref = glyph48087;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC29A;
+unicode = 49818;
+}

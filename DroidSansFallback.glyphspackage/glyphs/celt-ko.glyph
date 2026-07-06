@@ -1,0 +1,23 @@
+{
+glyphname = "celt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49135;
+},
+{
+ref = glyph49144;
+},
+{
+ref = glyph48002;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCCC1;
+unicode = 52417;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "reolh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48483;
+},
+{
+ref = glyph48484;
+},
+{
+ref = glyph48038;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB7FB;
+unicode = 47099;
+}

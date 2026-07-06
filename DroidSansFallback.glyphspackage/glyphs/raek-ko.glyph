@@ -1,0 +1,23 @@
+{
+glyphname = "raek-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48475;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph48012;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB7B0;
+unicode = 47024;
+}

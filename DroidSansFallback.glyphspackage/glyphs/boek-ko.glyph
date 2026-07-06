@@ -1,0 +1,23 @@
+{
+glyphname = "boek-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48737;
+},
+{
+ref = glyph48312;
+},
+{
+ref = glyph48126;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBD60;
+unicode = 48480;
+}

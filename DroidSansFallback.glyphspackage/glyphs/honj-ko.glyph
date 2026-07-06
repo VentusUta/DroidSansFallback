@@ -1,0 +1,23 @@
+{
+glyphname = "honj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49363;
+},
+{
+ref = glyph49364;
+},
+{
+ref = glyph49371;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD63D;
+unicode = 54845;
+}

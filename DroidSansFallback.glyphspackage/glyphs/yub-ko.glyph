@@ -1,0 +1,23 @@
+{
+glyphname = "yub-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49046;
+},
+{
+ref = glyph48355;
+},
+{
+ref = glyph48086;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC731;
+unicode = 50993;
+}

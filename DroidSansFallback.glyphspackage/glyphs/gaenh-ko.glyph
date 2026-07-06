@@ -1,0 +1,23 @@
+{
+glyphname = "gaenh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47534;
+},
+{
+ref = glyph47535;
+},
+{
+ref = glyph47536;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC22;
+unicode = 44066;
+}

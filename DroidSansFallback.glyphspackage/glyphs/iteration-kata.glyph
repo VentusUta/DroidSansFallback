@@ -1,0 +1,25 @@
+{
+glyphname = "iteration-kata";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(86,155,q),
+(70,138,l),
+(123,92,o),
+(163,38,q),
+(182,54,l),
+(134,117,o)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni30FD;
+unicode = 12541;
+}

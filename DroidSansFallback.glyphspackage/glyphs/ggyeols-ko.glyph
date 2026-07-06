@@ -1,0 +1,23 @@
+{
+glyphname = "ggyeols-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47878;
+},
+{
+ref = glyph47619;
+},
+{
+ref = glyph47590;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAF00;
+unicode = 44800;
+}

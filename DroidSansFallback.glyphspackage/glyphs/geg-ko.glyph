@@ -1,0 +1,23 @@
+{
+glyphname = "geg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47525;
+},
+{
+ref = glyph47609;
+},
+{
+ref = glyph47527;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC8D;
+unicode = 44173;
+}

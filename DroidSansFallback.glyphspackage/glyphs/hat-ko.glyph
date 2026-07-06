@@ -1,0 +1,23 @@
+{
+glyphname = "hat-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49335;
+},
+{
+ref = glyph47499;
+},
+{
+ref = glyph48127;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD571;
+unicode = 54641;
+}

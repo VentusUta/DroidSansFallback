@@ -1,0 +1,23 @@
+{
+glyphname = "yod-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49034;
+},
+{
+ref = glyph48317;
+},
+{
+ref = glyph47728;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC69B;
+unicode = 50843;
+}

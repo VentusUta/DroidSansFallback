@@ -1,0 +1,23 @@
+{
+glyphname = "pyuj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49321;
+},
+{
+ref = glyph48355;
+},
+{
+ref = glyph48089;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD4FE;
+unicode = 54526;
+}

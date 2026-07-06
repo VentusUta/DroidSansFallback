@@ -1,0 +1,23 @@
+{
+glyphname = "deoh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48267;
+},
+{
+ref = glyph48268;
+},
+{
+ref = glyph48049;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB36F;
+unicode = 45935;
+}

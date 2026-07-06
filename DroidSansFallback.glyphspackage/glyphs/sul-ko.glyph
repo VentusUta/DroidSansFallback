@@ -1,0 +1,23 @@
+{
+glyphname = "sul-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48952;
+},
+{
+ref = glyph48327;
+},
+{
+ref = glyph48077;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC220;
+unicode = 49696;
+}

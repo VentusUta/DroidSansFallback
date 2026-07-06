@@ -1,0 +1,27 @@
+{
+glyphname = "ei-bopomofo";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(139,193,q),
+(27,166,l),
+(33,144,l),
+(122,165,l),
+(149,68,o),
+(207,-4,q),
+(229,11,l),
+(166,80,o)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni311F;
+unicode = 12575;
+}

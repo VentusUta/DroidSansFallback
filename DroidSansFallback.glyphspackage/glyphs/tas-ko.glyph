@@ -1,0 +1,23 @@
+{
+glyphname = "tas-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49255;
+},
+{
+ref = glyph47513;
+},
+{
+ref = glyph47979;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD0D3;
+unicode = 53459;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "bbyelt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48769;
+},
+{
+ref = glyph48804;
+},
+{
+ref = glyph48002;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBF31;
+unicode = 48945;
+}

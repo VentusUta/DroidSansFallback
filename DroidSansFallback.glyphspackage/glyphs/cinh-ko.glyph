@@ -1,0 +1,23 @@
+{
+glyphname = "cinh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49131;
+},
+{
+ref = glyph47841;
+},
+{
+ref = glyph48029;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE5E;
+unicode = 52830;
+}

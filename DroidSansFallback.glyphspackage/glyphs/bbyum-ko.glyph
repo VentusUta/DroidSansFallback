@@ -1,0 +1,23 @@
+{
+glyphname = "bbyum-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48845;
+},
+{
+ref = glyph48879;
+},
+{
+ref = glyph48085;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC04C;
+unicode = 49228;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "palp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49296;
+},
+{
+ref = glyph47499;
+},
+{
+ref = glyph47974;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD31A;
+unicode = 54042;
+}

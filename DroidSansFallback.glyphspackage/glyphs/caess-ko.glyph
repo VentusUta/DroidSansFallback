@@ -1,0 +1,23 @@
+{
+glyphname = "caess-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49133;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph47614;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCC58;
+unicode = 52312;
+}

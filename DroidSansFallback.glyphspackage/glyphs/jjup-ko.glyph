@@ -1,0 +1,23 @@
+{
+glyphname = "jjup-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49117;
+},
+{
+ref = glyph48420;
+},
+{
+ref = glyph48093;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCB62;
+unicode = 52066;
+}

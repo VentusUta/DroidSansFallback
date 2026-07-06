@@ -1,0 +1,23 @@
+{
+glyphname = "ddoeb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48408;
+},
+{
+ref = glyph48312;
+},
+{
+ref = glyph48118;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB675;
+unicode = 46709;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "syolt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48920;
+},
+{
+ref = glyph48948;
+},
+{
+ref = glyph48082;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC209;
+unicode = 49673;
+}

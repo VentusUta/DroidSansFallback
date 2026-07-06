@@ -1,0 +1,20 @@
+{
+glyphname = "jja-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49092;
+},
+{
+ref = glyph47844;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC9DC;
+unicode = 51676;
+}

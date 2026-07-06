@@ -1,0 +1,23 @@
+{
+glyphname = "hom-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49363;
+},
+{
+ref = glyph49364;
+},
+{
+ref = glyph49384;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD648;
+unicode = 54856;
+}

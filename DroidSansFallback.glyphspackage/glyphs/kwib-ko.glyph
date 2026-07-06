@@ -1,0 +1,23 @@
+{
+glyphname = "kwib-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49239;
+},
+{
+ref = glyph48206;
+},
+{
+ref = glyph48225;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD045;
+unicode = 53317;
+}

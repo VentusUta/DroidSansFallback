@@ -1,0 +1,23 @@
+{
+glyphname = "mols-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48698;
+},
+{
+ref = glyph48291;
+},
+{
+ref = glyph48081;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBAB4;
+unicode = 47796;
+}

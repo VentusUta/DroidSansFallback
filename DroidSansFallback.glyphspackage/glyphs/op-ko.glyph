@@ -1,0 +1,23 @@
+{
+glyphname = "op-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49034;
+},
+{
+ref = glyph48287;
+},
+{
+ref = glyph48093;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC63E;
+unicode = 50750;
+}

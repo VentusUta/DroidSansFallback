@@ -1,0 +1,20 @@
+{
+glyphname = "weo-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48330;
+},
+{
+ref = glyph49048;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC6CC;
+unicode = 50892;
+}

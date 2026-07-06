@@ -1,0 +1,23 @@
+{
+glyphname = "kyul-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49237;
+},
+{
+ref = glyph48242;
+},
+{
+ref = glyph48077;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD058;
+unicode = 53336;
+}

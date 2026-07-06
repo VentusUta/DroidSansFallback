@@ -1,0 +1,23 @@
+{
+glyphname = "kam-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49186;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47976;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE84;
+unicode = 52868;
+}

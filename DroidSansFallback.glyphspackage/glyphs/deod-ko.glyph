@@ -1,0 +1,23 @@
+{
+glyphname = "deod-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48265;
+},
+{
+ref = glyph48266;
+},
+{
+ref = glyph48030;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB35B;
+unicode = 45915;
+}

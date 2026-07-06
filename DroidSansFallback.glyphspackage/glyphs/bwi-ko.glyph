@@ -1,0 +1,20 @@
+{
+glyphname = "bwi-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48748;
+},
+{
+ref = glyph48348;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBDD4;
+unicode = 48596;
+}

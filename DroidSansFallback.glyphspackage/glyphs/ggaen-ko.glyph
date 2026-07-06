@@ -1,0 +1,23 @@
+{
+glyphname = "ggaen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47856;
+},
+{
+ref = glyph47857;
+},
+{
+ref = glyph47532;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAE6C;
+unicode = 44652;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "haess-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47535;
+},
+{
+ref = glyph49337;
+},
+{
+ref = glyph48186;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD588;
+unicode = 54664;
+}

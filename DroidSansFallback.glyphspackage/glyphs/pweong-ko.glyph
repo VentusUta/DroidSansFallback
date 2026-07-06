@@ -1,0 +1,23 @@
+{
+glyphname = "pweong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49325;
+},
+{
+ref = glyph48336;
+},
+{
+ref = glyph48187;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD4A9;
+unicode = 54441;
+}

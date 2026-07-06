@@ -1,0 +1,23 @@
+{
+glyphname = "hwet-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49503;
+},
+{
+ref = glyph49504;
+},
+{
+ref = glyph49494;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD715;
+unicode = 55061;
+}

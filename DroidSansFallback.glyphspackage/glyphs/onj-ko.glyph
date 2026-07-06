@@ -1,0 +1,23 @@
+{
+glyphname = "onj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49034;
+},
+{
+ref = glyph48287;
+},
+{
+ref = glyph48073;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC629;
+unicode = 50729;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "gyaem-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47525;
+},
+{
+ref = glyph47568;
+},
+{
+ref = glyph47546;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC64;
+unicode = 44132;
+}

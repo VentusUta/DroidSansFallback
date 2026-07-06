@@ -1,0 +1,23 @@
+{
+glyphname = "swij-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48954;
+},
+{
+ref = glyph48349;
+},
+{
+ref = glyph48231;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC282;
+unicode = 49794;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "hung-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49453;
+},
+{
+ref = glyph49454;
+},
+{
+ref = glyph49390;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD6D9;
+unicode = 55001;
+}

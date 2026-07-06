@@ -1,0 +1,23 @@
+{
+glyphname = "mwigs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48712;
+},
+{
+ref = glyph48349;
+},
+{
+ref = glyph48209;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBB8B;
+unicode = 48011;
+}

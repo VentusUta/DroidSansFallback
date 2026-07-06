@@ -1,0 +1,23 @@
+{
+glyphname = "ddwid-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48429;
+},
+{
+ref = glyph48448;
+},
+{
+ref = glyph48215;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB6F7;
+unicode = 46839;
+}

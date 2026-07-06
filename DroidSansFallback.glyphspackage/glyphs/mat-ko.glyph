@@ -1,0 +1,23 @@
+{
+glyphname = "mat-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48668;
+},
+{
+ref = glyph47499;
+},
+{
+ref = glyph47984;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB9E1;
+unicode = 47585;
+}

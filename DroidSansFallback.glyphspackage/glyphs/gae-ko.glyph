@@ -1,0 +1,20 @@
+{
+glyphname = "gae-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47523;
+},
+{
+ref = glyph47524;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC1C;
+unicode = 44060;
+}

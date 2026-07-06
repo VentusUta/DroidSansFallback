@@ -1,0 +1,23 @@
+{
+glyphname = "kwen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49244;
+},
+{
+ref = glyph48200;
+},
+{
+ref = glyph48167;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD01C;
+unicode = 53276;
+}

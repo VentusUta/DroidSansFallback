@@ -1,0 +1,29 @@
+{
+glyphname = "ko-kata";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(43,169,l),
+(43,145,l),
+(192,145,l),
+(192,30,l),
+(40,30,l),
+(40,7,l),
+(192,7,l),
+(192,-10,l),
+(216,-10,l),
+(216,169,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni30B3;
+unicode = 12467;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "keup-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49248;
+},
+{
+ref = glyph47824;
+},
+{
+ref = glyph48093;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD086;
+unicode = 53382;
+}

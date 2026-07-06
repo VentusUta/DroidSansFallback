@@ -1,0 +1,23 @@
+{
+glyphname = "hwegs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49499;
+},
+{
+ref = glyph49500;
+},
+{
+ref = glyph49466;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD6FF;
+unicode = 55039;
+}

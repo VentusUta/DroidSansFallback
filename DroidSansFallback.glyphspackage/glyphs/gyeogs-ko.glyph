@@ -1,0 +1,23 @@
+{
+glyphname = "gyeogs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47574;
+},
+{
+ref = glyph47616;
+},
+{
+ref = glyph47578;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniACAB;
+unicode = 44203;
+}

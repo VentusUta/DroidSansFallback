@@ -1,0 +1,23 @@
+{
+glyphname = "jyess-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49061;
+},
+{
+ref = glyph48281;
+},
+{
+ref = glyph47614;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC868;
+unicode = 51304;
+}

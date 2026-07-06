@@ -1,0 +1,23 @@
+{
+glyphname = "ddyanj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48372;
+},
+{
+ref = glyph47862;
+},
+{
+ref = glyph47964;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB56D;
+unicode = 46445;
+}

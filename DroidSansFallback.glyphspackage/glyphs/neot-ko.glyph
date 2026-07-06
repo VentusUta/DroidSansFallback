@@ -1,0 +1,23 @@
+{
+glyphname = "neot-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48027;
+},
+{
+ref = glyph48028;
+},
+{
+ref = glyph48047;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB121;
+unicode = 45345;
+}

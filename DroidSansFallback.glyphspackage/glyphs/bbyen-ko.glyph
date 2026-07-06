@@ -1,0 +1,23 @@
+{
+glyphname = "bbyen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48767;
+},
+{
+ref = glyph48803;
+},
+{
+ref = glyph47993;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBF28;
+unicode = 48936;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "myaeh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48673;
+},
+{
+ref = glyph47568;
+},
+{
+ref = glyph48015;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBA37;
+unicode = 47671;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "rwik-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48573;
+},
+{
+ref = glyph48619;
+},
+{
+ref = glyph48647;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB954;
+unicode = 47444;
+}

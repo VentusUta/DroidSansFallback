@@ -1,0 +1,23 @@
+{
+glyphname = "melh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48673;
+},
+{
+ref = glyph48685;
+},
+{
+ref = glyph48004;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBA63;
+unicode = 47715;
+}

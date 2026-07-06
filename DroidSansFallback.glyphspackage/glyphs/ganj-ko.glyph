@@ -1,0 +1,23 @@
+{
+glyphname = "ganj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47488;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47497;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC05;
+unicode = 44037;
+}

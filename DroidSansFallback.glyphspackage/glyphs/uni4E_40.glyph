@@ -1,0 +1,26 @@
+{
+glyphname = uni4E40;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(69,83,o),
+(165,7,o),
+(230,-12,q),
+(240,10,l),
+(99,43,o),
+(64,172,q),
+(44,165,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni4E40;
+unicode = 20032;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "byun-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48746;
+},
+{
+ref = glyph48356;
+},
+{
+ref = glyph48148;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBDF4;
+unicode = 48628;
+}

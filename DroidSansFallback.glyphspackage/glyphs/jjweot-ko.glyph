@@ -1,0 +1,23 @@
+{
+glyphname = "jjweot-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49123;
+},
+{
+ref = glyph48434;
+},
+{
+ref = glyph48192;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCB7D;
+unicode = 52093;
+}

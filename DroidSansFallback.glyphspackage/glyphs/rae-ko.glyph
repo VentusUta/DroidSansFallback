@@ -1,0 +1,20 @@
+{
+glyphname = "rae-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47524;
+},
+{
+ref = glyph48474;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB798;
+unicode = 47000;
+}

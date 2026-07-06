@@ -1,0 +1,23 @@
+{
+glyphname = "rwaed-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48544;
+},
+{
+ref = glyph48545;
+},
+{
+ref = glyph48520;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB89B;
+unicode = 47259;
+}

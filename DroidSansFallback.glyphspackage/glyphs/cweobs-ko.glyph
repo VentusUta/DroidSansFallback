@@ -1,0 +1,23 @@
+{
+glyphname = "cweobs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49177;
+},
+{
+ref = glyph48583;
+},
+{
+ref = glyph48596;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCDC2;
+unicode = 52674;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "balt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48721;
+},
+{
+ref = glyph47499;
+},
+{
+ref = glyph47973;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBC21;
+unicode = 48161;
+}

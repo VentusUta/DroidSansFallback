@@ -1,0 +1,23 @@
+{
+glyphname = "byah-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48721;
+},
+{
+ref = glyph47560;
+},
+{
+ref = glyph47986;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBC67;
+unicode = 48231;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "kwigg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49239;
+},
+{
+ref = glyph48206;
+},
+{
+ref = glyph48208;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD036;
+unicode = 53302;
+}

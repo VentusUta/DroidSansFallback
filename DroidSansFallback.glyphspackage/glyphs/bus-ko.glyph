@@ -1,0 +1,23 @@
+{
+glyphname = "bus-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48745;
+},
+{
+ref = glyph48328;
+},
+{
+ref = glyph47654;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBD93;
+unicode = 48531;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "seut-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48920;
+},
+{
+ref = glyph48362;
+},
+{
+ref = glyph48092;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC2BD;
+unicode = 49853;
+}

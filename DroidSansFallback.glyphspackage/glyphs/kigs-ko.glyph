@@ -1,0 +1,23 @@
+{
+glyphname = "kigs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49186;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48023;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD0A7;
+unicode = 53415;
+}

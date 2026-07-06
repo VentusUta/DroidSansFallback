@@ -1,0 +1,23 @@
+{
+glyphname = "saem-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48906;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph48005;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC0D8;
+unicode = 49368;
+}

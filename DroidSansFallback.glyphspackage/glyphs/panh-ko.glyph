@@ -1,0 +1,23 @@
+{
+glyphname = "panh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49296;
+},
+{
+ref = glyph47499;
+},
+{
+ref = glyph47966;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD312;
+unicode = 54034;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "twah-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49276;
+},
+{
+ref = glyph48518;
+},
+{
+ref = glyph48541;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD1D7;
+unicode = 53719;
+}

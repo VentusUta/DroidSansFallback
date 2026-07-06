@@ -1,0 +1,25 @@
+{
+glyphname = "comma-han";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(21,38,q),
+(6,26,l),
+(38,2,o),
+(58,-30,q),
+(73,-17,l),
+(57,9,o)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni3001;
+unicode = 12289;
+}

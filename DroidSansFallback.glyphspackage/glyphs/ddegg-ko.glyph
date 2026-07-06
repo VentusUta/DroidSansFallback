@@ -1,0 +1,23 @@
+{
+glyphname = "ddegg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48376;
+},
+{
+ref = glyph48388;
+},
+{
+ref = glyph47990;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB5BE;
+unicode = 46526;
+}

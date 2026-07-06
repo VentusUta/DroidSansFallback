@@ -1,0 +1,23 @@
+{
+glyphname = "nigs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47959;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48023;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB2CB;
+unicode = 45771;
+}

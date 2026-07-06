@@ -1,0 +1,23 @@
+{
+glyphname = "bbaels-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48769;
+},
+{
+ref = glyph48770;
+},
+{
+ref = glyph48001;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBE88;
+unicode = 48776;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ggwegs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47942;
+},
+{
+ref = glyph47772;
+},
+{
+ref = glyph47739;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAFF3;
+unicode = 45043;
+}

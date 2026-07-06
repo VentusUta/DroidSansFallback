@@ -1,0 +1,26 @@
+{
+glyphname = glyph47773;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(123,142,o),
+(123,197,q),
+(26,197,l),
+(26,178,l),
+(104,178,l),
+(104,138,o),
+(95,117,q),
+(115,117,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = glyph47773;
+}

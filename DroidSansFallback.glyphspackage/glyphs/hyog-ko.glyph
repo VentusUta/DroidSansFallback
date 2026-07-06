@@ -1,0 +1,23 @@
+{
+glyphname = "hyog-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49363;
+},
+{
+ref = glyph49448;
+},
+{
+ref = glyph49365;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD6A9;
+unicode = 54953;
+}

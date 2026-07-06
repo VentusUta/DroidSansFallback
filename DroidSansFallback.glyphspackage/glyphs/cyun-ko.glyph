@@ -1,0 +1,23 @@
+{
+glyphname = "cyun-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49172;
+},
+{
+ref = glyph48652;
+},
+{
+ref = glyph48148;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE08;
+unicode = 52744;
+}

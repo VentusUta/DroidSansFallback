@@ -1,0 +1,23 @@
+{
+glyphname = "rags-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48471;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47961;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB77F;
+unicode = 46975;
+}

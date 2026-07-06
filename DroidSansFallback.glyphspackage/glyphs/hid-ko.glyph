@@ -1,0 +1,23 @@
+{
+glyphname = "hid-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49333;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48215;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD78F;
+unicode = 55183;
+}

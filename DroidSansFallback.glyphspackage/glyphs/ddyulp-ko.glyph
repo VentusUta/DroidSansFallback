@@ -1,0 +1,23 @@
+{
+glyphname = "ddyulp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48423;
+},
+{
+ref = glyph48456;
+},
+{
+ref = glyph48083;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB71A;
+unicode = 46874;
+}

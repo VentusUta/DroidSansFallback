@@ -1,0 +1,23 @@
+{
+glyphname = "ned-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47988;
+},
+{
+ref = glyph48051;
+},
+{
+ref = glyph47997;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB12B;
+unicode = 45355;
+}

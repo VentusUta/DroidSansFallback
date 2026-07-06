@@ -1,0 +1,23 @@
+{
+glyphname = "kwig-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49239;
+},
+{
+ref = glyph48206;
+},
+{
+ref = glyph48207;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD035;
+unicode = 53301;
+}

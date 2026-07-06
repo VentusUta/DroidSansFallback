@@ -1,0 +1,23 @@
+{
+glyphname = "gyag-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47488;
+},
+{
+ref = glyph47560;
+},
+{
+ref = glyph47561;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC39;
+unicode = 44089;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ugg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49046;
+},
+{
+ref = glyph48323;
+},
+{
+ref = glyph48070;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC6B2;
+unicode = 50866;
+}

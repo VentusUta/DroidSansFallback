@@ -1,0 +1,23 @@
+{
+glyphname = "tyilt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49276;
+},
+{
+ref = glyph48664;
+},
+{
+ref = glyph48526;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD2E1;
+unicode = 53985;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "jin-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49058;
+},
+{
+ref = glyph47840;
+},
+{
+ref = glyph47496;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC9C4;
+unicode = 51652;
+}

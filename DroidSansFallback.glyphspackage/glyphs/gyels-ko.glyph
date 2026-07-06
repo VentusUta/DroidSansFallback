@@ -1,0 +1,23 @@
+{
+glyphname = "gyels-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47534;
+},
+{
+ref = glyph47626;
+},
+{
+ref = glyph47542;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniACD0;
+unicode = 44240;
+}

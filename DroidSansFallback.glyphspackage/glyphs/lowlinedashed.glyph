@@ -1,0 +1,41 @@
+{
+glyphname = lowlinedashed;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(197,-9,l),
+(197,-26,l),
+(237,-26,l),
+(237,-9,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(108,-9,l),
+(108,-26,l),
+(148,-26,l),
+(148,-9,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(19,-9,l),
+(19,-26,l),
+(58,-26,l),
+(58,-9,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniFE4D;
+unicode = 65101;
+}

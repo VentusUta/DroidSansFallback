@@ -1,0 +1,23 @@
+{
+glyphname = "tanh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49257;
+},
+{
+ref = glyph47499;
+},
+{
+ref = glyph47966;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD0C6;
+unicode = 53446;
+}

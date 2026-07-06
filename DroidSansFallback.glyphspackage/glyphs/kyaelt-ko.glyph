@@ -1,0 +1,23 @@
+{
+glyphname = "kyaelt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49192;
+},
+{
+ref = glyph47570;
+},
+{
+ref = glyph48002;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCED5;
+unicode = 52949;
+}

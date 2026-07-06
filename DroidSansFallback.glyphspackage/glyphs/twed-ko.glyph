@@ -1,0 +1,23 @@
+{
+glyphname = "twed-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49290;
+},
+{
+ref = glyph48611;
+},
+{
+ref = glyph48585;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD26B;
+unicode = 53867;
+}

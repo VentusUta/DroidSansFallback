@@ -1,0 +1,23 @@
+{
+glyphname = uni58DB;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph35309;
+},
+{
+ref = glyph35594;
+},
+{
+ref = glyph35595;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni58DB;
+unicode = 22747;
+}

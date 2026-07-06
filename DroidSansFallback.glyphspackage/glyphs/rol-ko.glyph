@@ -1,0 +1,23 @@
+{
+glyphname = "rol-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48503;
+},
+{
+ref = glyph48504;
+},
+{
+ref = glyph48077;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB864;
+unicode = 47204;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "gwej-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47771;
+},
+{
+ref = glyph47772;
+},
+{
+ref = glyph47762;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniADBA;
+unicode = 44474;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "cyulb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49173;
+},
+{
+ref = glyph48653;
+},
+{
+ref = glyph48080;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE0F;
+unicode = 52751;
+}

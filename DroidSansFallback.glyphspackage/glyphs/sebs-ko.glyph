@@ -1,0 +1,23 @@
+{
+glyphname = "sebs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48908;
+},
+{
+ref = glyph48272;
+},
+{
+ref = glyph48007;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC14A;
+unicode = 49482;
+}

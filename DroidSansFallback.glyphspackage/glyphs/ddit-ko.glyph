@@ -1,0 +1,23 @@
+{
+glyphname = "ddit-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48374;
+},
+{
+ref = glyph47956;
+},
+{
+ref = glyph48047;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB779;
+unicode = 46969;
+}

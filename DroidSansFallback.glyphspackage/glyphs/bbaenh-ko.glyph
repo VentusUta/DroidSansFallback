@@ -1,0 +1,23 @@
+{
+glyphname = "bbaenh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48769;
+},
+{
+ref = glyph48770;
+},
+{
+ref = glyph47996;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBE82;
+unicode = 48770;
+}

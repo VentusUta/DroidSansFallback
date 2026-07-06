@@ -1,0 +1,23 @@
+{
+glyphname = "dim-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48256;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48039;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB524;
+unicode = 46372;
+}

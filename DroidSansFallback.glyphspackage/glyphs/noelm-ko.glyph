@@ -1,0 +1,23 @@
+{
+glyphname = "noelm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48105;
+},
+{
+ref = glyph48142;
+},
+{
+ref = glyph48111;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB1D6;
+unicode = 45526;
+}

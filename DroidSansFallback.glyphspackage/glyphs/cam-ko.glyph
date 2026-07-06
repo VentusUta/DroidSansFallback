@@ -1,0 +1,23 @@
+{
+glyphname = "cam-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47491;
+},
+{
+ref = glyph47976;
+},
+{
+ref = glyph49129;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCC38;
+unicode = 52280;
+}

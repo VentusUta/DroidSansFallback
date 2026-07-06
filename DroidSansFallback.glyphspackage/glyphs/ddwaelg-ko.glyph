@@ -1,0 +1,23 @@
+{
+glyphname = "ddwaelg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48414;
+},
+{
+ref = glyph48309;
+},
+{
+ref = glyph48110;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB651;
+unicode = 46673;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ggij-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47846;
+},
+{
+ref = glyph47842;
+},
+{
+ref = glyph47602;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB092;
+unicode = 45202;
+}

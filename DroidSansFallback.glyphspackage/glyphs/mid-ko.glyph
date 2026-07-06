@@ -1,0 +1,23 @@
+{
+glyphname = "mid-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48668;
+},
+{
+ref = glyph47967;
+},
+{
+ref = glyph47839;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBBFF;
+unicode = 48127;
+}

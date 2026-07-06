@@ -1,0 +1,23 @@
+{
+glyphname = "hum-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49453;
+},
+{
+ref = glyph49454;
+},
+{
+ref = glyph49384;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD6D4;
+unicode = 54996;
+}

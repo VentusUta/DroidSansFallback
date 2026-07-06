@@ -1,0 +1,23 @@
+{
+glyphname = "tij-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49255;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48044;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD306;
+unicode = 54022;
+}

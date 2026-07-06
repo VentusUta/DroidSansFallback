@@ -1,0 +1,23 @@
+{
+glyphname = "ong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49034;
+},
+{
+ref = glyph48292;
+},
+{
+ref = glyph47731;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC639;
+unicode = 50745;
+}

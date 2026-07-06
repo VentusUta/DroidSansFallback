@@ -1,0 +1,23 @@
+{
+glyphname = "cyolt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49160;
+},
+{
+ref = glyph48559;
+},
+{
+ref = glyph48082;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD85;
+unicode = 52613;
+}

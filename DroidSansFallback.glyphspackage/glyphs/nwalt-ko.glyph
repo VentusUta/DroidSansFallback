@@ -1,0 +1,23 @@
+{
+glyphname = "nwalt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48105;
+},
+{
+ref = glyph48106;
+},
+{
+ref = glyph48114;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB1A1;
+unicode = 45473;
+}

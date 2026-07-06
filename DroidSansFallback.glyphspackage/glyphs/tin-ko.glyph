@@ -1,0 +1,23 @@
+{
+glyphname = "tin-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49256;
+},
+{
+ref = glyph47840;
+},
+{
+ref = glyph47580;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD2F4;
+unicode = 54004;
+}

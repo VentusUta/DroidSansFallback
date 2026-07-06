@@ -1,0 +1,23 @@
+{
+glyphname = "yac-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49025;
+},
+{
+ref = glyph47560;
+},
+{
+ref = glyph47982;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC593;
+unicode = 50579;
+}

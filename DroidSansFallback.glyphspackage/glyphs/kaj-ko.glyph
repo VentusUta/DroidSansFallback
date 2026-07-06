@@ -1,0 +1,23 @@
+{
+glyphname = "kaj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49186;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47517;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE8A;
+unicode = 52874;
+}

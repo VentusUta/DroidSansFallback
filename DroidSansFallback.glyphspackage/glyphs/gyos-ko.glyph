@@ -1,0 +1,23 @@
+{
+glyphname = "gyos-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47630;
+},
+{
+ref = glyph47717;
+},
+{
+ref = glyph47718;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAD63;
+unicode = 44387;
+}

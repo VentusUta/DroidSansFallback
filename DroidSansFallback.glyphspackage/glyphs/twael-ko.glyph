@@ -1,0 +1,23 @@
+{
+glyphname = "twael-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49280;
+},
+{
+ref = glyph48549;
+},
+{
+ref = glyph48521;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD1E0;
+unicode = 53728;
+}

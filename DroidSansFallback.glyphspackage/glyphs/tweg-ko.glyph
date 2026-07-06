@@ -1,0 +1,23 @@
+{
+glyphname = "tweg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49290;
+},
+{
+ref = glyph48611;
+},
+{
+ref = glyph48575;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD265;
+unicode = 53861;
+}

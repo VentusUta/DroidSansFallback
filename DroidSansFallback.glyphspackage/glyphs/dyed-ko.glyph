@@ -1,0 +1,23 @@
+{
+glyphname = "dyed-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48261;
+},
+{
+ref = glyph48281;
+},
+{
+ref = glyph47997;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB3AF;
+unicode = 45999;
+}

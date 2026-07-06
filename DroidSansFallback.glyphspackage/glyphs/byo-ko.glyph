@@ -1,0 +1,20 @@
+{
+glyphname = "byo-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48732;
+},
+{
+ref = glyph48316;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBD64;
+unicode = 48484;
+}

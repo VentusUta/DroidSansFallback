@@ -1,0 +1,23 @@
+{
+glyphname = "byaem-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48723;
+},
+{
+ref = glyph47568;
+},
+{
+ref = glyph48005;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBC78;
+unicode = 48248;
+}

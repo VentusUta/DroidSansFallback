@@ -1,0 +1,23 @@
+{
+glyphname = "tok-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49270;
+},
+{
+ref = glyph48500;
+},
+{
+ref = glyph48091;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD1B8;
+unicode = 53688;
+}

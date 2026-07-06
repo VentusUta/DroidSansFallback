@@ -1,0 +1,23 @@
+{
+glyphname = "pyaen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49299;
+},
+{
+ref = glyph47569;
+},
+{
+ref = glyph47993;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD364;
+unicode = 54116;
+}

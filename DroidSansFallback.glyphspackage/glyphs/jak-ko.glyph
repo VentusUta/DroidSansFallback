@@ -1,0 +1,23 @@
+{
+glyphname = "jak-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49057;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47983;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC7A8;
+unicode = 51112;
+}

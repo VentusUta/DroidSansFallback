@@ -1,0 +1,23 @@
+{
+glyphname = "rac-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48473;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47982;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB793;
+unicode = 46995;
+}

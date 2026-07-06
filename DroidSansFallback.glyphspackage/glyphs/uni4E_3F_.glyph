@@ -1,0 +1,28 @@
+{
+glyphname = uni4E3F;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(114,28,o),
+(48,-5,q),
+(62,-23,l),
+(127,12,o),
+(137,88,qs),
+(141,110,o),
+(141,196,q),
+(121,196,l),
+(119,107,ls)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni4E3F;
+unicode = 20031;
+}

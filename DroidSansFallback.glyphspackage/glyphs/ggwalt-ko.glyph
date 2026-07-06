@@ -1,0 +1,23 @@
+{
+glyphname = "ggwalt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47911;
+},
+{
+ref = glyph47912;
+},
+{
+ref = glyph47682;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAF55;
+unicode = 44885;
+}

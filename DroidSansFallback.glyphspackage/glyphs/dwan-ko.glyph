@@ -1,0 +1,23 @@
+{
+glyphname = "dwan-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48297;
+},
+{
+ref = glyph48298;
+},
+{
+ref = glyph47496;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB3E4;
+unicode = 46052;
+}

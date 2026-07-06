@@ -1,0 +1,23 @@
+{
+glyphname = "ggyaet-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47858;
+},
+{
+ref = glyph47869;
+},
+{
+ref = glyph47556;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAEB9;
+unicode = 44729;
+}

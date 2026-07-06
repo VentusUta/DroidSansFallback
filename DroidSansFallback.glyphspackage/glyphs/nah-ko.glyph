@@ -1,0 +1,23 @@
+{
+glyphname = "nah-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47965;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47986;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB0B3;
+unicode = 45235;
+}

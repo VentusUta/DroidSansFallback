@@ -1,0 +1,23 @@
+{
+glyphname = "ses-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48906;
+},
+{
+ref = glyph48273;
+},
+{
+ref = glyph48008;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC14B;
+unicode = 49483;
+}

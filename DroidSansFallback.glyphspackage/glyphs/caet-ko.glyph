@@ -1,0 +1,23 @@
+{
+glyphname = "caet-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49135;
+},
+{
+ref = glyph47535;
+},
+{
+ref = glyph48013;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCC5D;
+unicode = 52317;
+}

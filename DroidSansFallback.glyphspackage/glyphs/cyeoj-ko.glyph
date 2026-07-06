@@ -1,0 +1,23 @@
+{
+glyphname = "cyeoj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49137;
+},
+{
+ref = glyph49147;
+},
+{
+ref = glyph48044;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCCE6;
+unicode = 52454;
+}

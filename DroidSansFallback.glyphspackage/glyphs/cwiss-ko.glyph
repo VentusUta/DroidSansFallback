@@ -1,0 +1,23 @@
+{
+glyphname = "cwiss-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49175;
+},
+{
+ref = glyph48619;
+},
+{
+ref = glyph48642;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCDFC;
+unicode = 52732;
+}

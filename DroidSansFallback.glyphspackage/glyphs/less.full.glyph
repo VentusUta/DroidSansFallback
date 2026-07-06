@@ -1,0 +1,26 @@
+{
+glyphname = less.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(94,89,l),
+(186,136,l),
+(186,156,l),
+(70,96,l),
+(70,83,l),
+(186,23,l),
+(186,43,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniFF1C;
+unicode = 65308;
+}

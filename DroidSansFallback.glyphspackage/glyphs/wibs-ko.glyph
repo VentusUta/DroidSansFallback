@@ -1,0 +1,23 @@
+{
+glyphname = "wibs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49051;
+},
+{
+ref = glyph48351;
+},
+{
+ref = glyph48226;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC716;
+unicode = 50966;
+}

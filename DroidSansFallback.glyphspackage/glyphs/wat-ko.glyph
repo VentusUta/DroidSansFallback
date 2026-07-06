@@ -1,0 +1,23 @@
+{
+glyphname = "wat-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49040;
+},
+{
+ref = glyph48300;
+},
+{
+ref = glyph48127;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC659;
+unicode = 50777;
+}

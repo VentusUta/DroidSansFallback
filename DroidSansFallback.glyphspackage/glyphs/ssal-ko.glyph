@@ -1,0 +1,23 @@
+{
+glyphname = "ssal-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48965;
+},
+{
+ref = glyph47850;
+},
+{
+ref = glyph47968;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC300;
+unicode = 49920;
+}

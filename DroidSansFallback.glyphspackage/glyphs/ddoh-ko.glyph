@@ -1,0 +1,23 @@
+{
+glyphname = "ddoh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48406;
+},
+{
+ref = glyph48291;
+},
+{
+ref = glyph48094;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB62B;
+unicode = 46635;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "yoj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49034;
+},
+{
+ref = glyph48317;
+},
+{
+ref = glyph48089;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC6AA;
+unicode = 50858;
+}

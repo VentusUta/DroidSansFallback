@@ -1,0 +1,23 @@
+{
+glyphname = "byugs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48745;
+},
+{
+ref = glyph48355;
+},
+{
+ref = glyph48071;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBDF3;
+unicode = 48627;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "coet-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49164;
+},
+{
+ref = glyph48554;
+},
+{
+ref = glyph48539;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD75;
+unicode = 52597;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ryon-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48501;
+},
+{
+ref = glyph48558;
+},
+{
+ref = glyph48148;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB8D0;
+unicode = 47312;
+}

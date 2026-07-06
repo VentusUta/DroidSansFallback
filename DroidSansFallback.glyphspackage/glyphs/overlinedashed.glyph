@@ -1,0 +1,41 @@
+{
+glyphname = overlinedashed;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(197,210,l),
+(197,194,l),
+(237,194,l),
+(237,210,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(108,210,l),
+(108,194,l),
+(148,194,l),
+(148,210,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(19,210,l),
+(19,194,l),
+(58,194,l),
+(58,210,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniFE49;
+unicode = 65097;
+}

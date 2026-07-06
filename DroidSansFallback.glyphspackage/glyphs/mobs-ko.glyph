@@ -1,0 +1,23 @@
+{
+glyphname = "mobs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48698;
+},
+{
+ref = glyph48291;
+},
+{
+ref = glyph48087;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBABA;
+unicode = 47802;
+}

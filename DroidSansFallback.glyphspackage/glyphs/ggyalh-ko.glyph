@@ -1,0 +1,23 @@
+{
+glyphname = "ggyalh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47849;
+},
+{
+ref = glyph47864;
+},
+{
+ref = glyph47509;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAE93;
+unicode = 44691;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "gyult-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47725;
+},
+{
+ref = glyph47816;
+},
+{
+ref = glyph47648;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniADE9;
+unicode = 44521;
+}

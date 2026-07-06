@@ -1,0 +1,23 @@
+{
+glyphname = "hwils-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49471;
+},
+{
+ref = glyph49515;
+},
+{
+ref = glyph49522;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD724;
+unicode = 55076;
+}

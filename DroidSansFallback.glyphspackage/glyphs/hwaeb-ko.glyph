@@ -1,0 +1,23 @@
+{
+glyphname = "hwaeb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49435;
+},
+{
+ref = glyph49436;
+},
+{
+ref = glyph49421;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD681;
+unicode = 54913;
+}

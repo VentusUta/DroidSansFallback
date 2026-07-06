@@ -1,0 +1,23 @@
+{
+glyphname = "ryeonh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48483;
+},
+{
+ref = glyph48491;
+},
+{
+ref = glyph48029;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB82A;
+unicode = 47146;
+}

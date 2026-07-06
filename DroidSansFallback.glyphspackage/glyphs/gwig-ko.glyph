@@ -1,0 +1,23 @@
+{
+glyphname = "gwig-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47735;
+},
+{
+ref = glyph47780;
+},
+{
+ref = glyph47781;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniADC1;
+unicode = 44481;
+}

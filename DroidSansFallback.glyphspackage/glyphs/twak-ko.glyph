@@ -1,0 +1,23 @@
+{
+glyphname = "twak-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49274;
+},
+{
+ref = glyph48509;
+},
+{
+ref = glyph48538;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD1D4;
+unicode = 53716;
+}

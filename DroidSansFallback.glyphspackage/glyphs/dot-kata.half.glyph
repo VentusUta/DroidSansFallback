@@ -1,0 +1,29 @@
+{
+glyphname = "dot-kata.half";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(29,69,o),
+(49,69,o),
+(63,83,o),
+(63,92,qs),
+(63,102,o),
+(49,116,o),
+(29,116,o),
+(15,102,o),
+(15,92,qs),
+(15,83,o)
+);
+}
+);
+vertWidth = 256;
+width = 128;
+}
+);
+note = uniFF65;
+unicode = 65381;
+}

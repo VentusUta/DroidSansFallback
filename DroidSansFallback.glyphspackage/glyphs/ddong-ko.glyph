@@ -1,0 +1,23 @@
+{
+glyphname = "ddong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48404;
+},
+{
+ref = glyph48292;
+},
+{
+ref = glyph47731;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB625;
+unicode = 46629;
+}

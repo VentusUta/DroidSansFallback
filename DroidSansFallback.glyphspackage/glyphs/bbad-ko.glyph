@@ -1,0 +1,23 @@
+{
+glyphname = "bbad-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48758;
+},
+{
+ref = glyph48759;
+},
+{
+ref = glyph47967;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBE67;
+unicode = 48743;
+}

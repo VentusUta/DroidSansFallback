@@ -1,0 +1,23 @@
+{
+glyphname = "ggyaels-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47858;
+},
+{
+ref = glyph47869;
+},
+{
+ref = glyph47542;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAEAC;
+unicode = 44716;
+}

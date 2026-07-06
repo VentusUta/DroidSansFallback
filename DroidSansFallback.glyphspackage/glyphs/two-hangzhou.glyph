@@ -1,0 +1,32 @@
+{
+glyphname = "two-hangzhou";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(176,-20,l),
+(176,203,l),
+(156,203,l),
+(156,-20,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(99,18,l),
+(99,175,l),
+(79,175,l),
+(79,18,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni3022;
+unicode = 12322;
+}

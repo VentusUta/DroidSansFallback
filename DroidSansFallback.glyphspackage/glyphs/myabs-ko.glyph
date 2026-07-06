@@ -1,0 +1,23 @@
+{
+glyphname = "myabs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48669;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph47978;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBA12;
+unicode = 47634;
+}

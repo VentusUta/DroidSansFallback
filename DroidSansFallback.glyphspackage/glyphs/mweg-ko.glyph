@@ -1,0 +1,23 @@
+{
+glyphname = "mweg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48716;
+},
+{
+ref = glyph48341;
+},
+{
+ref = glyph48162;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBB6D;
+unicode = 47981;
+}

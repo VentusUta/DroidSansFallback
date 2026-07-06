@@ -1,0 +1,23 @@
+{
+glyphname = "ssogg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48975;
+},
+{
+ref = glyph48976;
+},
+{
+ref = glyph48070;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC3DA;
+unicode = 50138;
+}

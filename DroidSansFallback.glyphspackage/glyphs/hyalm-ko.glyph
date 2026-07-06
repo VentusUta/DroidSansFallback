@@ -1,0 +1,23 @@
+{
+glyphname = "hyalm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49335;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph48111;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD59A;
+unicode = 54682;
+}

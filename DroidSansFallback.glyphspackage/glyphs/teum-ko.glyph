@@ -1,0 +1,23 @@
+{
+glyphname = "teum-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49270;
+},
+{
+ref = glyph48657;
+},
+{
+ref = glyph48085;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD2C8;
+unicode = 53960;
+}

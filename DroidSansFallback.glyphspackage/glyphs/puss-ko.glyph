@@ -1,0 +1,23 @@
+{
+glyphname = "puss-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49321;
+},
+{
+ref = glyph48323;
+},
+{
+ref = glyph48088;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD48C;
+unicode = 54412;
+}

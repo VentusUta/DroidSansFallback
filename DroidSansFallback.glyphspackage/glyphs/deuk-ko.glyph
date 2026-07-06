@@ -1,0 +1,23 @@
+{
+glyphname = "deuk-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48286;
+},
+{
+ref = glyph48360;
+},
+{
+ref = glyph48091;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB4F4;
+unicode = 46324;
+}

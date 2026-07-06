@@ -1,0 +1,23 @@
+{
+glyphname = "ssibs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48965;
+},
+{
+ref = glyph47956;
+},
+{
+ref = glyph48041;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC53A;
+unicode = 50490;
+}

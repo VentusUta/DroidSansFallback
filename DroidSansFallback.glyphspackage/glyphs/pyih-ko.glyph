@@ -1,0 +1,23 @@
+{
+glyphname = "pyih-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49315;
+},
+{
+ref = glyph48370;
+},
+{
+ref = glyph48129;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD53B;
+unicode = 54587;
+}

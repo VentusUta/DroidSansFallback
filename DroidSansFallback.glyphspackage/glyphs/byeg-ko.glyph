@@ -1,0 +1,23 @@
+{
+glyphname = "byeg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48723;
+},
+{
+ref = glyph48691;
+},
+{
+ref = glyph47989;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBCD9;
+unicode = 48345;
+}

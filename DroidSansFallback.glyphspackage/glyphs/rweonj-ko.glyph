@@ -1,0 +1,23 @@
+{
+glyphname = "rweonj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48573;
+},
+{
+ref = glyph48574;
+},
+{
+ref = glyph48581;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB909;
+unicode = 47369;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "yelp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49029;
+},
+{
+ref = glyph48693;
+},
+{
+ref = glyph48003;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC616;
+unicode = 50710;
+}

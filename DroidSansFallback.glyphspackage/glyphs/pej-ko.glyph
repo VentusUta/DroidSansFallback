@@ -1,0 +1,23 @@
+{
+glyphname = "pej-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49298;
+},
+{
+ref = glyph48270;
+},
+{
+ref = glyph48010;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD3AE;
+unicode = 54190;
+}

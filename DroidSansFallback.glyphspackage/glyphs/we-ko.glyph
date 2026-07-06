@@ -1,0 +1,20 @@
+{
+glyphname = "we-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49052;
+},
+{
+ref = glyph48339;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC6E8;
+unicode = 50920;
+}

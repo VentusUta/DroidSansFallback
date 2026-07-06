@@ -1,0 +1,23 @@
+{
+glyphname = "dyalp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48258;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph47974;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB32A;
+unicode = 45866;
+}

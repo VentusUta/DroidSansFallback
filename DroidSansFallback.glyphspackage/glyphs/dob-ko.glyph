@@ -1,0 +1,23 @@
+{
+glyphname = "dob-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48286;
+},
+{
+ref = glyph48287;
+},
+{
+ref = glyph48086;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB3D5;
+unicode = 46037;
+}

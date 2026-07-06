@@ -1,0 +1,23 @@
+{
+glyphname = "paen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49299;
+},
+{
+ref = glyph47531;
+},
+{
+ref = glyph47993;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD32C;
+unicode = 54060;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ponj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49309;
+},
+{
+ref = glyph48287;
+},
+{
+ref = glyph48073;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD3F1;
+unicode = 54257;
+}

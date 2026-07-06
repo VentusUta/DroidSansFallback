@@ -1,0 +1,23 @@
+{
+glyphname = "bing-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48720;
+},
+{
+ref = glyph47843;
+},
+{
+ref = glyph48043;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBE59;
+unicode = 48729;
+}

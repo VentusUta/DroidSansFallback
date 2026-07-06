@@ -1,0 +1,23 @@
+{
+glyphname = "dwem-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48340;
+},
+{
+ref = glyph48341;
+},
+{
+ref = glyph48181;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB498;
+unicode = 46232;
+}

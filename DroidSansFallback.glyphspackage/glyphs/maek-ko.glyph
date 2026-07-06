@@ -1,0 +1,23 @@
+{
+glyphname = "maek-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48671;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph48012;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB9FC;
+unicode = 47612;
+}

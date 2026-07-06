@@ -1,0 +1,23 @@
+{
+glyphname = "rwing-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48573;
+},
+{
+ref = glyph48640;
+},
+{
+ref = glyph48643;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB951;
+unicode = 47441;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "byeonh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48730;
+},
+{
+ref = glyph48688;
+},
+{
+ref = glyph48029;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBCC2;
+unicode = 48322;
+}

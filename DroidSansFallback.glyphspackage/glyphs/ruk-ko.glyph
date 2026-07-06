@@ -1,0 +1,23 @@
+{
+glyphname = "ruk-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48564;
+},
+{
+ref = glyph48563;
+},
+{
+ref = glyph48091;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB900;
+unicode = 47360;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "dduj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48419;
+},
+{
+ref = glyph48420;
+},
+{
+ref = glyph48089;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB6B2;
+unicode = 46770;
+}

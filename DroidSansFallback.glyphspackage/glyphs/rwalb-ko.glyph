@@ -1,0 +1,23 @@
+{
+glyphname = "rwalb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48517;
+},
+{
+ref = glyph48518;
+},
+{
+ref = glyph48524;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB883;
+unicode = 47235;
+}

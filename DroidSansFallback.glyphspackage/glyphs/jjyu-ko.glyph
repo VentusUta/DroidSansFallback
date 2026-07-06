@@ -1,0 +1,20 @@
+{
+glyphname = "jjyu-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49116;
+},
+{
+ref = glyph48453;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCBB8;
+unicode = 52152;
+}

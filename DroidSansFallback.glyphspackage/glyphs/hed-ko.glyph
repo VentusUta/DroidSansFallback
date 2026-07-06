@@ -1,0 +1,23 @@
+{
+glyphname = "hed-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49337;
+},
+{
+ref = glyph49348;
+},
+{
+ref = glyph48172;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD5EB;
+unicode = 54763;
+}

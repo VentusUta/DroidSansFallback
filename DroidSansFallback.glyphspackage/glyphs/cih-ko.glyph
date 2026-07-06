@@ -1,0 +1,23 @@
+{
+glyphname = "cih-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49131;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48049;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE73;
+unicode = 52851;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "rwagg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48508;
+},
+{
+ref = glyph48509;
+},
+{
+ref = glyph48511;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB87A;
+unicode = 47226;
+}

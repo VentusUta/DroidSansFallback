@@ -1,0 +1,23 @@
+{
+glyphname = "hwal-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49400;
+},
+{
+ref = glyph49412;
+},
+{
+ref = glyph49408;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD65C;
+unicode = 54876;
+}

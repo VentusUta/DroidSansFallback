@@ -1,0 +1,23 @@
+{
+glyphname = "jyelm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49063;
+},
+{
+ref = glyph48283;
+},
+{
+ref = glyph47999;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC85E;
+unicode = 51294;
+}

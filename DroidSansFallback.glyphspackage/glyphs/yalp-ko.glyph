@@ -1,0 +1,23 @@
+{
+glyphname = "yalp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49025;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph47974;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC58A;
+unicode = 50570;
+}

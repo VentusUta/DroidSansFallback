@@ -1,0 +1,23 @@
+{
+glyphname = "kwaet-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49220;
+},
+{
+ref = glyph49221;
+},
+{
+ref = glyph48127;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCFA5;
+unicode = 53157;
+}

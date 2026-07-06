@@ -1,0 +1,23 @@
+{
+glyphname = "neus-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48067;
+},
+{
+ref = glyph48247;
+},
+{
+ref = glyph47654;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB2A3;
+unicode = 45731;
+}

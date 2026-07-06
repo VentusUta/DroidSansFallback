@@ -1,0 +1,23 @@
+{
+glyphname = "cos-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49158;
+},
+{
+ref = glyph48505;
+},
+{
+ref = glyph47654;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD1B;
+unicode = 52507;
+}

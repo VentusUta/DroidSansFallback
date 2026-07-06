@@ -1,0 +1,23 @@
+{
+glyphname = "tyot-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49272;
+},
+{
+ref = glyph48559;
+},
+{
+ref = glyph48092;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD229;
+unicode = 53801;
+}

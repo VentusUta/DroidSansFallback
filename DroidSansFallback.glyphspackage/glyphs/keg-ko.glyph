@@ -1,0 +1,23 @@
+{
+glyphname = "keg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49190;
+},
+{
+ref = glyph47609;
+},
+{
+ref = glyph47989;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCF01;
+unicode = 52993;
+}

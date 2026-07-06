@@ -1,0 +1,20 @@
+{
+glyphname = "dwae-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48302;
+},
+{
+ref = glyph48303;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB3FC;
+unicode = 46076;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "poenh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49315;
+},
+{
+ref = glyph48314;
+},
+{
+ref = glyph48107;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD446;
+unicode = 54342;
+}

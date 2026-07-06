@@ -1,0 +1,23 @@
+{
+glyphname = "byalg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48721;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph47969;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBC55;
+unicode = 48213;
+}

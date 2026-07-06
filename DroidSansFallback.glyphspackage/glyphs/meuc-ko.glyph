@@ -1,0 +1,23 @@
+{
+glyphname = "meuc-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48698;
+},
+{
+ref = glyph48364;
+},
+{
+ref = glyph48090;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBBD7;
+unicode = 48087;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "sam-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48902;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47976;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC0BC;
+unicode = 49340;
+}

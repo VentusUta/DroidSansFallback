@@ -1,0 +1,20 @@
+{
+glyphname = "bbi-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48756;
+},
+{
+ref = glyph48896;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC090;
+unicode = 49296;
+}

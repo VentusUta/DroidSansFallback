@@ -1,0 +1,23 @@
+{
+glyphname = "nub-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48153;
+},
+{
+ref = glyph47727;
+},
+{
+ref = glyph48086;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB215;
+unicode = 45589;
+}

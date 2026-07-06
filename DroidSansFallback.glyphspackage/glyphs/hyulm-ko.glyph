@@ -1,0 +1,23 @@
+{
+glyphname = "hyulm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49456;
+},
+{
+ref = glyph49543;
+},
+{
+ref = glyph49378;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD73E;
+unicode = 55102;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "gwat-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47673;
+},
+{
+ref = glyph47674;
+},
+{
+ref = glyph47695;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAD15;
+unicode = 44309;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ddubs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48423;
+},
+{
+ref = glyph48424;
+},
+{
+ref = glyph48087;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB6AE;
+unicode = 46766;
+}

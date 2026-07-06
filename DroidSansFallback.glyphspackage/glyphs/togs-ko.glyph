@@ -1,0 +1,23 @@
+{
+glyphname = "togs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49270;
+},
+{
+ref = glyph48500;
+},
+{
+ref = glyph48071;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD1A3;
+unicode = 53667;
+}

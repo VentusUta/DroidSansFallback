@@ -1,0 +1,23 @@
+{
+glyphname = "sseuls-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48979;
+},
+{
+ref = glyph48461;
+},
+{
+ref = glyph48081;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC4FC;
+unicode = 50428;
+}

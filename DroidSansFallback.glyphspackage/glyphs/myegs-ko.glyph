@@ -1,0 +1,23 @@
+{
+glyphname = "myegs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48671;
+},
+{
+ref = glyph48691;
+},
+{
+ref = glyph47991;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBA8F;
+unicode = 47759;
+}

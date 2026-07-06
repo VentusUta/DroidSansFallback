@@ -1,0 +1,32 @@
+{
+glyphname = quotedbl.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(98,117,l),
+(113,117,l),
+(118,183,l),
+(93,183,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(143,117,l),
+(158,117,l),
+(163,183,l),
+(138,183,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniFF02;
+unicode = 65282;
+}

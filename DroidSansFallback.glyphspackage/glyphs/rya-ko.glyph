@@ -1,0 +1,20 @@
+{
+glyphname = "rya-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48470;
+},
+{
+ref = glyph47559;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB7B4;
+unicode = 47028;
+}

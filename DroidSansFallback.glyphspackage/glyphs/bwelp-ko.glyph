@@ -1,0 +1,23 @@
+{
+glyphname = "bwelp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48755;
+},
+{
+ref = glyph48345;
+},
+{
+ref = glyph48179;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBDC6;
+unicode = 48582;
+}

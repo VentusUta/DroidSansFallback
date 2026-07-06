@@ -1,0 +1,23 @@
+{
+glyphname = "gyan-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47494;
+},
+{
+ref = glyph47562;
+},
+{
+ref = glyph47563;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC3C;
+unicode = 44092;
+}

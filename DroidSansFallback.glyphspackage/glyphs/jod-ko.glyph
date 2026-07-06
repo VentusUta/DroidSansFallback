@@ -1,0 +1,23 @@
+{
+glyphname = "jod-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49069;
+},
+{
+ref = glyph48916;
+},
+{
+ref = glyph47728;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC877;
+unicode = 51319;
+}

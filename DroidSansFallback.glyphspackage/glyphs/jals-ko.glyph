@@ -1,0 +1,23 @@
+{
+glyphname = "jals-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49059;
+},
+{
+ref = glyph47499;
+},
+{
+ref = glyph47972;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC79C;
+unicode = 51100;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ggoes-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47907;
+},
+{
+ref = glyph47927;
+},
+{
+ref = glyph47689;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAF93;
+unicode = 44947;
+}

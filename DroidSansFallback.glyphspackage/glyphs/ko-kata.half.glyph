@@ -1,0 +1,29 @@
+{
+glyphname = "ko-kata.half";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(16,168,l),
+(16,146,l),
+(91,146,l),
+(91,29,l),
+(14,29,l),
+(14,8,l),
+(91,8,l),
+(91,-9,l),
+(114,-9,l),
+(114,168,l)
+);
+}
+);
+vertWidth = 256;
+width = 128;
+}
+);
+note = uniFF7A;
+unicode = 65402;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "rwinj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48573;
+},
+{
+ref = glyph48619;
+},
+{
+ref = glyph48625;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB941;
+unicode = 47425;
+}

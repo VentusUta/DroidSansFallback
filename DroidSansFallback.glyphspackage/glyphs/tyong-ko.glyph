@@ -1,0 +1,23 @@
+{
+glyphname = "tyong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49270;
+},
+{
+ref = glyph48560;
+},
+{
+ref = glyph47731;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD225;
+unicode = 53797;
+}

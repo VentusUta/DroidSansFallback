@@ -1,0 +1,23 @@
+{
+glyphname = "wan-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48928;
+},
+{
+ref = glyph47496;
+},
+{
+ref = glyph49039;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC644;
+unicode = 50756;
+}

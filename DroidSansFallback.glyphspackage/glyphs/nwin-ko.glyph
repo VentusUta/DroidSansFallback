@@ -1,0 +1,23 @@
+{
+glyphname = "nwin-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48165;
+},
+{
+ref = glyph48210;
+},
+{
+ref = glyph48211;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB25C;
+unicode = 45660;
+}

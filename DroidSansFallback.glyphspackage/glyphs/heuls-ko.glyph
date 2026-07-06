@@ -1,0 +1,23 @@
+{
+glyphname = "heuls-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49372;
+},
+{
+ref = glyph49549;
+},
+{
+ref = glyph49380;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD75C;
+unicode = 55132;
+}

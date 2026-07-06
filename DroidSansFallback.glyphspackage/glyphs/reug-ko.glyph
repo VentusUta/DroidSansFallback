@@ -1,0 +1,23 @@
+{
+glyphname = "reug-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48499;
+},
+{
+ref = glyph48657;
+},
+{
+ref = glyph48069;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB975;
+unicode = 47477;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "yalt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49025;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph47973;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC589;
+unicode = 50569;
+}

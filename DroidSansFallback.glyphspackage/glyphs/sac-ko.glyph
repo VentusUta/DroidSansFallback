@@ -1,0 +1,23 @@
+{
+glyphname = "sac-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48904;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47982;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC0C3;
+unicode = 49347;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ssin-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48964;
+},
+{
+ref = glyph47955;
+},
+{
+ref = glyph47580;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC52C;
+unicode = 50476;
+}

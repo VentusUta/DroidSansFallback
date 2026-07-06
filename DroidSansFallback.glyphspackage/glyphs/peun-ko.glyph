@@ -1,0 +1,23 @@
+{
+glyphname = "peun-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49310;
+},
+{
+ref = glyph48361;
+},
+{
+ref = glyph48148;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD508;
+unicode = 54536;
+}

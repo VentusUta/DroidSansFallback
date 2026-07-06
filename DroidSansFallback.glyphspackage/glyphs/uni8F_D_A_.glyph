@@ -1,0 +1,20 @@
+{
+glyphname = uni8FDA;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph36777;
+},
+{
+ref = glyph44975;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni8FDA;
+unicode = 36826;
+}

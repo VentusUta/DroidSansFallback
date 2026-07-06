@@ -1,0 +1,23 @@
+{
+glyphname = "hij-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49333;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48231;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD79E;
+unicode = 55198;
+}

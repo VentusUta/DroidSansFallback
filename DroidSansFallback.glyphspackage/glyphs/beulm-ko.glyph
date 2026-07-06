@@ -1,0 +1,23 @@
+{
+glyphname = "beulm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48735;
+},
+{
+ref = glyph48362;
+},
+{
+ref = glyph48079;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBE16;
+unicode = 48662;
+}

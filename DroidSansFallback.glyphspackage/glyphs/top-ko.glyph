@@ -1,0 +1,23 @@
+{
+glyphname = "top-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49270;
+},
+{
+ref = glyph48500;
+},
+{
+ref = glyph48093;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD1BA;
+unicode = 53690;
+}

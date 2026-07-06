@@ -1,0 +1,23 @@
+{
+glyphname = "tweod-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49286;
+},
+{
+ref = glyph48574;
+},
+{
+ref = glyph48585;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD24F;
+unicode = 53839;
+}

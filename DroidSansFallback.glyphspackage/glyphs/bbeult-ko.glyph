@@ -1,0 +1,23 @@
+{
+glyphname = "bbeult-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48812;
+},
+{
+ref = glyph48887;
+},
+{
+ref = glyph48082;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC065;
+unicode = 49253;
+}

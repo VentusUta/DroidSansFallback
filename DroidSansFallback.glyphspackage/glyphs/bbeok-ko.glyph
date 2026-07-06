@@ -1,0 +1,23 @@
+{
+glyphname = "bbeok-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48784;
+},
+{
+ref = glyph48785;
+},
+{
+ref = glyph48046;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBEE8;
+unicode = 48872;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "dyalt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48258;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph47973;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB329;
+unicode = 45865;
+}

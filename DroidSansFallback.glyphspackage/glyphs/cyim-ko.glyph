@@ -1,0 +1,23 @@
+{
+glyphname = "cyim-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49162;
+},
+{
+ref = glyph48662;
+},
+{
+ref = glyph48529;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE4C;
+unicode = 52812;
+}

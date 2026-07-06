@@ -1,0 +1,20 @@
+{
+glyphname = "jyae-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49060;
+},
+{
+ref = glyph47567;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC7E4;
+unicode = 51172;
+}

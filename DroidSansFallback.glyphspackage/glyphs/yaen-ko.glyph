@@ -1,0 +1,23 @@
+{
+glyphname = "yaen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49028;
+},
+{
+ref = glyph47569;
+},
+{
+ref = glyph47993;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC59C;
+unicode = 50588;
+}

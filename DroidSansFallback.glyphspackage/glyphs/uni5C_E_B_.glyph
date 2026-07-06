@@ -1,0 +1,23 @@
+{
+glyphname = uni5CEB;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph36531;
+},
+{
+ref = glyph36532;
+},
+{
+ref = glyph36533;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni5CEB;
+unicode = 23787;
+}

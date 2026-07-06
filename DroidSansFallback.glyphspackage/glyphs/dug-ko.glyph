@@ -1,0 +1,23 @@
+{
+glyphname = "dug-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48322;
+},
+{
+ref = glyph48323;
+},
+{
+ref = glyph48069;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB451;
+unicode = 46161;
+}

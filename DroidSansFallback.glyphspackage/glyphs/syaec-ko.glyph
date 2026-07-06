@@ -1,0 +1,23 @@
+{
+glyphname = "syaec-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48908;
+},
+{
+ref = glyph47568;
+},
+{
+ref = glyph48011;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC117;
+unicode = 49431;
+}

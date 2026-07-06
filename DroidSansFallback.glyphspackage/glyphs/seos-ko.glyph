@@ -1,0 +1,23 @@
+{
+glyphname = "seos-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48910;
+},
+{
+ref = glyph48269;
+},
+{
+ref = glyph47598;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC12F;
+unicode = 49455;
+}

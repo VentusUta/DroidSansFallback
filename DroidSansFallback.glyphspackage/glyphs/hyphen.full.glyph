@@ -1,0 +1,23 @@
+{
+glyphname = hyphen.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(159,79,l),
+(97,79,l),
+(97,58,l),
+(159,58,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniFF0D;
+unicode = 65293;
+}

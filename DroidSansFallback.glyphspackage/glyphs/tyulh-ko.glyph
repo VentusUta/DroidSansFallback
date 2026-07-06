@@ -1,0 +1,23 @@
+{
+glyphname = "tyulh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49284;
+},
+{
+ref = glyph48653;
+},
+{
+ref = glyph48084;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD2AB;
+unicode = 53931;
+}

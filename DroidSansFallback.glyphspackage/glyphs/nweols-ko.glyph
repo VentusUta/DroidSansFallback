@@ -1,0 +1,23 @@
+{
+glyphname = "nweols-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48169;
+},
+{
+ref = glyph48170;
+},
+{
+ref = glyph48177;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB22C;
+unicode = 45612;
+}

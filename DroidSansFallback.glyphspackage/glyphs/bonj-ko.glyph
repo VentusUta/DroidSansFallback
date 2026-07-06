@@ -1,0 +1,23 @@
+{
+glyphname = "bonj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48733;
+},
+{
+ref = glyph48287;
+},
+{
+ref = glyph48073;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBCF9;
+unicode = 48377;
+}

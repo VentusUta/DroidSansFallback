@@ -1,0 +1,23 @@
+{
+glyphname = "celb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49135;
+},
+{
+ref = glyph49144;
+},
+{
+ref = glyph48000;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCCBF;
+unicode = 52415;
+}

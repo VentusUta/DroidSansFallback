@@ -1,0 +1,23 @@
+{
+glyphname = "cwalg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49164;
+},
+{
+ref = glyph48518;
+},
+{
+ref = glyph48522;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD2D;
+unicode = 52525;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "euJung-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(20,60,l),
+(237,60,l),
+(237,79,l),
+(20,79,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni3161;
+unicode = (4467,12641);
+}

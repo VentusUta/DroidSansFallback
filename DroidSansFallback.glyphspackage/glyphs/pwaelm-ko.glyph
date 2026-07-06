@@ -1,0 +1,23 @@
+{
+glyphname = "pwaelm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49319;
+},
+{
+ref = glyph48309;
+},
+{
+ref = glyph48111;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD42E;
+unicode = 54318;
+}

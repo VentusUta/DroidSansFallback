@@ -1,0 +1,23 @@
+{
+glyphname = "ceod-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49137;
+},
+{
+ref = glyph49138;
+},
+{
+ref = glyph48030;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCC9F;
+unicode = 52383;
+}

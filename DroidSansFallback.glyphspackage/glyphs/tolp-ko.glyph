@@ -1,0 +1,23 @@
+{
+glyphname = "tolp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49272;
+},
+{
+ref = glyph48504;
+},
+{
+ref = glyph48083;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD1AE;
+unicode = 53678;
+}

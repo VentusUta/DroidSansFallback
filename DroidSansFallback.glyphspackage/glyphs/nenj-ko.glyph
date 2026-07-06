@@ -1,0 +1,23 @@
+{
+glyphname = "nenj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47988;
+},
+{
+ref = glyph48051;
+},
+{
+ref = glyph47994;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB129;
+unicode = 45353;
+}

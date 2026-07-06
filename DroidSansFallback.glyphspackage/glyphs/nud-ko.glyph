@@ -1,0 +1,23 @@
+{
+glyphname = "nud-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48153;
+},
+{
+ref = glyph47727;
+},
+{
+ref = glyph47728;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB20B;
+unicode = 45579;
+}

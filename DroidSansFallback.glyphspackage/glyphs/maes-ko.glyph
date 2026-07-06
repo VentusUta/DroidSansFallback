@@ -1,0 +1,23 @@
+{
+glyphname = "maes-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48671;
+},
+{
+ref = glyph47549;
+},
+{
+ref = glyph48008;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB9F7;
+unicode = 47607;
+}

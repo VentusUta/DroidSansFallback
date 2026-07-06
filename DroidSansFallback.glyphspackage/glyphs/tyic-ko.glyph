@@ -1,0 +1,23 @@
+{
+glyphname = "tyic-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49276;
+},
+{
+ref = glyph48666;
+},
+{
+ref = glyph48537;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD2EB;
+unicode = 53995;
+}

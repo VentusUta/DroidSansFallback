@@ -1,0 +1,23 @@
+{
+glyphname = "dyaen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48262;
+},
+{
+ref = glyph47569;
+},
+{
+ref = glyph47993;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB33C;
+unicode = 45884;
+}

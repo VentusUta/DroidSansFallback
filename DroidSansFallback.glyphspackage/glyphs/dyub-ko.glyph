@@ -1,0 +1,23 @@
+{
+glyphname = "dyub-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48322;
+},
+{
+ref = glyph48355;
+},
+{
+ref = glyph48086;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB4D1;
+unicode = 46289;
+}

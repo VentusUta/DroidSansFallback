@@ -1,0 +1,23 @@
+{
+glyphname = "toh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49272;
+},
+{
+ref = glyph48504;
+},
+{
+ref = glyph48094;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD1BB;
+unicode = 53691;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "geut-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47729;
+},
+{
+ref = glyph47825;
+},
+{
+ref = glyph47660;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAE11;
+unicode = 44561;
+}

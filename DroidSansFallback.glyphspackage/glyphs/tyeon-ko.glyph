@@ -1,0 +1,23 @@
+{
+glyphname = "tyeon-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49264;
+},
+{
+ref = glyph48057;
+},
+{
+ref = glyph47580;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD16C;
+unicode = 53612;
+}

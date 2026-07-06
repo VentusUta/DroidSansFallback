@@ -1,0 +1,23 @@
+{
+glyphname = "jobs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49070;
+},
+{
+ref = glyph48921;
+},
+{
+ref = glyph48087;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC882;
+unicode = 51330;
+}

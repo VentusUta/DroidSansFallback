@@ -1,0 +1,23 @@
+{
+glyphname = "oc-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49036;
+},
+{
+ref = glyph48291;
+},
+{
+ref = glyph48090;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC63B;
+unicode = 50747;
+}

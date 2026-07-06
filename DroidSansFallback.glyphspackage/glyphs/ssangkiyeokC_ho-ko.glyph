@@ -1,0 +1,36 @@
+{
+glyphname = "ssangkiyeokCho-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(101,135,l),
+(101,27,l),
+(121,27,l),
+(121,154,l),
+(33,154,l),
+(33,135,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(197,135,l),
+(197,27,l),
+(217,27,l),
+(217,154,l),
+(135,154,l),
+(135,135,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni11A9;
+unicode = (4353,4521,12594);
+}

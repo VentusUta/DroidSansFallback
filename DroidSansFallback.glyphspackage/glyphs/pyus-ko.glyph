@@ -1,0 +1,23 @@
+{
+glyphname = "pyus-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49321;
+},
+{
+ref = glyph48358;
+},
+{
+ref = glyph47654;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD4FB;
+unicode = 54523;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "kwaej-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49216;
+},
+{
+ref = glyph49217;
+},
+{
+ref = glyph48124;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCFA2;
+unicode = 53154;
+}

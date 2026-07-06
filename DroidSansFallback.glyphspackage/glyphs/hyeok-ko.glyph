@@ -1,0 +1,23 @@
+{
+glyphname = "hyeok-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49342;
+},
+{
+ref = glyph49353;
+},
+{
+ref = glyph48234;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD618;
+unicode = 54808;
+}

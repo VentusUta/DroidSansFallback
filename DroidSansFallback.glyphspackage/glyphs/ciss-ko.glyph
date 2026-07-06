@@ -1,0 +1,23 @@
+{
+glyphname = "ciss-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49129;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph47890;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE6C;
+unicode = 52844;
+}

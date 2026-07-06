@@ -1,0 +1,23 @@
+{
+glyphname = "yos-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49034;
+},
+{
+ref = glyph48320;
+},
+{
+ref = glyph47654;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC6A7;
+unicode = 50855;
+}

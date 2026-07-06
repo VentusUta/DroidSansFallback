@@ -1,0 +1,23 @@
+{
+glyphname = "rec-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48477;
+},
+{
+ref = glyph48488;
+},
+{
+ref = glyph48011;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB81F;
+unicode = 47135;
+}

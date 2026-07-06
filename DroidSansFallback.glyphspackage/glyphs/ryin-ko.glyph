@@ -1,0 +1,23 @@
+{
+glyphname = "ryin-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48513;
+},
+{
+ref = glyph48663;
+},
+{
+ref = glyph48515;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB994;
+unicode = 47508;
+}

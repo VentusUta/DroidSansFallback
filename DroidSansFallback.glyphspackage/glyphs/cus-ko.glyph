@@ -1,0 +1,23 @@
+{
+glyphname = "cus-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49171;
+},
+{
+ref = glyph48569;
+},
+{
+ref = glyph47654;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCDA7;
+unicode = 52647;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "olg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49036;
+},
+{
+ref = glyph48291;
+},
+{
+ref = glyph48078;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC62D;
+unicode = 50733;
+}

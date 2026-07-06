@@ -1,0 +1,23 @@
+{
+glyphname = "hwinh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49471;
+},
+{
+ref = glyph49515;
+},
+{
+ref = glyph49516;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD71E;
+unicode = 55070;
+}

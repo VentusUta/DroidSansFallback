@@ -1,0 +1,23 @@
+{
+glyphname = "twass-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49274;
+},
+{
+ref = glyph48509;
+},
+{
+ref = glyph48534;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD1D0;
+unicode = 53712;
+}

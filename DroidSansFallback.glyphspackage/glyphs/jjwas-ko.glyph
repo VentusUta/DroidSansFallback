@@ -1,0 +1,23 @@
+{
+glyphname = "jjwas-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49109;
+},
+{
+ref = glyph48990;
+},
+{
+ref = glyph48121;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCAEB;
+unicode = 51947;
+}

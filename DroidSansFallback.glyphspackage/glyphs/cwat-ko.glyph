@@ -1,0 +1,23 @@
+{
+glyphname = "cwat-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49164;
+},
+{
+ref = glyph48518;
+},
+{
+ref = glyph48539;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD3D;
+unicode = 52541;
+}

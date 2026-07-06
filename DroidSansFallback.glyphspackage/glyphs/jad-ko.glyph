@@ -1,0 +1,23 @@
+{
+glyphname = "jad-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49057;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47967;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC797;
+unicode = 51095;
+}

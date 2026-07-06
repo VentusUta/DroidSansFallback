@@ -1,0 +1,20 @@
+{
+glyphname = "hwe-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49497;
+},
+{
+ref = glyph49498;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD6FC;
+unicode = 55036;
+}

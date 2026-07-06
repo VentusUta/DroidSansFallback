@@ -1,0 +1,23 @@
+{
+glyphname = "salm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48904;
+},
+{
+ref = glyph47499;
+},
+{
+ref = glyph47970;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC0B6;
+unicode = 49334;
+}

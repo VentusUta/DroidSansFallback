@@ -1,0 +1,23 @@
+{
+glyphname = "cegs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49133;
+},
+{
+ref = glyph47613;
+},
+{
+ref = glyph47991;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCCB7;
+unicode = 52407;
+}

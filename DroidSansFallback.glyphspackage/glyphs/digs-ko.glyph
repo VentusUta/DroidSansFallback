@@ -1,0 +1,23 @@
+{
+glyphname = "digs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48256;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48023;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB517;
+unicode = 46359;
+}

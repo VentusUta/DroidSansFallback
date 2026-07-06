@@ -1,0 +1,20 @@
+{
+glyphname = "oe-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49037;
+},
+{
+ref = glyph48551;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC678;
+unicode = 50808;
+}

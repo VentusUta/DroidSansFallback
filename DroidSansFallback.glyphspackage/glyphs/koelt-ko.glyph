@@ -1,0 +1,23 @@
+{
+glyphname = "koelt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49211;
+},
+{
+ref = glyph49226;
+},
+{
+ref = glyph48114;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCFB5;
+unicode = 53173;
+}

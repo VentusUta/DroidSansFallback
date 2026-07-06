@@ -1,0 +1,23 @@
+{
+glyphname = "pem-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49298;
+},
+{
+ref = glyph48270;
+},
+{
+ref = glyph48005;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD3A8;
+unicode = 54184;
+}

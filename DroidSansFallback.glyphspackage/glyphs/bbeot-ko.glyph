@@ -1,0 +1,23 @@
+{
+glyphname = "bbeot-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48788;
+},
+{
+ref = glyph48789;
+},
+{
+ref = glyph48047;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBEE9;
+unicode = 48873;
+}

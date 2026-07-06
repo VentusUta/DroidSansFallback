@@ -1,0 +1,23 @@
+{
+glyphname = "bbeuc-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48812;
+},
+{
+ref = glyph48889;
+},
+{
+ref = glyph48090;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC06F;
+unicode = 49263;
+}

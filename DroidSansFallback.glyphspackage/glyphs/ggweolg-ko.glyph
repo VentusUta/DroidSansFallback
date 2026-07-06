@@ -1,0 +1,23 @@
+{
+glyphname = "ggweolg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47940;
+},
+{
+ref = glyph47744;
+},
+{
+ref = glyph47748;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAFDD;
+unicode = 45021;
+}

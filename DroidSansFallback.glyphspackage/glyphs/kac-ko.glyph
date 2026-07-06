@@ -1,0 +1,23 @@
+{
+glyphname = "kac-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49188;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47982;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE8B;
+unicode = 52875;
+}

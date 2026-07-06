@@ -1,0 +1,23 @@
+{
+glyphname = "rwaelg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48548;
+},
+{
+ref = glyph48549;
+},
+{
+ref = glyph48522;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB89D;
+unicode = 47261;
+}

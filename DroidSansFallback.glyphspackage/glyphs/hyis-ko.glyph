@@ -1,0 +1,23 @@
+{
+glyphname = "hyis-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49399;
+},
+{
+ref = glyph49555;
+},
+{
+ref = glyph49424;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD77F;
+unicode = 55167;
+}

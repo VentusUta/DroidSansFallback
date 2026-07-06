@@ -1,0 +1,23 @@
+{
+glyphname = "nim-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48019;
+},
+{
+ref = glyph48039;
+},
+{
+ref = glyph47839;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB2D8;
+unicode = 45784;
+}

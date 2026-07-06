@@ -1,0 +1,23 @@
+{
+glyphname = "geoh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47582;
+},
+{
+ref = glyph47583;
+},
+{
+ref = glyph47607;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC8B;
+unicode = 44171;
+}

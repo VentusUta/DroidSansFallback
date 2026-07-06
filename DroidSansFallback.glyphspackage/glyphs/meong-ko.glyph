@@ -1,0 +1,23 @@
+{
+glyphname = "meong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48677;
+},
+{
+ref = glyph48681;
+},
+{
+ref = glyph48043;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBA4D;
+unicode = 47693;
+}

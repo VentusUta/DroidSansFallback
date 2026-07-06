@@ -1,0 +1,23 @@
+{
+glyphname = "oegg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49038;
+},
+{
+ref = glyph48312;
+},
+{
+ref = glyph48100;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC67A;
+unicode = 50810;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = uni65CB;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph38163;
+},
+{
+ref = glyph38183;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni65CB;
+unicode = 26059;
+}

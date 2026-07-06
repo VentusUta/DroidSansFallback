@@ -1,0 +1,23 @@
+{
+glyphname = "begg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48723;
+},
+{
+ref = glyph48683;
+},
+{
+ref = glyph47990;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBCA2;
+unicode = 48290;
+}

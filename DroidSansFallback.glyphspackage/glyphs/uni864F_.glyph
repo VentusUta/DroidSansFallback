@@ -1,0 +1,20 @@
+{
+glyphname = uni864F;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph43710;
+},
+{
+ref = glyph43711;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni864F;
+unicode = 34383;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "pulm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49323;
+},
+{
+ref = glyph48327;
+},
+{
+ref = glyph48079;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD482;
+unicode = 54402;
+}

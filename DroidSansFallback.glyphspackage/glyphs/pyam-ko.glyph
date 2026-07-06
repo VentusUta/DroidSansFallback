@@ -1,0 +1,23 @@
+{
+glyphname = "pyam-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49294;
+},
+{
+ref = glyph47560;
+},
+{
+ref = glyph47976;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD354;
+unicode = 54100;
+}

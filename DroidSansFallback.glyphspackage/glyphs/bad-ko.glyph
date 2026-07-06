@@ -1,0 +1,23 @@
+{
+glyphname = "bad-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47489;
+},
+{
+ref = glyph47501;
+},
+{
+ref = glyph48721;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBC1B;
+unicode = 48155;
+}

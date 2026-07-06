@@ -1,0 +1,23 @@
+{
+glyphname = "koen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49209;
+},
+{
+ref = glyph49225;
+},
+{
+ref = glyph47496;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCFAC;
+unicode = 53164;
+}

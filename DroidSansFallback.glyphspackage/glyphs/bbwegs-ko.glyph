@@ -1,0 +1,23 @@
+{
+glyphname = "bbwegs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48864;
+},
+{
+ref = glyph48865;
+},
+{
+ref = glyph48164;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC007;
+unicode = 49159;
+}

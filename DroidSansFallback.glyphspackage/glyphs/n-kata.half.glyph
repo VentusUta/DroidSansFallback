@@ -1,0 +1,37 @@
+{
+glyphname = "n-kata.half";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(19,186,q),
+(5,171,l),
+(44,123,l),
+(60,140,l),
+(43,163,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(89,86,o),
+(48,26,o),
+(9,7,q),
+(20,-14,l),
+(62,6,o),
+(109,73,o),
+(123,144,q),
+(102,152,l)
+);
+}
+);
+vertWidth = 256;
+width = 128;
+}
+);
+note = uniFF9D;
+unicode = 65437;
+}

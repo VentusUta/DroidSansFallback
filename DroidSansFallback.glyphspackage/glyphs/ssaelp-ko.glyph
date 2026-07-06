@@ -1,0 +1,23 @@
+{
+glyphname = "ssaelp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48969;
+},
+{
+ref = glyph47859;
+},
+{
+ref = glyph48003;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC322;
+unicode = 49954;
+}

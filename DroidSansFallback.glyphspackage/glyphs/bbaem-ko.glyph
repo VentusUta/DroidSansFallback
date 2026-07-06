@@ -1,0 +1,23 @@
+{
+glyphname = "bbaem-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48765;
+},
+{
+ref = glyph48766;
+},
+{
+ref = glyph48005;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBE8C;
+unicode = 48780;
+}

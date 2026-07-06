@@ -1,0 +1,23 @@
+{
+glyphname = "jwig-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49085;
+},
+{
+ref = glyph48349;
+},
+{
+ref = glyph48207;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC951;
+unicode = 51537;
+}

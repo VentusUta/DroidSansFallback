@@ -1,0 +1,23 @@
+{
+glyphname = "swic-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48956;
+},
+{
+ref = glyph48353;
+},
+{
+ref = glyph48233;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC283;
+unicode = 49795;
+}

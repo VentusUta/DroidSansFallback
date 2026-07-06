@@ -1,0 +1,23 @@
+{
+glyphname = "nwinh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48169;
+},
+{
+ref = glyph48213;
+},
+{
+ref = glyph48214;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB25E;
+unicode = 45662;
+}

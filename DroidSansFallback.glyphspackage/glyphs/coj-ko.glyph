@@ -1,0 +1,23 @@
+{
+glyphname = "coj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49158;
+},
+{
+ref = glyph48500;
+},
+{
+ref = glyph48089;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD1E;
+unicode = 52510;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ggoc-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47902;
+},
+{
+ref = glyph47903;
+},
+{
+ref = glyph47658;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAF43;
+unicode = 44867;
+}

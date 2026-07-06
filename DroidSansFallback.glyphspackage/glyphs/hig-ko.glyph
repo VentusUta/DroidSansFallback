@@ -1,0 +1,23 @@
+{
+glyphname = "hig-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49333;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48207;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD789;
+unicode = 55177;
+}

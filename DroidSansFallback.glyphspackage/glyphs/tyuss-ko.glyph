@@ -1,0 +1,23 @@
+{
+glyphname = "tyuss-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49282;
+},
+{
+ref = glyph48651;
+},
+{
+ref = glyph48088;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD2B0;
+unicode = 53936;
+}

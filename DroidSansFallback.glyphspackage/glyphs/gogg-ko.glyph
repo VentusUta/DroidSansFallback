@@ -1,0 +1,23 @@
+{
+glyphname = "gogg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47630;
+},
+{
+ref = glyph47631;
+},
+{
+ref = glyph47633;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniACE2;
+unicode = 44258;
+}

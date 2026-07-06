@@ -1,0 +1,23 @@
+{
+glyphname = "ggon-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47900;
+},
+{
+ref = glyph47901;
+},
+{
+ref = glyph47637;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAF30;
+unicode = 44848;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "bwaes-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48741;
+},
+{
+ref = glyph48310;
+},
+{
+ref = glyph48121;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBD3F;
+unicode = 48447;
+}

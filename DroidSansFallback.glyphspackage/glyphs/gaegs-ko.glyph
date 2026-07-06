@@ -1,0 +1,23 @@
+{
+glyphname = "gaegs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47525;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph47529;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC1F;
+unicode = 44063;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "pud-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49321;
+},
+{
+ref = glyph48323;
+},
+{
+ref = glyph47728;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD47F;
+unicode = 54399;
+}

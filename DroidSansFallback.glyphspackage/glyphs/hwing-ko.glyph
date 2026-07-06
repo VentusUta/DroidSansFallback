@@ -1,0 +1,23 @@
+{
+glyphname = "hwing-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49462;
+},
+{
+ref = glyph49529;
+},
+{
+ref = glyph49532;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD72D;
+unicode = 55085;
+}

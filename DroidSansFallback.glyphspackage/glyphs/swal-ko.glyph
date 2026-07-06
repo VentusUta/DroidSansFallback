@@ -1,0 +1,23 @@
+{
+glyphname = "swal-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48929;
+},
+{
+ref = glyph48930;
+},
+{
+ref = glyph48109;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC1B0;
+unicode = 49584;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "runh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48567;
+},
+{
+ref = glyph48568;
+},
+{
+ref = glyph48076;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB8EE;
+unicode = 47342;
+}

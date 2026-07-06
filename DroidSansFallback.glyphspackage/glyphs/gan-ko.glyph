@@ -1,0 +1,23 @@
+{
+glyphname = "gan-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47494;
+},
+{
+ref = glyph47495;
+},
+{
+ref = glyph47496;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC04;
+unicode = 44036;
+}

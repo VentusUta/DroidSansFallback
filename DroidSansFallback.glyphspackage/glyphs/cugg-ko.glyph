@@ -1,0 +1,23 @@
+{
+glyphname = "cugg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49171;
+},
+{
+ref = glyph48563;
+},
+{
+ref = glyph48070;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD96;
+unicode = 52630;
+}

@@ -1,0 +1,29 @@
+{
+glyphname = "khieukhCho-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(185,136,l),
+(185,106,l),
+(45,90,l),
+(47,71,l),
+(185,91,l),
+(185,30,l),
+(205,30,l),
+(205,155,l),
+(45,155,l),
+(45,136,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni110F;
+unicode = (4367,4543,12619);
+}

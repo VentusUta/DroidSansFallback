@@ -1,0 +1,23 @@
+{
+glyphname = "gying-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47830;
+},
+{
+ref = glyph47836;
+},
+{
+ref = glyph47691;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAE29;
+unicode = 44585;
+}

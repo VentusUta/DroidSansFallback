@@ -1,0 +1,23 @@
+{
+glyphname = "ggyilt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47953;
+},
+{
+ref = glyph47835;
+},
+{
+ref = glyph47682;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB06D;
+unicode = 45165;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "nyeot-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48027;
+},
+{
+ref = glyph48058;
+},
+{
+ref = glyph48047;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB159;
+unicode = 45401;
+}

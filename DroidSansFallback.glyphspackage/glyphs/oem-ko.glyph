@@ -1,0 +1,23 @@
+{
+glyphname = "oem-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49038;
+},
+{
+ref = glyph48312;
+},
+{
+ref = glyph48117;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC688;
+unicode = 50824;
+}

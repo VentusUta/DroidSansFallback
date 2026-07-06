@@ -1,0 +1,23 @@
+{
+glyphname = "nogs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48067;
+},
+{
+ref = glyph48068;
+},
+{
+ref = glyph48071;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB17B;
+unicode = 45435;
+}

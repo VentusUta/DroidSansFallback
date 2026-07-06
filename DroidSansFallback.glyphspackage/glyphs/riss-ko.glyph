@@ -1,0 +1,23 @@
+{
+glyphname = "riss-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48471;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph47890;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB9C0;
+unicode = 47552;
+}

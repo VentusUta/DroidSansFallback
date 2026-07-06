@@ -1,0 +1,23 @@
+{
+glyphname = "myubs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48710;
+},
+{
+ref = glyph48357;
+},
+{
+ref = glyph48087;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBBB6;
+unicode = 48054;
+}

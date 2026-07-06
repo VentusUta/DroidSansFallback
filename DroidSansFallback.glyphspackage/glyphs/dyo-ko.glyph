@@ -1,0 +1,20 @@
+{
+glyphname = "dyo-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48285;
+},
+{
+ref = glyph48316;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB434;
+unicode = 46132;
+}

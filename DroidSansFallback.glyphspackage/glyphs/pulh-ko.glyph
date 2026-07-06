@@ -1,0 +1,23 @@
+{
+glyphname = "pulh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49323;
+},
+{
+ref = glyph48327;
+},
+{
+ref = glyph48084;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD487;
+unicode = 54407;
+}

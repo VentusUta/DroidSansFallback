@@ -1,0 +1,23 @@
+{
+glyphname = "bbul-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48848;
+},
+{
+ref = glyph48849;
+},
+{
+ref = glyph48077;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBFD4;
+unicode = 49108;
+}

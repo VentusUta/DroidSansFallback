@@ -1,0 +1,23 @@
+{
+glyphname = "peuh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49311;
+},
+{
+ref = glyph48364;
+},
+{
+ref = glyph48094;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD51F;
+unicode = 54559;
+}

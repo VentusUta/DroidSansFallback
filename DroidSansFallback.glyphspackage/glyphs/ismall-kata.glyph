@@ -1,0 +1,29 @@
+{
+glyphname = "ismall-kata";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(124,103,o),
+(39,61,q),
+(54,43,l),
+(118,80,l),
+(118,-15,l),
+(142,-15,l),
+(142,97,l),
+(172,120,o),
+(193,143,q),
+(175,158,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni30A3;
+unicode = 12451;
+}

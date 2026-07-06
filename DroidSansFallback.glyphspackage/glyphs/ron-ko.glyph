@@ -1,0 +1,23 @@
+{
+glyphname = "ron-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48501;
+},
+{
+ref = glyph48502;
+},
+{
+ref = glyph48148;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB860;
+unicode = 47200;
+}

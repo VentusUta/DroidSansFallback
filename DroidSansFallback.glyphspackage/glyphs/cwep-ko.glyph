@@ -1,0 +1,23 @@
+{
+glyphname = "cwep-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49179;
+},
+{
+ref = glyph48611;
+},
+{
+ref = glyph48606;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCDE6;
+unicode = 52710;
+}

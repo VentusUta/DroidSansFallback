@@ -1,0 +1,23 @@
+{
+glyphname = "myen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48672;
+},
+{
+ref = glyph48692;
+},
+{
+ref = glyph47993;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBA90;
+unicode = 47760;
+}

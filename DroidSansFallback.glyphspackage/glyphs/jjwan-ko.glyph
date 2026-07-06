@@ -1,0 +1,23 @@
+{
+glyphname = "jjwan-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49110;
+},
+{
+ref = glyph48987;
+},
+{
+ref = glyph47496;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCADC;
+unicode = 51932;
+}

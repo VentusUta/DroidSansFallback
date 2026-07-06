@@ -1,0 +1,36 @@
+{
+glyphname = whitecornerbracketright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(77,92,l),
+(77,32,l),
+(43,32,l),
+(43,-19,l),
+(128,-19,l),
+(128,92,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(59,16,l),
+(93,16,l),
+(93,76,l),
+(112,76,l),
+(112,-3,l),
+(59,-3,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni300F;
+unicode = 12303;
+}

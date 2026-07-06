@@ -1,0 +1,23 @@
+{
+glyphname = "sswaen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48995;
+},
+{
+ref = glyph48996;
+},
+{
+ref = glyph47496;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC414;
+unicode = 50196;
+}

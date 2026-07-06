@@ -1,0 +1,23 @@
+{
+glyphname = "pagg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49294;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47960;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD30E;
+unicode = 54030;
+}

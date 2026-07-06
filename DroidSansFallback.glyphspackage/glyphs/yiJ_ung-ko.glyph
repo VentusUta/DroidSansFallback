@@ -1,0 +1,27 @@
+{
+glyphname = "yiJung-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(19,73,l),
+(22,54,l),
+(179,69,l),
+(179,-15,l),
+(199,-15,l),
+(199,200,l),
+(179,200,l),
+(179,88,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni3162;
+unicode = (4468,12642);
+}

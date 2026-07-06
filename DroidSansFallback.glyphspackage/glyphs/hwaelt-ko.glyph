@@ -1,0 +1,23 @@
+{
+glyphname = "hwaelt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49439;
+},
+{
+ref = glyph49440;
+},
+{
+ref = glyph49417;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD67D;
+unicode = 54909;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = "twe-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49289;
+},
+{
+ref = glyph48609;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD264;
+unicode = 53860;
+}

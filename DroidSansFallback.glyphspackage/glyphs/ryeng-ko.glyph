@@ -1,0 +1,23 @@
+{
+glyphname = "ryeng-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48475;
+},
+{
+ref = glyph48496;
+},
+{
+ref = glyph48009;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB855;
+unicode = 47189;
+}

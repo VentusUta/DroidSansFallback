@@ -1,0 +1,23 @@
+{
+glyphname = "ryeobs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48483;
+},
+{
+ref = glyph48491;
+},
+{
+ref = glyph48041;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB836;
+unicode = 47158;
+}

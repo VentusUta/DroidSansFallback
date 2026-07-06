@@ -1,0 +1,23 @@
+{
+glyphname = "myiss-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48700;
+},
+{
+ref = glyph48366;
+},
+{
+ref = glyph48122;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBBF0;
+unicode = 48112;
+}

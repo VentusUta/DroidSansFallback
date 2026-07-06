@@ -1,0 +1,23 @@
+{
+glyphname = "twelb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49292;
+},
+{
+ref = glyph48615;
+},
+{
+ref = glyph48589;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD26F;
+unicode = 53871;
+}

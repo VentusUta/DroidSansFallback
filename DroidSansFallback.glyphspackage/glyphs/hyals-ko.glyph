@@ -1,0 +1,23 @@
+{
+glyphname = "hyals-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49335;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph48113;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD59C;
+unicode = 54684;
+}

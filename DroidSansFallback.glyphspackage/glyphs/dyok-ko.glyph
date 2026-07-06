@@ -1,0 +1,23 @@
+{
+glyphname = "dyok-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48286;
+},
+{
+ref = glyph48317;
+},
+{
+ref = glyph48091;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB44C;
+unicode = 46156;
+}

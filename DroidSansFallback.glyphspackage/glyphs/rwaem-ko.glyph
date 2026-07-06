@@ -1,0 +1,23 @@
+{
+glyphname = "rwaem-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48544;
+},
+{
+ref = glyph48545;
+},
+{
+ref = glyph48529;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB8A4;
+unicode = 47268;
+}

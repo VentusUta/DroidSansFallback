@@ -1,0 +1,23 @@
+{
+glyphname = "eus-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49034;
+},
+{
+ref = glyph48363;
+},
+{
+ref = glyph47654;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC74F;
+unicode = 51023;
+}

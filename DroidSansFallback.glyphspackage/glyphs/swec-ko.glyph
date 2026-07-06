@@ -1,0 +1,23 @@
+{
+glyphname = "swec-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48960;
+},
+{
+ref = glyph48347;
+},
+{
+ref = glyph48190;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC267;
+unicode = 49767;
+}

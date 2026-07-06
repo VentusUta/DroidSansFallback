@@ -1,0 +1,23 @@
+{
+glyphname = "twinj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49286;
+},
+{
+ref = glyph48619;
+},
+{
+ref = glyph48625;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD285;
+unicode = 53893;
+}

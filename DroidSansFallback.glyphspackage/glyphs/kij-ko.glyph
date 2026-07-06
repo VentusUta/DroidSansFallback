@@ -1,0 +1,23 @@
+{
+glyphname = "kij-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49186;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48044;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD0BA;
+unicode = 53434;
+}

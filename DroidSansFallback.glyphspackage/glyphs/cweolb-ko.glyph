@@ -1,0 +1,23 @@
+{
+glyphname = "cweolb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49177;
+},
+{
+ref = glyph48583;
+},
+{
+ref = glyph48589;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCDBB;
+unicode = 52667;
+}

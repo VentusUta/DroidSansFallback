@@ -1,0 +1,23 @@
+{
+glyphname = "nip-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47959;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48048;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB2E2;
+unicode = 45794;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = uni4EFC;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph33219;
+},
+{
+ref = glyph33274;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni4EFC;
+unicode = 20220;
+}

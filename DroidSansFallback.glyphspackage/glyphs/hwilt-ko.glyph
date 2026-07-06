@@ -1,0 +1,23 @@
+{
+glyphname = "hwilt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49471;
+},
+{
+ref = glyph49515;
+},
+{
+ref = glyph49523;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD725;
+unicode = 55077;
+}

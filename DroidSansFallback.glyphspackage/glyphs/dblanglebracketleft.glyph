@@ -1,0 +1,36 @@
+{
+glyphname = dblanglebracketleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(228,197,l),
+(214,204,l),
+(160,92,l),
+(214,-19,l),
+(228,-11,l),
+(178,92,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(196,197,l),
+(181,204,l),
+(128,92,l),
+(181,-19,l),
+(196,-11,l),
+(146,92,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni300A;
+unicode = 12298;
+}

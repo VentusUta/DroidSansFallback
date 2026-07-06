@@ -1,0 +1,23 @@
+{
+glyphname = "ssyogg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48975;
+},
+{
+ref = glyph49006;
+},
+{
+ref = glyph48070;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC44A;
+unicode = 50250;
+}

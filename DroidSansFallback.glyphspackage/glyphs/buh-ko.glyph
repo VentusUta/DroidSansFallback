@@ -1,0 +1,23 @@
+{
+glyphname = "buh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48747;
+},
+{
+ref = glyph48329;
+},
+{
+ref = glyph48094;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBD9B;
+unicode = 48539;
+}

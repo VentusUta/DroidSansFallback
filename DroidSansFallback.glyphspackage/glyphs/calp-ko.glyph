@@ -1,0 +1,23 @@
+{
+glyphname = "calp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49131;
+},
+{
+ref = glyph47499;
+},
+{
+ref = glyph47974;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCC36;
+unicode = 52278;
+}

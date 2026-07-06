@@ -1,0 +1,23 @@
+{
+glyphname = "teong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49263;
+},
+{
+ref = glyph48485;
+},
+{
+ref = glyph48043;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD145;
+unicode = 53573;
+}

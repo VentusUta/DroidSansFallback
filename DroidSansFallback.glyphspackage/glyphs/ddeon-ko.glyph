@@ -1,0 +1,23 @@
+{
+glyphname = "ddeon-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48383;
+},
+{
+ref = glyph47580;
+},
+{
+ref = glyph48384;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB5A4;
+unicode = 46500;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ssoes-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48984;
+},
+{
+ref = glyph49004;
+},
+{
+ref = glyph48121;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC43F;
+unicode = 50239;
+}

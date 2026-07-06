@@ -1,0 +1,23 @@
+{
+glyphname = "melm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48673;
+},
+{
+ref = glyph48685;
+},
+{
+ref = glyph47999;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBA5E;
+unicode = 47710;
+}

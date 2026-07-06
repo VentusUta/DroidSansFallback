@@ -1,0 +1,23 @@
+{
+glyphname = "myaj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48668;
+},
+{
+ref = glyph47560;
+},
+{
+ref = glyph47517;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBA16;
+unicode = 47638;
+}

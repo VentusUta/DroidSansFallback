@@ -1,0 +1,23 @@
+{
+glyphname = "puj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49321;
+},
+{
+ref = glyph48323;
+},
+{
+ref = glyph48089;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD48E;
+unicode = 54414;
+}

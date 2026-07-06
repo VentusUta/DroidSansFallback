@@ -1,0 +1,23 @@
+{
+glyphname = "rweong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48573;
+},
+{
+ref = glyph48597;
+},
+{
+ref = glyph48600;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB919;
+unicode = 47385;
+}

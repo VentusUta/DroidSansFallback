@@ -1,0 +1,23 @@
+{
+glyphname = "dweng-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48340;
+},
+{
+ref = glyph48346;
+},
+{
+ref = glyph48187;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB49D;
+unicode = 46237;
+}

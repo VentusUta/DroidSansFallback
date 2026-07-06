@@ -1,0 +1,23 @@
+{
+glyphname = "jep-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49061;
+},
+{
+ref = glyph48270;
+},
+{
+ref = glyph48014;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC836;
+unicode = 51254;
+}

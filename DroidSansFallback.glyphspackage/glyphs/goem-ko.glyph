@@ -1,0 +1,23 @@
+{
+glyphname = "goem-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47665;
+},
+{
+ref = glyph47709;
+},
+{
+ref = glyph47685;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAD44;
+unicode = 44356;
+}

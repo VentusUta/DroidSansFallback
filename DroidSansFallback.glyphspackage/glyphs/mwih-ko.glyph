@@ -1,0 +1,23 @@
+{
+glyphname = "mwih-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48714;
+},
+{
+ref = glyph48353;
+},
+{
+ref = glyph48237;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBBA3;
+unicode = 48035;
+}

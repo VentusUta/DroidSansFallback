@@ -1,0 +1,23 @@
+{
+glyphname = "teugg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49270;
+},
+{
+ref = glyph48657;
+},
+{
+ref = glyph48070;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD2BA;
+unicode = 53946;
+}

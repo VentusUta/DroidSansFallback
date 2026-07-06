@@ -1,0 +1,23 @@
+{
+glyphname = "heulh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49372;
+},
+{
+ref = glyph49549;
+},
+{
+ref = glyph49383;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD75F;
+unicode = 55135;
+}

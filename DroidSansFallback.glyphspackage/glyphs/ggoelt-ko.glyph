@@ -1,0 +1,23 @@
+{
+glyphname = "ggoelt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47911;
+},
+{
+ref = glyph47926;
+},
+{
+ref = glyph47682;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAF8D;
+unicode = 44941;
+}

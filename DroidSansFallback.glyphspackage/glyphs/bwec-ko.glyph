@@ -1,0 +1,23 @@
+{
+glyphname = "bwec-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48755;
+},
+{
+ref = glyph48347;
+},
+{
+ref = glyph48190;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBDCF;
+unicode = 48591;
+}

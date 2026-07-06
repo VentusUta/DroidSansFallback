@@ -1,0 +1,23 @@
+{
+glyphname = "cyaegg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49133;
+},
+{
+ref = glyph47568;
+},
+{
+ref = glyph47990;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCC7E;
+unicode = 52350;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "hot-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49372;
+},
+{
+ref = glyph49373;
+},
+{
+ref = glyph49394;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD651;
+unicode = 54865;
+}

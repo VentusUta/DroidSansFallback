@@ -1,0 +1,23 @@
+{
+glyphname = "ryibs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48517;
+},
+{
+ref = glyph48664;
+},
+{
+ref = glyph48531;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB9A2;
+unicode = 47522;
+}

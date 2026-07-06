@@ -1,0 +1,23 @@
+{
+glyphname = "caels-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49135;
+},
+{
+ref = glyph47535;
+},
+{
+ref = glyph48001;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCC50;
+unicode = 52304;
+}

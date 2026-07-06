@@ -1,0 +1,23 @@
+{
+glyphname = "tyogs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49270;
+},
+{
+ref = glyph48557;
+},
+{
+ref = glyph48071;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD213;
+unicode = 53779;
+}

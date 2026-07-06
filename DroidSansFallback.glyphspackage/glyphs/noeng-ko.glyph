@@ -1,0 +1,23 @@
+{
+glyphname = "noeng-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48097;
+},
+{
+ref = glyph48143;
+},
+{
+ref = glyph48123;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB1E1;
+unicode = 45537;
+}

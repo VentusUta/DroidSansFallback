@@ -1,0 +1,23 @@
+{
+glyphname = "oek-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49038;
+},
+{
+ref = glyph48312;
+},
+{
+ref = glyph48126;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC690;
+unicode = 50832;
+}

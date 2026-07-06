@@ -1,0 +1,23 @@
+{
+glyphname = "ggwing-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47938;
+},
+{
+ref = glyph47802;
+},
+{
+ref = glyph47805;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB021;
+unicode = 45089;
+}

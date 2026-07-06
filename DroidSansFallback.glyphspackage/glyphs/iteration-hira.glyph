@@ -1,0 +1,30 @@
+{
+glyphname = "iteration-hira";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(94,168,q),
+(74,162,l),
+(102,81,o),
+(151,58,q),
+(150,56,l),
+(68,31,l),
+(77,12,l),
+(170,42,o),
+(184,42,q),
+(188,64,l),
+(124,81,o)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni309D;
+unicode = 12445;
+}

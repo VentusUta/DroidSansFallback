@@ -1,0 +1,20 @@
+{
+glyphname = "keo-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49193;
+},
+{
+ref = glyph47573;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCEE4;
+unicode = 52964;
+}

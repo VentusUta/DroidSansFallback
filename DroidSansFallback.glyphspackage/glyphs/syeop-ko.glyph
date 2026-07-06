@@ -1,0 +1,23 @@
+{
+glyphname = "syeop-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48910;
+},
+{
+ref = glyph48275;
+},
+{
+ref = glyph48048;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC16E;
+unicode = 49518;
+}

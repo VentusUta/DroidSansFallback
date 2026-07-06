@@ -1,0 +1,23 @@
+{
+glyphname = "syaelt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48908;
+},
+{
+ref = glyph47570;
+},
+{
+ref = glyph48002;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC10D;
+unicode = 49421;
+}

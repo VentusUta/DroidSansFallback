@@ -1,0 +1,23 @@
+{
+glyphname = "gak-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47488;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47519;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC18;
+unicode = 44056;
+}

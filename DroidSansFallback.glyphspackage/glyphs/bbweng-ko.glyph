@@ -1,0 +1,23 @@
+{
+glyphname = "bbweng-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48864;
+},
+{
+ref = glyph48870;
+},
+{
+ref = glyph48187;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC019;
+unicode = 49177;
+}

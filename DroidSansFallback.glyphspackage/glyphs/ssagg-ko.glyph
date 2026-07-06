@@ -1,0 +1,23 @@
+{
+glyphname = "ssagg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48963;
+},
+{
+ref = glyph47489;
+},
+{
+ref = glyph47960;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC2FA;
+unicode = 49914;
+}

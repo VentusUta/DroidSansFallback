@@ -1,0 +1,20 @@
+{
+glyphname = "neu-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48065;
+},
+{
+ref = glyph48245;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB290;
+unicode = 45712;
+}

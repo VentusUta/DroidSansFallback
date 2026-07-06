@@ -1,0 +1,23 @@
+{
+glyphname = "gyeolm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47582;
+},
+{
+ref = glyph47618;
+},
+{
+ref = glyph47588;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniACB2;
+unicode = 44210;
+}

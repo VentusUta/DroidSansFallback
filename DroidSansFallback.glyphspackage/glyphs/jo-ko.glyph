@@ -1,0 +1,20 @@
+{
+glyphname = "jo-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49068;
+},
+{
+ref = glyph48498;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC870;
+unicode = 51312;
+}

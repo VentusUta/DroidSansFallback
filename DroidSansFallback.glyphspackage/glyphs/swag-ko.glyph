@@ -1,0 +1,23 @@
+{
+glyphname = "swag-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48925;
+},
+{
+ref = glyph48926;
+},
+{
+ref = glyph48099;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC1A9;
+unicode = 49577;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "paed-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49298;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph47997;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD32F;
+unicode = 54063;
+}

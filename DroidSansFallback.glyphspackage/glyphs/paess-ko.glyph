@@ -1,0 +1,23 @@
+{
+glyphname = "paess-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49298;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph47614;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD33C;
+unicode = 54076;
+}

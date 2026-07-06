@@ -1,0 +1,23 @@
+{
+glyphname = "yam-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49023;
+},
+{
+ref = glyph47560;
+},
+{
+ref = glyph47976;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC58C;
+unicode = 50572;
+}

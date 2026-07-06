@@ -1,0 +1,23 @@
+{
+glyphname = "kyuc-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49237;
+},
+{
+ref = glyph48244;
+},
+{
+ref = glyph48090;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD067;
+unicode = 53351;
+}

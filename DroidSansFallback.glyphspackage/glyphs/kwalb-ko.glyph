@@ -1,0 +1,23 @@
+{
+glyphname = "kwalb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49211;
+},
+{
+ref = glyph49212;
+},
+{
+ref = glyph48112;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCF7B;
+unicode = 53115;
+}

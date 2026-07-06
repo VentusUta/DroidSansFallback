@@ -1,0 +1,23 @@
+{
+glyphname = "halg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49335;
+},
+{
+ref = glyph47499;
+},
+{
+ref = glyph48110;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD561;
+unicode = 54625;
+}

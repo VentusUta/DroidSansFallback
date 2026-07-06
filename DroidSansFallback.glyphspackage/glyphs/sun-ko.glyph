@@ -1,0 +1,23 @@
+{
+glyphname = "sun-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48951;
+},
+{
+ref = glyph48325;
+},
+{
+ref = glyph48148;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC21C;
+unicode = 49692;
+}

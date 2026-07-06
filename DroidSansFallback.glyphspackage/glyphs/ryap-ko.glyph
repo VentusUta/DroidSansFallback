@@ -1,0 +1,23 @@
+{
+glyphname = "ryap-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48471;
+},
+{
+ref = glyph47560;
+},
+{
+ref = glyph47985;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB7CE;
+unicode = 47054;
+}

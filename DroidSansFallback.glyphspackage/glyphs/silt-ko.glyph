@@ -1,0 +1,23 @@
+{
+glyphname = "silt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48904;
+},
+{
+ref = glyph47841;
+},
+{
+ref = glyph48036;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC2E9;
+unicode = 49897;
+}

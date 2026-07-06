@@ -1,0 +1,23 @@
+{
+glyphname = "sswaegs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48993;
+},
+{
+ref = glyph48994;
+},
+{
+ref = glyph48101;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC413;
+unicode = 50195;
+}

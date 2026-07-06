@@ -1,0 +1,23 @@
+{
+glyphname = "ggong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47898;
+},
+{
+ref = glyph47904;
+},
+{
+ref = glyph47656;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAF41;
+unicode = 44865;
+}

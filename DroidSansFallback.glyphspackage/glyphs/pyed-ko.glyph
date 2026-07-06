@@ -1,0 +1,23 @@
+{
+glyphname = "pyed-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49298;
+},
+{
+ref = glyph48281;
+},
+{
+ref = glyph47997;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD3D7;
+unicode = 54231;
+}

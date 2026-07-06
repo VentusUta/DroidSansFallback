@@ -1,0 +1,23 @@
+{
+glyphname = "doss-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48286;
+},
+{
+ref = glyph48287;
+},
+{
+ref = glyph48088;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB3D8;
+unicode = 46040;
+}

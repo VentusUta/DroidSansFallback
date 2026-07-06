@@ -1,0 +1,23 @@
+{
+glyphname = "gwanj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47665;
+},
+{
+ref = glyph47666;
+},
+{
+ref = glyph47672;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAD01;
+unicode = 44289;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "pim-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49294;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48039;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD54C;
+unicode = 54604;
+}

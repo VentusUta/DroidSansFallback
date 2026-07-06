@@ -1,0 +1,23 @@
+{
+glyphname = "oelp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49040;
+},
+{
+ref = glyph48314;
+},
+{
+ref = glyph48115;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC686;
+unicode = 50822;
+}

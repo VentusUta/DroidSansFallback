@@ -1,0 +1,23 @@
+{
+glyphname = "heus-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49363;
+},
+{
+ref = glyph49550;
+},
+{
+ref = glyph49388;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD763;
+unicode = 55139;
+}

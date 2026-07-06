@@ -1,0 +1,23 @@
+{
+glyphname = "hel-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49339;
+},
+{
+ref = glyph49350;
+},
+{
+ref = glyph48173;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD5EC;
+unicode = 54764;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ryael-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48477;
+},
+{
+ref = glyph47570;
+},
+{
+ref = glyph47620;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB7D8;
+unicode = 47064;
+}

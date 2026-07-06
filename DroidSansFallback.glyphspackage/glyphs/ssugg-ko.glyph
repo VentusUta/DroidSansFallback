@@ -1,0 +1,23 @@
+{
+glyphname = "ssugg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49011;
+},
+{
+ref = glyph48420;
+},
+{
+ref = glyph48070;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC466;
+unicode = 50278;
+}

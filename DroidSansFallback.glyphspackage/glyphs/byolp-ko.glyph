@@ -1,0 +1,23 @@
+{
+glyphname = "byolp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48735;
+},
+{
+ref = glyph48319;
+},
+{
+ref = glyph48083;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBD72;
+unicode = 48498;
+}

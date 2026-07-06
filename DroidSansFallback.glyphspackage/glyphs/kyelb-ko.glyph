@@ -1,0 +1,23 @@
+{
+glyphname = "kyelb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49192;
+},
+{
+ref = glyph47626;
+},
+{
+ref = glyph48000;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCF43;
+unicode = 53059;
+}

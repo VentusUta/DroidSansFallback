@@ -1,0 +1,23 @@
+{
+glyphname = "hoh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49372;
+},
+{
+ref = glyph49373;
+},
+{
+ref = glyph49396;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD653;
+unicode = 54867;
+}

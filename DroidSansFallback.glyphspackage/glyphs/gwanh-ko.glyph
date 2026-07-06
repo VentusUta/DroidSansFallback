@@ -1,0 +1,23 @@
+{
+glyphname = "gwanh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47673;
+},
+{
+ref = glyph47674;
+},
+{
+ref = glyph47675;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAD02;
+unicode = 44290;
+}

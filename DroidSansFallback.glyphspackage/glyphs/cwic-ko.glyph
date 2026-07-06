@@ -1,0 +1,23 @@
+{
+glyphname = "cwic-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49177;
+},
+{
+ref = glyph48645;
+},
+{
+ref = glyph48646;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCDFF;
+unicode = 52735;
+}

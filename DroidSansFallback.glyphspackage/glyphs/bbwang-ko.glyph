@@ -1,0 +1,23 @@
+{
+glyphname = "bbwang-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48817;
+},
+{
+ref = glyph48823;
+},
+{
+ref = glyph48123;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBF71;
+unicode = 49009;
+}

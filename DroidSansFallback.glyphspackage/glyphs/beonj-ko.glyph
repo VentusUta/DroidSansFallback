@@ -1,0 +1,23 @@
+{
+glyphname = "beonj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48729;
+},
+{
+ref = glyph48678;
+},
+{
+ref = glyph48026;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBC89;
+unicode = 48265;
+}

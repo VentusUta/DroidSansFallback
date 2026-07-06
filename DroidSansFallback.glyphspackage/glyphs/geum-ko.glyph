@@ -1,0 +1,23 @@
+{
+glyphname = "geum-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47821;
+},
+{
+ref = glyph47729;
+},
+{
+ref = glyph47651;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAE08;
+unicode = 44552;
+}

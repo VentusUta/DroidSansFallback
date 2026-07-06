@@ -1,0 +1,23 @@
+{
+glyphname = "bbulh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48848;
+},
+{
+ref = glyph48849;
+},
+{
+ref = glyph48084;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBFDB;
+unicode = 49115;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "bbyulh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48848;
+},
+{
+ref = glyph48881;
+},
+{
+ref = glyph48084;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC04B;
+unicode = 49227;
+}

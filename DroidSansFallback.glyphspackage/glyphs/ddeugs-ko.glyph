@@ -1,0 +1,23 @@
+{
+glyphname = "ddeugs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48404;
+},
+{
+ref = glyph48459;
+},
+{
+ref = glyph48071;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB72B;
+unicode = 46891;
+}

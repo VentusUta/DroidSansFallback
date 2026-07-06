@@ -1,0 +1,23 @@
+{
+glyphname = "tyegg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49259;
+},
+{
+ref = glyph48493;
+},
+{
+ref = glyph47990;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD186;
+unicode = 53638;
+}

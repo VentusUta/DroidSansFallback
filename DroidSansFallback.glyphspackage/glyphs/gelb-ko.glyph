@@ -1,0 +1,23 @@
+{
+glyphname = "gelb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47534;
+},
+{
+ref = glyph47611;
+},
+{
+ref = glyph47541;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC97;
+unicode = 44183;
+}

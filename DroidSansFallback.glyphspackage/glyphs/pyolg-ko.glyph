@@ -1,0 +1,23 @@
+{
+glyphname = "pyolg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49311;
+},
+{
+ref = glyph48319;
+},
+{
+ref = glyph48078;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD465;
+unicode = 54373;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "gwiss-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47735;
+},
+{
+ref = glyph47780;
+},
+{
+ref = glyph47804;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniADD4;
+unicode = 44500;
+}

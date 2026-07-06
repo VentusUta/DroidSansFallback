@@ -1,0 +1,23 @@
+{
+glyphname = "nun-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48153;
+},
+{
+ref = glyph47724;
+},
+{
+ref = glyph47637;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB208;
+unicode = 45576;
+}

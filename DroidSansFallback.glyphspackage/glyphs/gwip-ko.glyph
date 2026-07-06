@@ -1,0 +1,23 @@
+{
+glyphname = "gwip-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47735;
+},
+{
+ref = glyph47780;
+},
+{
+ref = glyph47811;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniADDA;
+unicode = 44506;
+}

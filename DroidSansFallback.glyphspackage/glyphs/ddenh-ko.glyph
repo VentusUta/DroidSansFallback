@@ -1,0 +1,23 @@
+{
+glyphname = "ddenh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48378;
+},
+{
+ref = glyph48390;
+},
+{
+ref = glyph47996;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB5C2;
+unicode = 46530;
+}

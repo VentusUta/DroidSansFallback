@@ -1,0 +1,26 @@
+{
+glyphname = greater.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(186,83,l),
+(186,96,l),
+(70,156,l),
+(70,136,l),
+(162,89,l),
+(70,43,l),
+(70,23,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniFF1E;
+unicode = 65310;
+}

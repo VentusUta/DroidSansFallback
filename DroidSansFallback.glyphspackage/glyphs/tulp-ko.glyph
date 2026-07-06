@@ -1,0 +1,23 @@
+{
+glyphname = "tulp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49284;
+},
+{
+ref = glyph48568;
+},
+{
+ref = glyph48083;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD23A;
+unicode = 53818;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "pwit-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49327;
+},
+{
+ref = glyph48351;
+},
+{
+ref = glyph48235;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD4E5;
+unicode = 54501;
+}

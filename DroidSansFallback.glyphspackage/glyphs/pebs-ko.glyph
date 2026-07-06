@@ -1,0 +1,23 @@
+{
+glyphname = "pebs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49300;
+},
+{
+ref = glyph48272;
+},
+{
+ref = glyph48007;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD3AA;
+unicode = 54186;
+}

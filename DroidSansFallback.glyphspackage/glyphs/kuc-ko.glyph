@@ -1,0 +1,23 @@
+{
+glyphname = "kuc-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49237;
+},
+{
+ref = glyph48157;
+},
+{
+ref = glyph48090;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCFF7;
+unicode = 53239;
+}

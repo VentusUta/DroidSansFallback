@@ -1,0 +1,23 @@
+{
+glyphname = "baeb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48723;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph48006;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBC41;
+unicode = 48193;
+}

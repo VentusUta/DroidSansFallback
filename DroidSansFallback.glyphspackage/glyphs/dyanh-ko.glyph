@@ -1,0 +1,23 @@
+{
+glyphname = "dyanh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48258;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph47966;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB322;
+unicode = 45858;
+}

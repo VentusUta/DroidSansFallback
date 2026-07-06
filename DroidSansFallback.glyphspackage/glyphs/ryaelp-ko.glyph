@@ -1,0 +1,23 @@
+{
+glyphname = "ryaelp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48477;
+},
+{
+ref = glyph47570;
+},
+{
+ref = glyph48003;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB7DE;
+unicode = 47070;
+}

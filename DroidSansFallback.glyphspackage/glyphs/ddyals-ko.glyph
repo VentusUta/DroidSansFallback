@@ -1,0 +1,23 @@
+{
+glyphname = "ddyals-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48374;
+},
+{
+ref = glyph47864;
+},
+{
+ref = glyph47972;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB574;
+unicode = 46452;
+}

@@ -1,0 +1,27 @@
+{
+glyphname = "tikeutCho-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(45,29,l),
+(203,29,l),
+(203,48,l),
+(65,48,l),
+(65,136,l),
+(198,136,l),
+(198,155,l),
+(45,155,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni11AE;
+unicode = (4355,4526,12599);
+}

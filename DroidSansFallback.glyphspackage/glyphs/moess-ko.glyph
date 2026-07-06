@@ -1,0 +1,23 @@
+{
+glyphname = "moess-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48700;
+},
+{
+ref = glyph48312;
+},
+{
+ref = glyph48122;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBB10;
+unicode = 47888;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "mwagg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48700;
+},
+{
+ref = glyph48296;
+},
+{
+ref = glyph48100;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBAC6;
+unicode = 47814;
+}

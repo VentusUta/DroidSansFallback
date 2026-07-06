@@ -1,0 +1,23 @@
+{
+glyphname = "jjil-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49095;
+},
+{
+ref = glyph47956;
+},
+{
+ref = glyph48031;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCC14;
+unicode = 52244;
+}

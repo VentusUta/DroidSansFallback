@@ -1,0 +1,23 @@
+{
+glyphname = "syah-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48904;
+},
+{
+ref = glyph47560;
+},
+{
+ref = glyph47986;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC0FF;
+unicode = 49407;
+}

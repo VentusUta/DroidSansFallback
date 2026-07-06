@@ -1,0 +1,23 @@
+{
+glyphname = "rop-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48499;
+},
+{
+ref = glyph48500;
+},
+{
+ref = glyph48093;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB876;
+unicode = 47222;
+}

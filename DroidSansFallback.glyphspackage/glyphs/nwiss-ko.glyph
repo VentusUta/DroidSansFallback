@@ -1,0 +1,23 @@
+{
+glyphname = "nwiss-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48160;
+},
+{
+ref = glyph48206;
+},
+{
+ref = glyph48229;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB26C;
+unicode = 45676;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "swen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48959;
+},
+{
+ref = glyph48343;
+},
+{
+ref = glyph48167;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC254;
+unicode = 49748;
+}

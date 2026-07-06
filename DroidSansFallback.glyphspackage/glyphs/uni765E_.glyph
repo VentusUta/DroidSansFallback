@@ -1,0 +1,20 @@
+{
+glyphname = uni765E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph40675;
+},
+{
+ref = glyph40876;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni765E;
+unicode = 30302;
+}

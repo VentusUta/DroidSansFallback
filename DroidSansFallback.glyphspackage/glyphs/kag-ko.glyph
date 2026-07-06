@@ -1,0 +1,23 @@
+{
+glyphname = "kag-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49186;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47490;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE75;
+unicode = 52853;
+}

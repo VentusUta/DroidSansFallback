@@ -1,0 +1,23 @@
+{
+glyphname = "kyonh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49202;
+},
+{
+ref = glyph49231;
+},
+{
+ref = glyph48076;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCFCA;
+unicode = 53194;
+}

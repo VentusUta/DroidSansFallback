@@ -1,0 +1,23 @@
+{
+glyphname = "hwik-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49462;
+},
+{
+ref = glyph49508;
+},
+{
+ref = glyph49536;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD730;
+unicode = 55088;
+}

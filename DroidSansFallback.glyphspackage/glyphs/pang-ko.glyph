@@ -1,0 +1,23 @@
+{
+glyphname = "pang-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49294;
+},
+{
+ref = glyph47513;
+},
+{
+ref = glyph47981;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD321;
+unicode = 54049;
+}

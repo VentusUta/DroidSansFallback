@@ -1,0 +1,23 @@
+{
+glyphname = "pyibs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49315;
+},
+{
+ref = glyph48368;
+},
+{
+ref = glyph48119;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD532;
+unicode = 54578;
+}

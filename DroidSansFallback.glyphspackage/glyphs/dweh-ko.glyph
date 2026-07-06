@@ -1,0 +1,23 @@
+{
+glyphname = "dweh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48344;
+},
+{
+ref = glyph48347;
+},
+{
+ref = glyph48194;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB4A3;
+unicode = 46243;
+}

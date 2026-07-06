@@ -1,0 +1,23 @@
+{
+glyphname = "ags-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49023;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47961;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC547;
+unicode = 50503;
+}

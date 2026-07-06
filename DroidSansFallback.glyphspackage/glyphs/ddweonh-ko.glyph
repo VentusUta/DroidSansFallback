@@ -1,0 +1,23 @@
+{
+glyphname = "ddweonh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48433;
+},
+{
+ref = glyph48434;
+},
+{
+ref = glyph48171;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB6BE;
+unicode = 46782;
+}

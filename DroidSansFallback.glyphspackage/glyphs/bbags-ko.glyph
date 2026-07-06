@@ -1,0 +1,23 @@
+{
+glyphname = "bbags-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48758;
+},
+{
+ref = glyph48759;
+},
+{
+ref = glyph47961;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBE63;
+unicode = 48739;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "cyeob-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49137;
+},
+{
+ref = glyph49147;
+},
+{
+ref = glyph48040;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCCE1;
+unicode = 52449;
+}

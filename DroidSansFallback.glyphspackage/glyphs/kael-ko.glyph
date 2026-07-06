@@ -1,0 +1,23 @@
+{
+glyphname = "kael-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49192;
+},
+{
+ref = glyph47535;
+},
+{
+ref = glyph47620;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE98;
+unicode = 52888;
+}

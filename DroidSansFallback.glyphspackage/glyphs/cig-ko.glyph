@@ -1,0 +1,23 @@
+{
+glyphname = "cig-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47839;
+},
+{
+ref = glyph49129;
+},
+{
+ref = glyph47490;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE59;
+unicode = 52825;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "celm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49135;
+},
+{
+ref = glyph49144;
+},
+{
+ref = glyph47999;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCCBE;
+unicode = 52414;
+}

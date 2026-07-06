@@ -1,0 +1,23 @@
+{
+glyphname = "wigs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49049;
+},
+{
+ref = glyph48349;
+},
+{
+ref = glyph48209;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC707;
+unicode = 50951;
+}

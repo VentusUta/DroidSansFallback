@@ -1,0 +1,23 @@
+{
+glyphname = "keolp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49196;
+},
+{
+ref = glyph47583;
+},
+{
+ref = glyph48037;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCEF2;
+unicode = 52978;
+}

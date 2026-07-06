@@ -1,0 +1,23 @@
+{
+glyphname = "dwak-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48295;
+},
+{
+ref = glyph48296;
+},
+{
+ref = glyph48126;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB3F8;
+unicode = 46072;
+}

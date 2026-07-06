@@ -1,0 +1,23 @@
+{
+glyphname = "sep-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48906;
+},
+{
+ref = glyph48270;
+},
+{
+ref = glyph48014;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC152;
+unicode = 49490;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "soelm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48929;
+},
+{
+ref = glyph48943;
+},
+{
+ref = glyph48111;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC1EA;
+unicode = 49642;
+}

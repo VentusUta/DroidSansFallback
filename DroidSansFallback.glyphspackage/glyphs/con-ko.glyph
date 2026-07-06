@@ -1,0 +1,23 @@
+{
+glyphname = "con-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49159;
+},
+{
+ref = glyph48502;
+},
+{
+ref = glyph48148;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD0C;
+unicode = 52492;
+}

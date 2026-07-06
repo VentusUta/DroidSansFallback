@@ -1,0 +1,23 @@
+{
+glyphname = "naem-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48005;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph47988;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB0C4;
+unicode = 45252;
+}

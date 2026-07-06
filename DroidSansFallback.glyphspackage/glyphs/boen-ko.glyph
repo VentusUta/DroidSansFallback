@@ -1,0 +1,23 @@
+{
+glyphname = "boen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48738;
+},
+{
+ref = glyph48416;
+},
+{
+ref = glyph47496;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBD4C;
+unicode = 48460;
+}

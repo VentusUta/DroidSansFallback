@@ -1,0 +1,23 @@
+{
+glyphname = "mek-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48671;
+},
+{
+ref = glyph48683;
+},
+{
+ref = glyph48012;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBA6C;
+unicode = 47724;
+}

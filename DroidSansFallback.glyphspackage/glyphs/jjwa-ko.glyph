@@ -1,0 +1,20 @@
+{
+glyphname = "jjwa-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49108;
+},
+{
+ref = glyph48983;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCAD8;
+unicode = 51928;
+}

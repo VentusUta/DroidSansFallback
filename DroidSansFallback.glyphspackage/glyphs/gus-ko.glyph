@@ -1,0 +1,23 @@
+{
+glyphname = "gus-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47721;
+},
+{
+ref = glyph47730;
+},
+{
+ref = glyph47718;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAD7F;
+unicode = 44415;
+}

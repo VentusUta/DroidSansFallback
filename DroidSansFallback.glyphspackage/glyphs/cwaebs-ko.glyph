@@ -1,0 +1,23 @@
+{
+glyphname = "cwaebs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49168;
+},
+{
+ref = glyph48549;
+},
+{
+ref = glyph48531;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD52;
+unicode = 52562;
+}

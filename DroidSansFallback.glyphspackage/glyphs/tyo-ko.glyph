@@ -1,0 +1,20 @@
+{
+glyphname = "tyo-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49269;
+},
+{
+ref = glyph48556;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD210;
+unicode = 53776;
+}

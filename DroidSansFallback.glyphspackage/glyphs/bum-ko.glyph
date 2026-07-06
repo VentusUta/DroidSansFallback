@@ -1,0 +1,23 @@
+{
+glyphname = "bum-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48745;
+},
+{
+ref = glyph48323;
+},
+{
+ref = glyph48085;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBD90;
+unicode = 48528;
+}

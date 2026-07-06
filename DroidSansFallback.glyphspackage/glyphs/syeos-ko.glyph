@@ -1,0 +1,23 @@
+{
+glyphname = "syeos-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48910;
+},
+{
+ref = glyph48279;
+},
+{
+ref = glyph47598;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC167;
+unicode = 49511;
+}

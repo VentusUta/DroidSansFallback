@@ -1,0 +1,23 @@
+{
+glyphname = "hyin-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49404;
+},
+{
+ref = glyph49553;
+},
+{
+ref = glyph49405;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD770;
+unicode = 55152;
+}

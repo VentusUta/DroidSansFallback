@@ -1,0 +1,23 @@
+{
+glyphname = "kwaelg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49220;
+},
+{
+ref = glyph49221;
+},
+{
+ref = glyph48110;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCF95;
+unicode = 53141;
+}

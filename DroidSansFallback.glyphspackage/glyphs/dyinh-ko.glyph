@@ -1,0 +1,23 @@
+{
+glyphname = "dyinh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48299;
+},
+{
+ref = glyph48368;
+},
+{
+ref = glyph48107;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB4FE;
+unicode = 46334;
+}

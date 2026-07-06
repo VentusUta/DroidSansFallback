@@ -1,0 +1,23 @@
+{
+glyphname = "tim-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49255;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48039;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD300;
+unicode = 54016;
+}

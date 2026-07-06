@@ -1,0 +1,23 @@
+{
+glyphname = "ged-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47525;
+},
+{
+ref = glyph47609;
+},
+{
+ref = glyph47537;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC93;
+unicode = 44179;
+}

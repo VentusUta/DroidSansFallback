@@ -1,0 +1,32 @@
+{
+glyphname = uni4E8C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(219,159,l),
+(219,178,l),
+(36,178,l),
+(36,159,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(241,0,l),
+(241,19,l),
+(14,19,l),
+(14,0,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni4E8C;
+unicode = 20108;
+}

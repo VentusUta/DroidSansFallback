@@ -1,0 +1,23 @@
+{
+glyphname = "cyan-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49130;
+},
+{
+ref = glyph47562;
+},
+{
+ref = glyph48016;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCC64;
+unicode = 52324;
+}

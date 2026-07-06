@@ -1,0 +1,23 @@
+{
+glyphname = "jeos-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49065;
+},
+{
+ref = glyph48269;
+},
+{
+ref = glyph47598;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC813;
+unicode = 51219;
+}

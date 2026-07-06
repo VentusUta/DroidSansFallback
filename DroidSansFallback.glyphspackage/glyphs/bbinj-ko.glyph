@@ -1,0 +1,23 @@
+{
+glyphname = "bbinj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48758;
+},
+{
+ref = glyph48897;
+},
+{
+ref = glyph48026;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC095;
+unicode = 49301;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "pweogs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49325;
+},
+{
+ref = glyph48332;
+},
+{
+ref = glyph48164;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD497;
+unicode = 54423;
+}

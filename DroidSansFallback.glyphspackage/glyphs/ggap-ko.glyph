@@ -1,0 +1,23 @@
+{
+glyphname = "ggap-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47846;
+},
+{
+ref = glyph47489;
+},
+{
+ref = glyph47521;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAE66;
+unicode = 44646;
+}

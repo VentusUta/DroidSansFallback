@@ -1,0 +1,23 @@
+{
+glyphname = "gyaelg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47534;
+},
+{
+ref = glyph47570;
+},
+{
+ref = glyph47539;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC5D;
+unicode = 44125;
+}

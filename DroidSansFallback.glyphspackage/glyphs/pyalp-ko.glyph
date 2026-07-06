@@ -1,0 +1,23 @@
+{
+glyphname = "pyalp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49296;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph47974;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD352;
+unicode = 54098;
+}

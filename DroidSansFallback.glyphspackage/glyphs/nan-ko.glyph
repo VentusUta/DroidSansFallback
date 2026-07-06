@@ -1,0 +1,23 @@
+{
+glyphname = "nan-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47962;
+},
+{
+ref = glyph47963;
+},
+{
+ref = glyph47563;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB09C;
+unicode = 45212;
+}

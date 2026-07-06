@@ -1,0 +1,20 @@
+{
+glyphname = "deu-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48245;
+},
+{
+ref = glyph48285;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB4DC;
+unicode = 46300;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "gelg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47534;
+},
+{
+ref = glyph47611;
+},
+{
+ref = glyph47539;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC95;
+unicode = 44181;
+}

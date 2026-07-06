@@ -1,0 +1,23 @@
+{
+glyphname = "ssilp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48965;
+},
+{
+ref = glyph47956;
+},
+{
+ref = glyph48037;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC536;
+unicode = 50486;
+}

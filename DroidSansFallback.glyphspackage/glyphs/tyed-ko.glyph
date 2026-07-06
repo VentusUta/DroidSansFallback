@@ -1,0 +1,23 @@
+{
+glyphname = "tyed-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49259;
+},
+{
+ref = glyph48493;
+},
+{
+ref = glyph47997;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD18B;
+unicode = 53643;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = "ja-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47487;
+},
+{
+ref = glyph49056;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC790;
+unicode = 51088;
+}

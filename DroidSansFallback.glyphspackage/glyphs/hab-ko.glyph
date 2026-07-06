@@ -1,0 +1,23 @@
+{
+glyphname = "hab-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49333;
+},
+{
+ref = glyph47489;
+},
+{
+ref = glyph47977;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD569;
+unicode = 54633;
+}

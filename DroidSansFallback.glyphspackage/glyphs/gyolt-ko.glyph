@@ -1,0 +1,23 @@
+{
+glyphname = "gyolt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47639;
+},
+{
+ref = glyph47716;
+},
+{
+ref = glyph47648;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAD5D;
+unicode = 44381;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "bbyilb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48821;
+},
+{
+ref = glyph48893;
+},
+{
+ref = glyph48112;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC07F;
+unicode = 49279;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "jweb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49089;
+},
+{
+ref = glyph48341;
+},
+{
+ref = glyph48182;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC945;
+unicode = 51525;
+}

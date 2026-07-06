@@ -1,0 +1,23 @@
+{
+glyphname = "ben-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48724;
+},
+{
+ref = glyph48684;
+},
+{
+ref = glyph47993;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBCA4;
+unicode = 48292;
+}

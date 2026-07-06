@@ -1,0 +1,32 @@
+{
+glyphname = whitesesamedot;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(95,111,l),
+(139,59,l),
+(162,79,l),
+(117,131,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(110,110,l),
+(116,116,l),
+(147,81,l),
+(140,75,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniFE46;
+unicode = 65094;
+}

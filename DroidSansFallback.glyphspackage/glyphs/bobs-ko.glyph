@@ -1,0 +1,23 @@
+{
+glyphname = "bobs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48735;
+},
+{
+ref = glyph48291;
+},
+{
+ref = glyph48087;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBD06;
+unicode = 48390;
+}

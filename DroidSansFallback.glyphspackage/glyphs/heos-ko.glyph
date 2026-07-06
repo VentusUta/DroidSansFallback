@@ -1,0 +1,23 @@
+{
+glyphname = "heos-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48121;
+},
+{
+ref = glyph49346;
+},
+{
+ref = glyph49342;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD5DB;
+unicode = 54747;
+}

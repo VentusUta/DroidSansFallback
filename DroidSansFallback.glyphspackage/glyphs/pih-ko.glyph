@@ -1,0 +1,23 @@
+{
+glyphname = "pih-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49296;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48049;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD557;
+unicode = 54615;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "syek-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48906;
+},
+{
+ref = glyph48281;
+},
+{
+ref = glyph48012;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC188;
+unicode = 49544;
+}

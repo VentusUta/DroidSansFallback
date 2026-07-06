@@ -1,0 +1,23 @@
+{
+glyphname = "gibs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47498;
+},
+{
+ref = glyph47841;
+},
+{
+ref = glyph47596;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAE42;
+unicode = 44610;
+}

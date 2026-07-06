@@ -1,0 +1,23 @@
+{
+glyphname = "bogg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48733;
+},
+{
+ref = glyph48287;
+},
+{
+ref = glyph48070;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBCF6;
+unicode = 48374;
+}

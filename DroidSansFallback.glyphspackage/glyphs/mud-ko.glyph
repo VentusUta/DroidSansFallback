@@ -1,0 +1,23 @@
+{
+glyphname = "mud-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48709;
+},
+{
+ref = glyph47728;
+},
+{
+ref = glyph48323;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBB3B;
+unicode = 47931;
+}

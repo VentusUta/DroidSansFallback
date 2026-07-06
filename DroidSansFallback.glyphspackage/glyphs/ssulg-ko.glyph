@@ -1,0 +1,23 @@
+{
+glyphname = "ssulg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49013;
+},
+{
+ref = glyph48424;
+},
+{
+ref = glyph48078;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC46D;
+unicode = 50285;
+}

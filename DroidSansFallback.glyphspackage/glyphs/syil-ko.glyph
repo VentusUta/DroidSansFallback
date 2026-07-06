@@ -1,0 +1,23 @@
+{
+glyphname = "syil-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48929;
+},
+{
+ref = glyph48368;
+},
+{
+ref = glyph48109;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC2C8;
+unicode = 49864;
+}

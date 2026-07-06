@@ -1,0 +1,23 @@
+{
+glyphname = "nwegs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48197;
+},
+{
+ref = glyph48198;
+},
+{
+ref = glyph48164;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB23F;
+unicode = 45631;
+}

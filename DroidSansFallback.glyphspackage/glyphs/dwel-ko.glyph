@@ -1,0 +1,23 @@
+{
+glyphname = "dwel-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48344;
+},
+{
+ref = glyph48345;
+},
+{
+ref = glyph48173;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB490;
+unicode = 46224;
+}

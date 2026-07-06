@@ -1,0 +1,23 @@
+{
+glyphname = "naeg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47988;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph47989;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB0B5;
+unicode = 45237;
+}

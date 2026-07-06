@@ -1,0 +1,23 @@
+{
+glyphname = "teog-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48481;
+},
+{
+ref = glyph49263;
+},
+{
+ref = glyph48021;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD131;
+unicode = 53553;
+}

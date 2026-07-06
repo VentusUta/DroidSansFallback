@@ -1,0 +1,23 @@
+{
+glyphname = "pyelb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49300;
+},
+{
+ref = glyph48283;
+},
+{
+ref = glyph48000;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD3DB;
+unicode = 54235;
+}

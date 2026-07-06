@@ -1,0 +1,23 @@
+{
+glyphname = "seun-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48361;
+},
+{
+ref = glyph48148;
+},
+{
+ref = glyph48961;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC2A8;
+unicode = 49832;
+}

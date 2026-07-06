@@ -1,0 +1,27 @@
+{
+glyphname = uni4E04;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(15,7,l),
+(15,-14,l),
+(240,-14,l),
+(240,7,l),
+(139,7,l),
+(139,203,l),
+(117,203,l),
+(117,7,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni4E04;
+unicode = 19972;
+}

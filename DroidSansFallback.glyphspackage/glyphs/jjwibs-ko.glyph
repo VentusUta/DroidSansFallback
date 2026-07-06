@@ -1,0 +1,23 @@
+{
+glyphname = "jjwibs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49123;
+},
+{
+ref = glyph48450;
+},
+{
+ref = glyph48226;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCBAE;
+unicode = 52142;
+}

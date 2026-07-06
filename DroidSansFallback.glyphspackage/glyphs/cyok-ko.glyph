@@ -1,0 +1,23 @@
+{
+glyphname = "cyok-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49158;
+},
+{
+ref = glyph48557;
+},
+{
+ref = glyph48091;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD90;
+unicode = 52624;
+}

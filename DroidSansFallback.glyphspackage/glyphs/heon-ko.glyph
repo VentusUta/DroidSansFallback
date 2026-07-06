@@ -1,0 +1,23 @@
+{
+glyphname = "heon-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49334;
+},
+{
+ref = glyph49140;
+},
+{
+ref = glyph47580;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD5CC;
+unicode = 54732;
+}

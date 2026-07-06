@@ -1,0 +1,27 @@
+{
+glyphname = "oJung-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(138,151,l),
+(118,151,l),
+(118,57,l),
+(22,57,l),
+(22,38,l),
+(235,38,l),
+(235,57,l),
+(138,57,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni3157;
+unicode = (4457,12631);
+}

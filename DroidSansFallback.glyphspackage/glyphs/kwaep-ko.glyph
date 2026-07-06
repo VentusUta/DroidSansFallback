@@ -1,0 +1,23 @@
+{
+glyphname = "kwaep-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49216;
+},
+{
+ref = glyph49217;
+},
+{
+ref = glyph48128;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCFA6;
+unicode = 53158;
+}

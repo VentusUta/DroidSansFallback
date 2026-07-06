@@ -1,0 +1,20 @@
+{
+glyphname = "twi-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49285;
+},
+{
+ref = glyph48618;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD280;
+unicode = 53888;
+}

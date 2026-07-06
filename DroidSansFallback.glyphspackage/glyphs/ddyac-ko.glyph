@@ -1,0 +1,23 @@
+{
+glyphname = "ddyac-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48374;
+},
+{
+ref = glyph47862;
+},
+{
+ref = glyph47982;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB57F;
+unicode = 46463;
+}

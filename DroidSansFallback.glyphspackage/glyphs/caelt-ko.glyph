@@ -1,0 +1,23 @@
+{
+glyphname = "caelt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49135;
+},
+{
+ref = glyph47535;
+},
+{
+ref = glyph48002;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCC51;
+unicode = 52305;
+}

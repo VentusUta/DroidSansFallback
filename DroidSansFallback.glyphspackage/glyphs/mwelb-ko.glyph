@@ -1,0 +1,23 @@
+{
+glyphname = "mwelb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48718;
+},
+{
+ref = glyph48345;
+},
+{
+ref = glyph48176;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBB77;
+unicode = 47991;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ssaeb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48967;
+},
+{
+ref = glyph47855;
+},
+{
+ref = glyph48006;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC325;
+unicode = 49957;
+}

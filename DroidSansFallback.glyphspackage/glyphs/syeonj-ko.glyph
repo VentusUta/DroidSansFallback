@@ -1,0 +1,23 @@
+{
+glyphname = "syeonj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48910;
+},
+{
+ref = glyph48275;
+},
+{
+ref = glyph48026;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC159;
+unicode = 49497;
+}

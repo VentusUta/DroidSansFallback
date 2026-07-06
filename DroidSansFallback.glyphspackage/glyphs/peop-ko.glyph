@@ -1,0 +1,23 @@
+{
+glyphname = "peop-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49303;
+},
+{
+ref = glyph48266;
+},
+{
+ref = glyph48048;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD396;
+unicode = 54166;
+}

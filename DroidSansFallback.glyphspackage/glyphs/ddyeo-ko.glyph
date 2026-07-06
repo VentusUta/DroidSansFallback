@@ -1,0 +1,20 @@
+{
+glyphname = "ddyeo-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48371;
+},
+{
+ref = glyph48392;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB5D8;
+unicode = 46552;
+}

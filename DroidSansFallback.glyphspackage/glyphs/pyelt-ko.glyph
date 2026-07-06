@@ -1,0 +1,23 @@
+{
+glyphname = "pyelt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49300;
+},
+{
+ref = glyph48283;
+},
+{
+ref = glyph48002;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD3DD;
+unicode = 54237;
+}

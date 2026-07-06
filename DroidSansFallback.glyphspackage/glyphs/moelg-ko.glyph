@@ -1,0 +1,23 @@
+{
+glyphname = "moelg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48702;
+},
+{
+ref = glyph48314;
+},
+{
+ref = glyph48110;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBB05;
+unicode = 47877;
+}

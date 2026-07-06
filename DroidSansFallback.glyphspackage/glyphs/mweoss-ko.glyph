@@ -1,0 +1,23 @@
+{
+glyphname = "mweoss-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48712;
+},
+{
+ref = glyph48332;
+},
+{
+ref = glyph48186;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBB64;
+unicode = 47972;
+}

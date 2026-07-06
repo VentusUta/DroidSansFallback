@@ -1,0 +1,23 @@
+{
+glyphname = "cab-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49129;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47977;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCC39;
+unicode = 52281;
+}

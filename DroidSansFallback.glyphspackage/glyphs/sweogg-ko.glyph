@@ -1,0 +1,23 @@
+{
+glyphname = "sweogg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48954;
+},
+{
+ref = glyph48332;
+},
+{
+ref = glyph48163;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC236;
+unicode = 49718;
+}

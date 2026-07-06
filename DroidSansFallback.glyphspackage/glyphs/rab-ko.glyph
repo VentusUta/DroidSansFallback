@@ -1,0 +1,23 @@
+{
+glyphname = "rab-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48471;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47977;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB78D;
+unicode = 46989;
+}

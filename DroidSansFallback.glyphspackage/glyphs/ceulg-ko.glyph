@@ -1,0 +1,23 @@
+{
+glyphname = "ceulg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49160;
+},
+{
+ref = glyph48658;
+},
+{
+ref = glyph48078;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE29;
+unicode = 52777;
+}

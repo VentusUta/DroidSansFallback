@@ -1,0 +1,23 @@
+{
+glyphname = "det-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48263;
+},
+{
+ref = glyph48272;
+},
+{
+ref = glyph48013;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB389;
+unicode = 45961;
+}

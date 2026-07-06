@@ -1,0 +1,43 @@
+{
+glyphname = "nieunPansiosJong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(230,32,l),
+(173,165,l),
+(114,32,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(143,49,l),
+(173,123,l),
+(202,49,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(76,30,o),
+(114,39,q),
+(112,55,l),
+(80,48,o),
+(48,48,q),
+(48,153,l),
+(28,153,l),
+(28,30,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni3168;
+unicode = (4552,12648);
+}

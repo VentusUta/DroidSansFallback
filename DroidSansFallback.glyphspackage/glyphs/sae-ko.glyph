@@ -1,0 +1,20 @@
+{
+glyphname = "sae-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48905;
+},
+{
+ref = glyph47524;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC0C8;
+unicode = 49352;
+}

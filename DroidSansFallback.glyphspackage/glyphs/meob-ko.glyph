@@ -1,0 +1,23 @@
+{
+glyphname = "meob-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48677;
+},
+{
+ref = glyph48678;
+},
+{
+ref = glyph48040;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBA49;
+unicode = 47689;
+}

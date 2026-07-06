@@ -1,0 +1,20 @@
+{
+glyphname = "sya-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48901;
+},
+{
+ref = glyph47559;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC0E4;
+unicode = 49380;
+}

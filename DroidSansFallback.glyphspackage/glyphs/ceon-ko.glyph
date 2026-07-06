@@ -1,0 +1,23 @@
+{
+glyphname = "ceon-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49139;
+},
+{
+ref = glyph47580;
+},
+{
+ref = glyph49140;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCC9C;
+unicode = 52380;
+}

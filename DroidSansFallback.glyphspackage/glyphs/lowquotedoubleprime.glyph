@@ -1,0 +1,35 @@
+{
+glyphname = lowquotedoubleprime;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(51,-30,l),
+(53,-33,l),
+(78,-33,l),
+(90,30,l),
+(73,30,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(9,-5,o),
+(3,-30,q),
+(5,-33,l),
+(30,-33,l),
+(42,30,l),
+(25,30,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni301F;
+unicode = 12319;
+}

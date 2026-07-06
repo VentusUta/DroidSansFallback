@@ -1,0 +1,23 @@
+{
+glyphname = "ggolm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47902;
+},
+{
+ref = glyph47903;
+},
+{
+ref = glyph47645;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAF36;
+unicode = 44854;
+}

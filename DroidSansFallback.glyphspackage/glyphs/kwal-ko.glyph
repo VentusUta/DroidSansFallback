@@ -1,0 +1,23 @@
+{
+glyphname = "kwal-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49211;
+},
+{
+ref = glyph49212;
+},
+{
+ref = glyph48109;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCF78;
+unicode = 53112;
+}

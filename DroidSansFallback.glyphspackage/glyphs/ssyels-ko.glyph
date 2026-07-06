@@ -1,0 +1,23 @@
+{
+glyphname = "ssyels-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48969;
+},
+{
+ref = glyph48400;
+},
+{
+ref = glyph48001;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC3C8;
+unicode = 50120;
+}

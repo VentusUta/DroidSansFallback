@@ -1,0 +1,23 @@
+{
+glyphname = "hyobs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49372;
+},
+{
+ref = glyph49450;
+},
+{
+ref = glyph49386;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD6BA;
+unicode = 54970;
+}

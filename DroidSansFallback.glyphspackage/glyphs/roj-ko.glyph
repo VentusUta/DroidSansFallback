@@ -1,0 +1,23 @@
+{
+glyphname = "roj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48499;
+},
+{
+ref = glyph48500;
+},
+{
+ref = glyph48089;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB872;
+unicode = 47218;
+}

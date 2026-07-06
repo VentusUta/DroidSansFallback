@@ -1,0 +1,23 @@
+{
+glyphname = "ddweobs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48433;
+},
+{
+ref = glyph48434;
+},
+{
+ref = glyph48183;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB6CA;
+unicode = 46794;
+}

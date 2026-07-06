@@ -1,0 +1,23 @@
+{
+glyphname = "dyul-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48326;
+},
+{
+ref = glyph48357;
+},
+{
+ref = glyph48077;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB4C8;
+unicode = 46280;
+}

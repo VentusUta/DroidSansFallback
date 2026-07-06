@@ -1,0 +1,23 @@
+{
+glyphname = "pwenj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49329;
+},
+{
+ref = glyph48341;
+},
+{
+ref = glyph48168;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD4B5;
+unicode = 54453;
+}

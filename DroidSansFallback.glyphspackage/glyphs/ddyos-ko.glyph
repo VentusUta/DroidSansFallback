@@ -1,0 +1,23 @@
+{
+glyphname = "ddyos-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48404;
+},
+{
+ref = glyph48320;
+},
+{
+ref = glyph47654;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB693;
+unicode = 46739;
+}

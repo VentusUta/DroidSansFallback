@@ -1,0 +1,23 @@
+{
+glyphname = "syegs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48906;
+},
+{
+ref = glyph48281;
+},
+{
+ref = glyph47991;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC173;
+unicode = 49523;
+}

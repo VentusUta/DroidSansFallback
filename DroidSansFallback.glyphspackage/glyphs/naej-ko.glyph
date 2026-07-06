@@ -1,0 +1,23 @@
+{
+glyphname = "naej-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47988;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph48010;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB0CA;
+unicode = 45258;
+}

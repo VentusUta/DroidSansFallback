@@ -1,0 +1,23 @@
+{
+glyphname = "cik-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49129;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48046;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE70;
+unicode = 52848;
+}

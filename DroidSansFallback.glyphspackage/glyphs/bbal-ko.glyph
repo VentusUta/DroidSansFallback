@@ -1,0 +1,23 @@
+{
+glyphname = "bbal-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48761;
+},
+{
+ref = glyph48762;
+},
+{
+ref = glyph47968;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBE68;
+unicode = 48744;
+}

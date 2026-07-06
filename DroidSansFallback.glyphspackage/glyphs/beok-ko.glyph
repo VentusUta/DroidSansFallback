@@ -1,0 +1,23 @@
+{
+glyphname = "beok-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48729;
+},
+{
+ref = glyph48678;
+},
+{
+ref = glyph48046;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBC9C;
+unicode = 48284;
+}

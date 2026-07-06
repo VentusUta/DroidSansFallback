@@ -1,0 +1,23 @@
+{
+glyphname = "dang-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48256;
+},
+{
+ref = glyph48259;
+},
+{
+ref = glyph47981;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB2F9;
+unicode = 45817;
+}

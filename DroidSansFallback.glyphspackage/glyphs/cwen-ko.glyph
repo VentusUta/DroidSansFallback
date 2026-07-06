@@ -1,0 +1,23 @@
+{
+glyphname = "cwen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49180;
+},
+{
+ref = glyph48613;
+},
+{
+ref = glyph48580;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCDD0;
+unicode = 52688;
+}

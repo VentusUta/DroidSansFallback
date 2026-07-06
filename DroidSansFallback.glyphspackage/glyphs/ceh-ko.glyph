@@ -1,0 +1,23 @@
+{
+glyphname = "ceh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49135;
+},
+{
+ref = glyph49144;
+},
+{
+ref = glyph48015;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCCCF;
+unicode = 52431;
+}

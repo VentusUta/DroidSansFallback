@@ -1,0 +1,20 @@
+{
+glyphname = "kwi-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47779;
+},
+{
+ref = glyph49238;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD034;
+unicode = 53300;
+}

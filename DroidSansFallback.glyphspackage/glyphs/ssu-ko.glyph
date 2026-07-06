@@ -1,0 +1,20 @@
+{
+glyphname = "ssu-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49010;
+},
+{
+ref = glyph48418;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC464;
+unicode = 50276;
+}

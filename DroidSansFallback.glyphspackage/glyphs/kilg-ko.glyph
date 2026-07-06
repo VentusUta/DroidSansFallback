@@ -1,0 +1,23 @@
+{
+glyphname = "kilg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49188;
+},
+{
+ref = glyph47841;
+},
+{
+ref = glyph48032;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD0AD;
+unicode = 53421;
+}

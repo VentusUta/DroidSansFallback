@@ -1,0 +1,23 @@
+{
+glyphname = "senj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48906;
+},
+{
+ref = glyph48270;
+},
+{
+ref = glyph47994;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC13D;
+unicode = 49469;
+}

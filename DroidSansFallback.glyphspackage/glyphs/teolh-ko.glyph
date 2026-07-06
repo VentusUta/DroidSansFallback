@@ -1,0 +1,23 @@
+{
+glyphname = "teolh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49266;
+},
+{
+ref = glyph48484;
+},
+{
+ref = glyph48038;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD13F;
+unicode = 53567;
+}

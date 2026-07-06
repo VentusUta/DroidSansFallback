@@ -1,0 +1,23 @@
+{
+glyphname = "moem-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48700;
+},
+{
+ref = glyph48312;
+},
+{
+ref = glyph48117;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBB0C;
+unicode = 47884;
+}

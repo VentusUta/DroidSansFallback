@@ -1,0 +1,23 @@
+{
+glyphname = "hwaelp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49439;
+},
+{
+ref = glyph49440;
+},
+{
+ref = glyph49418;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD67E;
+unicode = 54910;
+}

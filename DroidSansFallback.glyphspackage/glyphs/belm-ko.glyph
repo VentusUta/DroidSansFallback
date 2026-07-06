@@ -1,0 +1,23 @@
+{
+glyphname = "belm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48725;
+},
+{
+ref = glyph48685;
+},
+{
+ref = glyph47999;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBCAA;
+unicode = 48298;
+}

@@ -1,0 +1,39 @@
+{
+glyphname = whitelenticularbracketright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(43,204,l),
+(43,194,l),
+(76,151,o),
+(76,92,qs),
+(76,34,o),
+(43,-9,q),
+(43,-19,l),
+(128,-19,l),
+(128,204,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(91,39,o),
+(91,145,o),
+(65,189,q),
+(112,189,l),
+(112,-5,l),
+(65,-5,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni3017;
+unicode = 12311;
+}

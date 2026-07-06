@@ -1,0 +1,23 @@
+{
+glyphname = "ggut-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47936;
+},
+{
+ref = glyph47726;
+},
+{
+ref = glyph47660;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAFD1;
+unicode = 45009;
+}

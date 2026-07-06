@@ -1,0 +1,23 @@
+{
+glyphname = "twilt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49288;
+},
+{
+ref = glyph48626;
+},
+{
+ref = glyph48634;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD28D;
+unicode = 53901;
+}

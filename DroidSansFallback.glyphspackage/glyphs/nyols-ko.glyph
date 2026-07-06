@@ -1,0 +1,23 @@
+{
+glyphname = "nyols-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48074;
+},
+{
+ref = glyph48149;
+},
+{
+ref = glyph48081;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB1F4;
+unicode = 45556;
+}

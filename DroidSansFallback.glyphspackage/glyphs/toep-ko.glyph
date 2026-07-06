@@ -1,0 +1,23 @@
+{
+glyphname = "toep-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49274;
+},
+{
+ref = glyph48552;
+},
+{
+ref = glyph48540;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD20E;
+unicode = 53774;
+}

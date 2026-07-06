@@ -1,0 +1,23 @@
+{
+glyphname = "tweoh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49288;
+},
+{
+ref = glyph48602;
+},
+{
+ref = glyph48607;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD263;
+unicode = 53859;
+}

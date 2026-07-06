@@ -1,0 +1,23 @@
+{
+glyphname = "nwij-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48160;
+},
+{
+ref = glyph48206;
+},
+{
+ref = glyph48231;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB26E;
+unicode = 45678;
+}

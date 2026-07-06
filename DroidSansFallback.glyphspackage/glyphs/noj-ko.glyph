@@ -1,0 +1,23 @@
+{
+glyphname = "noj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48067;
+},
+{
+ref = glyph48068;
+},
+{
+ref = glyph48089;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB18E;
+unicode = 45454;
+}

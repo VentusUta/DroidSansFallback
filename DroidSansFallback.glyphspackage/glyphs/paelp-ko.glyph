@@ -1,0 +1,23 @@
+{
+glyphname = "paelp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49300;
+},
+{
+ref = glyph47535;
+},
+{
+ref = glyph48003;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD336;
+unicode = 54070;
+}

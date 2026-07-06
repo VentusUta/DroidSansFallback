@@ -1,0 +1,23 @@
+{
+glyphname = "kas-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49186;
+},
+{
+ref = glyph47513;
+},
+{
+ref = glyph47979;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE87;
+unicode = 52871;
+}

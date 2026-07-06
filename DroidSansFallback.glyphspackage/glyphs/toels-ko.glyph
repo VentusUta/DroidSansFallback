@@ -1,0 +1,23 @@
+{
+glyphname = "toels-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49276;
+},
+{
+ref = glyph48554;
+},
+{
+ref = glyph48525;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD200;
+unicode = 53760;
+}

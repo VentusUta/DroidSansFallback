@@ -1,0 +1,23 @@
+{
+glyphname = "twigs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49286;
+},
+{
+ref = glyph48619;
+},
+{
+ref = glyph48622;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD283;
+unicode = 53891;
+}

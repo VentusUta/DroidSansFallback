@@ -1,0 +1,23 @@
+{
+glyphname = "ggeng-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47854;
+},
+{
+ref = glyph47885;
+},
+{
+ref = glyph47552;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAEED;
+unicode = 44781;
+}

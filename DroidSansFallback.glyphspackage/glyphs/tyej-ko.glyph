@@ -1,0 +1,23 @@
+{
+glyphname = "tyej-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49259;
+},
+{
+ref = glyph48493;
+},
+{
+ref = glyph48010;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD19A;
+unicode = 53658;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "gyum-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47721;
+},
+{
+ref = glyph47814;
+},
+{
+ref = glyph47651;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniADEC;
+unicode = 44524;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "dyan-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48257;
+},
+{
+ref = glyph47562;
+},
+{
+ref = glyph48016;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB320;
+unicode = 45856;
+}

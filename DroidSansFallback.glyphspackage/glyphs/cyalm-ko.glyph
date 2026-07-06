@@ -1,0 +1,23 @@
+{
+glyphname = "cyalm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49131;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph47970;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCC6A;
+unicode = 52330;
+}

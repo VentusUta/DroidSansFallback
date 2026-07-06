@@ -1,0 +1,23 @@
+{
+glyphname = "bbils-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48761;
+},
+{
+ref = glyph48899;
+},
+{
+ref = glyph48035;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC09C;
+unicode = 49308;
+}

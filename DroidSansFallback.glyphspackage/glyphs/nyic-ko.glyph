@@ -1,0 +1,23 @@
+{
+glyphname = "nyic-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48105;
+},
+{
+ref = glyph48254;
+},
+{
+ref = glyph48125;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB2C3;
+unicode = 45763;
+}

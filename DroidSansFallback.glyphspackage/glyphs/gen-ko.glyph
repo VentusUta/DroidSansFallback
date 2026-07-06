@@ -1,0 +1,23 @@
+{
+glyphname = "gen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47530;
+},
+{
+ref = glyph47610;
+},
+{
+ref = glyph47532;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC90;
+unicode = 44176;
+}

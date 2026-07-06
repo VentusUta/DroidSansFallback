@@ -1,0 +1,23 @@
+{
+glyphname = "rwih-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48582;
+},
+{
+ref = glyph48645;
+},
+{
+ref = glyph48650;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB957;
+unicode = 47447;
+}

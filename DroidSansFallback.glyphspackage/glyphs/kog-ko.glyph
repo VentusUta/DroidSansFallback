@@ -1,0 +1,23 @@
+{
+glyphname = "kog-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49198;
+},
+{
+ref = glyph49199;
+},
+{
+ref = glyph48069;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCF55;
+unicode = 53077;
+}

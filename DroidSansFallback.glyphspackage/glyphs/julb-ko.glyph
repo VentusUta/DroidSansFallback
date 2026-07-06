@@ -1,0 +1,23 @@
+{
+glyphname = "julb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49083;
+},
+{
+ref = glyph48327;
+},
+{
+ref = glyph48080;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC907;
+unicode = 51463;
+}

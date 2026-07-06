@@ -1,0 +1,25 @@
+{
+glyphname = "nieunCho-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(209,29,l),
+(209,48,l),
+(70,48,l),
+(70,153,l),
+(50,153,l),
+(50,29,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni3134;
+unicode = (4354,4523,12596);
+}

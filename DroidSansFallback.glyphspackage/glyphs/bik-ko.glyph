@@ -1,0 +1,23 @@
+{
+glyphname = "bik-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48720;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48046;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBE5C;
+unicode = 48732;
+}

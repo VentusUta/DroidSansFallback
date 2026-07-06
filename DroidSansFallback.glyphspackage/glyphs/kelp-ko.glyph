@@ -1,0 +1,23 @@
+{
+glyphname = "kelp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49192;
+},
+{
+ref = glyph47611;
+},
+{
+ref = glyph48003;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCF0E;
+unicode = 53006;
+}

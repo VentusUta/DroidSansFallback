@@ -1,0 +1,23 @@
+{
+glyphname = "gilt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47498;
+},
+{
+ref = glyph47841;
+},
+{
+ref = glyph47591;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAE3D;
+unicode = 44605;
+}

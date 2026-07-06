@@ -1,0 +1,23 @@
+{
+glyphname = "jjyim-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49109;
+},
+{
+ref = glyph48465;
+},
+{
+ref = glyph48117;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCC00;
+unicode = 52224;
+}

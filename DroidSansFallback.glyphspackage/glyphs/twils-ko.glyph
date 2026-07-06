@@ -1,0 +1,23 @@
+{
+glyphname = "twils-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49288;
+},
+{
+ref = glyph48626;
+},
+{
+ref = glyph48633;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD28C;
+unicode = 53900;
+}

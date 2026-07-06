@@ -1,0 +1,23 @@
+{
+glyphname = "nyil-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48105;
+},
+{
+ref = glyph48252;
+},
+{
+ref = glyph48109;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB2B4;
+unicode = 45748;
+}

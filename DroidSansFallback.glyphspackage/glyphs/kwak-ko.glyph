@@ -1,0 +1,23 @@
+{
+glyphname = "kwak-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49207;
+},
+{
+ref = glyph49208;
+},
+{
+ref = glyph48126;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCF88;
+unicode = 53128;
+}

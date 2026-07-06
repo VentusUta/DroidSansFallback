@@ -1,0 +1,23 @@
+{
+glyphname = "ddweb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48439;
+},
+{
+ref = glyph48440;
+},
+{
+ref = glyph48182;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB6E5;
+unicode = 46821;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "kang-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49186;
+},
+{
+ref = glyph47513;
+},
+{
+ref = glyph47981;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE89;
+unicode = 52873;
+}

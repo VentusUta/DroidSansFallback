@@ -1,0 +1,25 @@
+{
+glyphname = "kiyeokCho-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(185,136,l),
+(185,27,l),
+(205,27,l),
+(205,155,l),
+(43,155,l),
+(43,136,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni11A8;
+unicode = (4352,4520,12593);
+}

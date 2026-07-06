@@ -1,0 +1,23 @@
+{
+glyphname = "gic-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47498;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph47603;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAE47;
+unicode = 44615;
+}

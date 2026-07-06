@@ -1,0 +1,20 @@
+{
+glyphname = "mwi-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48711;
+},
+{
+ref = glyph48348;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBB88;
+unicode = 48008;
+}

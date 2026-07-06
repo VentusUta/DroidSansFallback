@@ -1,0 +1,23 @@
+{
+glyphname = "ael-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49029;
+},
+{
+ref = glyph47535;
+},
+{
+ref = glyph47620;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC568;
+unicode = 50536;
+}

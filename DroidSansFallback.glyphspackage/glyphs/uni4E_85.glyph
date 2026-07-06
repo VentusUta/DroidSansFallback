@@ -1,0 +1,29 @@
+{
+glyphname = uni4E85;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(123,-2,o),
+(110,-2,q),
+(80,1,l),
+(84,-19,l),
+(113,-21,ls),
+(143,-21,o),
+(143,5,qs),
+(143,196,l),
+(123,196,l),
+(123,9,ls)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni4E85;
+unicode = 20101;
+}

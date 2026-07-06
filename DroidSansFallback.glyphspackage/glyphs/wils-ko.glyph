@@ -1,0 +1,23 @@
+{
+glyphname = "wils-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49051;
+},
+{
+ref = glyph48351;
+},
+{
+ref = glyph48220;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC710;
+unicode = 50960;
+}

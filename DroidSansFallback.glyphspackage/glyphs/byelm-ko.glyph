@@ -1,0 +1,23 @@
+{
+glyphname = "byelm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48725;
+},
+{
+ref = glyph48693;
+},
+{
+ref = glyph47999;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBCE2;
+unicode = 48354;
+}

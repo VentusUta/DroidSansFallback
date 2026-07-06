@@ -1,0 +1,23 @@
+{
+glyphname = "bbwic-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48858;
+},
+{
+ref = glyph48877;
+},
+{
+ref = glyph48233;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC037;
+unicode = 49207;
+}

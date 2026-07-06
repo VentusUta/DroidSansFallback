@@ -1,0 +1,23 @@
+{
+glyphname = "tyop-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49270;
+},
+{
+ref = glyph48557;
+},
+{
+ref = glyph48093;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD22A;
+unicode = 53802;
+}

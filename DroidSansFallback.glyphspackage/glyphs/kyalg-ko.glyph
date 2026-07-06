@@ -1,0 +1,23 @@
+{
+glyphname = "kyalg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49188;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph47969;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCEB5;
+unicode = 52917;
+}

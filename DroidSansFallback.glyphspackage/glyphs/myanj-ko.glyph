@@ -1,0 +1,23 @@
+{
+glyphname = "myanj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48668;
+},
+{
+ref = glyph47560;
+},
+{
+ref = glyph47964;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBA05;
+unicode = 47621;
+}

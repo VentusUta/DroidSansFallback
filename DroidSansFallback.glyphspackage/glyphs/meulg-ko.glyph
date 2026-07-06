@@ -1,0 +1,23 @@
+{
+glyphname = "meulg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48698;
+},
+{
+ref = glyph48362;
+},
+{
+ref = glyph48078;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBBC9;
+unicode = 48073;
+}

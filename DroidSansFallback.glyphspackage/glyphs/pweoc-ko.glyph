@@ -1,0 +1,23 @@
+{
+glyphname = "pweoc-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49327;
+},
+{
+ref = glyph48337;
+},
+{
+ref = glyph48190;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD4AB;
+unicode = 54443;
+}

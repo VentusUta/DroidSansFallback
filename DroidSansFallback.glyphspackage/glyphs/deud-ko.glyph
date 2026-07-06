@@ -1,0 +1,23 @@
+{
+glyphname = "deud-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48324;
+},
+{
+ref = glyph47728;
+},
+{
+ref = glyph48360;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB4E3;
+unicode = 46307;
+}

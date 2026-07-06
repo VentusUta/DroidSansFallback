@@ -1,0 +1,23 @@
+{
+glyphname = "hyaep-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49337;
+},
+{
+ref = glyph47568;
+},
+{
+ref = glyph48193;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD5C6;
+unicode = 54726;
+}

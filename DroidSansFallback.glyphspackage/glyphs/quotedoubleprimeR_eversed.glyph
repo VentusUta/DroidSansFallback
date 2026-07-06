@@ -1,0 +1,35 @@
+{
+glyphname = quotedoubleprimeReversed;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(215,217,l),
+(214,214,l),
+(220,189,o),
+(236,154,q),
+(253,154,l),
+(240,217,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(167,217,l),
+(165,214,l),
+(187,154,l),
+(205,154,l),
+(192,217,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni301D;
+unicode = 12317;
+}

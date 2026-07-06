@@ -1,0 +1,23 @@
+{
+glyphname = "rweoc-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48582;
+},
+{
+ref = glyph48602;
+},
+{
+ref = glyph48603;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB91B;
+unicode = 47387;
+}

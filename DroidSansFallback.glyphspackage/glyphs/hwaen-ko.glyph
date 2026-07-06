@@ -1,0 +1,23 @@
+{
+glyphname = "hwaen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49437;
+},
+{
+ref = glyph49438;
+},
+{
+ref = glyph49405;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD674;
+unicode = 54900;
+}

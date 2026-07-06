@@ -1,0 +1,23 @@
+{
+glyphname = "ggyok-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47898;
+},
+{
+ref = glyph47929;
+},
+{
+ref = glyph47659;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAFB4;
+unicode = 44980;
+}

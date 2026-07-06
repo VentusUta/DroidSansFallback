@@ -1,0 +1,23 @@
+{
+glyphname = "wenj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49053;
+},
+{
+ref = glyph48341;
+},
+{
+ref = glyph48168;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC6ED;
+unicode = 50925;
+}

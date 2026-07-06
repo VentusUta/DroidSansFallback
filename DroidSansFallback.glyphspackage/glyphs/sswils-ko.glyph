@@ -1,0 +1,23 @@
+{
+glyphname = "sswils-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49017;
+},
+{
+ref = glyph48450;
+},
+{
+ref = glyph48220;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC4C4;
+unicode = 50372;
+}

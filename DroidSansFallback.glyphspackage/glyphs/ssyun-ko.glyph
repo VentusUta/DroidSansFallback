@@ -1,0 +1,23 @@
+{
+glyphname = "ssyun-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49012;
+},
+{
+ref = glyph48455;
+},
+{
+ref = glyph48148;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC4D8;
+unicode = 50392;
+}

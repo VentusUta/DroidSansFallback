@@ -1,0 +1,23 @@
+{
+glyphname = "swilp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48956;
+},
+{
+ref = glyph48351;
+},
+{
+ref = glyph48222;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC27A;
+unicode = 49786;
+}

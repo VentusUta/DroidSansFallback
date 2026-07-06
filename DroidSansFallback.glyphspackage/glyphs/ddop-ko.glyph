@@ -1,0 +1,23 @@
+{
+glyphname = "ddop-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48404;
+},
+{
+ref = glyph48287;
+},
+{
+ref = glyph48093;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB62A;
+unicode = 46634;
+}

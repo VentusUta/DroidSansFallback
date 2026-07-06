@@ -1,0 +1,23 @@
+{
+glyphname = "ssyaen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48968;
+},
+{
+ref = glyph47868;
+},
+{
+ref = glyph47993;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC350;
+unicode = 50000;
+}

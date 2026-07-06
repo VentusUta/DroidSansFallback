@@ -1,0 +1,23 @@
+{
+glyphname = "jib-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49059;
+},
+{
+ref = glyph47841;
+},
+{
+ref = glyph48040;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC9D1;
+unicode = 51665;
+}

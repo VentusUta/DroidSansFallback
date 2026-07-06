@@ -1,0 +1,23 @@
+{
+glyphname = "ak-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49023;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47983;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC55C;
+unicode = 50524;
+}

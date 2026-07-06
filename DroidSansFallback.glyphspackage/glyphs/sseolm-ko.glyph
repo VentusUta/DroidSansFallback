@@ -1,0 +1,23 @@
+{
+glyphname = "sseolm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48973;
+},
+{
+ref = glyph48386;
+},
+{
+ref = glyph48033;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC372;
+unicode = 50034;
+}

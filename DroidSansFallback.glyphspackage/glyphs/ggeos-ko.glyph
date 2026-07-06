@@ -1,0 +1,23 @@
+{
+glyphname = "ggeos-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47873;
+},
+{
+ref = glyph47880;
+},
+{
+ref = glyph47622;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAECF;
+unicode = 44751;
+}

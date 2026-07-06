@@ -1,0 +1,23 @@
+{
+glyphname = "goes-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47665;
+},
+{
+ref = glyph47712;
+},
+{
+ref = glyph47689;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAD47;
+unicode = 44359;
+}

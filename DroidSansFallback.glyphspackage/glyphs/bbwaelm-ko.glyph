@@ -1,0 +1,23 @@
+{
+glyphname = "bbwaelm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48830;
+},
+{
+ref = glyph48831;
+},
+{
+ref = glyph48111;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBF82;
+unicode = 49026;
+}

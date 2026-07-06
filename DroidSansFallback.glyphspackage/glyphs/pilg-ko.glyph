@@ -1,0 +1,23 @@
+{
+glyphname = "pilg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49296;
+},
+{
+ref = glyph47841;
+},
+{
+ref = glyph48032;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD545;
+unicode = 54597;
+}

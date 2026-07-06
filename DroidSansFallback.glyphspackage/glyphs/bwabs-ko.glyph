@@ -1,0 +1,23 @@
+{
+glyphname = "bwabs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48739;
+},
+{
+ref = glyph48300;
+},
+{
+ref = glyph48119;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBD22;
+unicode = 48418;
+}

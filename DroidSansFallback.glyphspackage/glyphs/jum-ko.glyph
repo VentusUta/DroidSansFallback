@@ -1,0 +1,23 @@
+{
+glyphname = "jum-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49081;
+},
+{
+ref = glyph48323;
+},
+{
+ref = glyph48085;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC90C;
+unicode = 51468;
+}

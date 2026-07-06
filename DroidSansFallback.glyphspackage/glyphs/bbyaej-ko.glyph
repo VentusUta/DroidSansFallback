@@ -1,0 +1,23 @@
+{
+glyphname = "bbyaej-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48765;
+},
+{
+ref = glyph48778;
+},
+{
+ref = glyph48010;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBECA;
+unicode = 48842;
+}

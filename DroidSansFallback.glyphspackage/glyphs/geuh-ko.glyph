@@ -1,0 +1,23 @@
+{
+glyphname = "geuh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47729;
+},
+{
+ref = glyph47827;
+},
+{
+ref = glyph47662;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAE13;
+unicode = 44563;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "keh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49192;
+},
+{
+ref = glyph47611;
+},
+{
+ref = glyph48015;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCF1B;
+unicode = 53019;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "geuc-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47729;
+},
+{
+ref = glyph47827;
+},
+{
+ref = glyph47658;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAE0F;
+unicode = 44559;
+}

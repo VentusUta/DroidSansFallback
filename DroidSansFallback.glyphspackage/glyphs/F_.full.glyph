@@ -1,0 +1,29 @@
+{
+glyphname = F.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(181,77,l),
+(181,98,l),
+(94,98,l),
+(94,162,l),
+(186,162,l),
+(186,183,l),
+(70,183,l),
+(70,0,l),
+(94,0,l),
+(94,77,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniFF26;
+unicode = 65318;
+}

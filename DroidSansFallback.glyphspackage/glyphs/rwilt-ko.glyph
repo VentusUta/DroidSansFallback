@@ -1,0 +1,23 @@
+{
+glyphname = "rwilt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48582;
+},
+{
+ref = glyph48626;
+},
+{
+ref = glyph48634;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB949;
+unicode = 47433;
+}

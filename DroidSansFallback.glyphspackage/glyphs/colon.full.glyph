@@ -1,0 +1,36 @@
+{
+glyphname = colon.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(112,141,o),
+(112,123,qs),
+(112,106,o),
+(144,106,o),
+(144,123,qs),
+(144,141,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(112,31,o),
+(112,14,qs),
+(112,-4,o),
+(144,-4,o),
+(144,14,qs),
+(144,31,o)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniFF1A;
+unicode = 65306;
+}

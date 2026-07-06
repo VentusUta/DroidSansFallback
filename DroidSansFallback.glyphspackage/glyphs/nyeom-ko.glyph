@@ -1,0 +1,23 @@
+{
+glyphname = "nyeom-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48058;
+},
+{
+ref = glyph48027;
+},
+{
+ref = glyph48005;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB150;
+unicode = 45392;
+}

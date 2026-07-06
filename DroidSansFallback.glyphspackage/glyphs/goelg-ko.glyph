@@ -1,0 +1,23 @@
+{
+glyphname = "goelg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47673;
+},
+{
+ref = glyph47711;
+},
+{
+ref = glyph47678;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAD3D;
+unicode = 44349;
+}

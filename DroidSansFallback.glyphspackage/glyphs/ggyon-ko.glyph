@@ -1,0 +1,23 @@
+{
+glyphname = "ggyon-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47900;
+},
+{
+ref = glyph47930;
+},
+{
+ref = glyph47637;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAFA0;
+unicode = 44960;
+}

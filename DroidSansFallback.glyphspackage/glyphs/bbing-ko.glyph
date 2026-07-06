@@ -1,0 +1,23 @@
+{
+glyphname = "bbing-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48758;
+},
+{
+ref = glyph48900;
+},
+{
+ref = glyph48043;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC0A5;
+unicode = 49317;
+}

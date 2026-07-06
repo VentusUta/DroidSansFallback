@@ -1,0 +1,23 @@
+{
+glyphname = "dduls-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48423;
+},
+{
+ref = glyph48424;
+},
+{
+ref = glyph48081;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB6A8;
+unicode = 46760;
+}

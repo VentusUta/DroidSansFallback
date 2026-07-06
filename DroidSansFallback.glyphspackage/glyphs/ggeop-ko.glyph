@@ -1,0 +1,23 @@
+{
+glyphname = "ggeop-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47873;
+},
+{
+ref = glyph47874;
+},
+{
+ref = glyph47606;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAED6;
+unicode = 44758;
+}

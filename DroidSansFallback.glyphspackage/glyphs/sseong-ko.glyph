@@ -1,0 +1,23 @@
+{
+glyphname = "sseong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48971;
+},
+{
+ref = glyph48387;
+},
+{
+ref = glyph48043;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC37D;
+unicode = 50045;
+}

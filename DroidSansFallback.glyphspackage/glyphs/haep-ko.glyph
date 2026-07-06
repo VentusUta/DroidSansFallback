@@ -1,0 +1,23 @@
+{
+glyphname = "haep-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49337;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph48193;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD58E;
+unicode = 54670;
+}

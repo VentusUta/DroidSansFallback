@@ -1,0 +1,23 @@
+{
+glyphname = "pum-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49323;
+},
+{
+ref = glyph48085;
+},
+{
+ref = glyph48323;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD488;
+unicode = 54408;
+}

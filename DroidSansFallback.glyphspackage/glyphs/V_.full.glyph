@@ -1,0 +1,28 @@
+{
+glyphname = V.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(128,23,l),
+(117,59,l),
+(70,183,l),
+(45,183,l),
+(116,0,l),
+(140,0,l),
+(211,183,l),
+(186,183,l),
+(139,59,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniFF36;
+unicode = 65334;
+}

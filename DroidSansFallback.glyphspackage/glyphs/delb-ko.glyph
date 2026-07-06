@@ -1,0 +1,23 @@
+{
+glyphname = "delb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48263;
+},
+{
+ref = glyph48272;
+},
+{
+ref = glyph48000;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB37B;
+unicode = 45947;
+}

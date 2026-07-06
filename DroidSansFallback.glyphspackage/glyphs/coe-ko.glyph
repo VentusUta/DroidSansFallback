@@ -1,0 +1,20 @@
+{
+glyphname = "coe-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49161;
+},
+{
+ref = glyph48551;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD5C;
+unicode = 52572;
+}

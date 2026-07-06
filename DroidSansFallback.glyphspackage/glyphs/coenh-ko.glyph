@@ -1,0 +1,23 @@
+{
+glyphname = "coenh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49164;
+},
+{
+ref = glyph48554;
+},
+{
+ref = glyph48519;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD62;
+unicode = 52578;
+}

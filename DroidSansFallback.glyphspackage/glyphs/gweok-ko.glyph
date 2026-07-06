@@ -1,0 +1,23 @@
+{
+glyphname = "gweok-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47735;
+},
+{
+ref = glyph47736;
+},
+{
+ref = glyph47765;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniADA0;
+unicode = 44448;
+}

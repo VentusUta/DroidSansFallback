@@ -1,0 +1,23 @@
+{
+glyphname = "dding-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48372;
+},
+{
+ref = glyph47957;
+},
+{
+ref = glyph48043;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB775;
+unicode = 46965;
+}

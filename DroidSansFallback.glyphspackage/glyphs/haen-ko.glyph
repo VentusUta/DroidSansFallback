@@ -1,0 +1,23 @@
+{
+glyphname = "haen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47531;
+},
+{
+ref = glyph47993;
+},
+{
+ref = glyph49338;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD578;
+unicode = 54648;
+}

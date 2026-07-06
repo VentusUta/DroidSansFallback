@@ -1,0 +1,23 @@
+{
+glyphname = "kolb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49202;
+},
+{
+ref = glyph49203;
+},
+{
+ref = glyph48080;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCF5F;
+unicode = 53087;
+}

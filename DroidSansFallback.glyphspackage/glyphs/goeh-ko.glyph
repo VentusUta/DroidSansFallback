@@ -1,0 +1,23 @@
+{
+glyphname = "goeh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47673;
+},
+{
+ref = glyph47711;
+},
+{
+ref = glyph47697;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAD4F;
+unicode = 44367;
+}

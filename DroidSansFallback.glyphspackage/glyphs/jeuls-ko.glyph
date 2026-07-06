@@ -1,0 +1,23 @@
+{
+glyphname = "jeuls-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49070;
+},
+{
+ref = glyph48362;
+},
+{
+ref = glyph48081;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC994;
+unicode = 51604;
+}

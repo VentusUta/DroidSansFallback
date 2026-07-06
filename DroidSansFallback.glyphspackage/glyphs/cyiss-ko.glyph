@@ -1,0 +1,23 @@
+{
+glyphname = "cyiss-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49162;
+},
+{
+ref = glyph48662;
+},
+{
+ref = glyph48534;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE50;
+unicode = 52816;
+}

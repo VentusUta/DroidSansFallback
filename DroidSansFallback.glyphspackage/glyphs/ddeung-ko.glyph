@@ -1,0 +1,23 @@
+{
+glyphname = "ddeung-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48404;
+},
+{
+ref = glyph48462;
+},
+{
+ref = glyph47731;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB73D;
+unicode = 46909;
+}

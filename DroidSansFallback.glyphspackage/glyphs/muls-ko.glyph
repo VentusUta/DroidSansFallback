@@ -1,0 +1,23 @@
+{
+glyphname = "muls-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48710;
+},
+{
+ref = glyph48327;
+},
+{
+ref = glyph48081;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBB40;
+unicode = 47936;
+}

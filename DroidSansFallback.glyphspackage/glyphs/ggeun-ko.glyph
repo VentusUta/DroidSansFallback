@@ -1,0 +1,23 @@
+{
+glyphname = "ggeun-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47947;
+},
+{
+ref = glyph47948;
+},
+{
+ref = glyph47637;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB048;
+unicode = 45128;
+}

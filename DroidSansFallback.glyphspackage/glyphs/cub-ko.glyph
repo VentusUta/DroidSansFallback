@@ -1,0 +1,23 @@
+{
+glyphname = "cub-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49171;
+},
+{
+ref = glyph48563;
+},
+{
+ref = glyph48086;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCDA5;
+unicode = 52645;
+}

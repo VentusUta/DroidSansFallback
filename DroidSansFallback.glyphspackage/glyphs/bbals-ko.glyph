@@ -1,0 +1,23 @@
+{
+glyphname = "bbals-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48761;
+},
+{
+ref = glyph48762;
+},
+{
+ref = glyph47972;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBE6C;
+unicode = 48748;
+}

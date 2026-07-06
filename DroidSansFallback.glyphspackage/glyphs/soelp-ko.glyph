@@ -1,0 +1,23 @@
+{
+glyphname = "soelp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48929;
+},
+{
+ref = glyph48943;
+},
+{
+ref = glyph48115;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC1EE;
+unicode = 49646;
+}

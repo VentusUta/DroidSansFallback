@@ -1,0 +1,23 @@
+{
+glyphname = "ddan-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48373;
+},
+{
+ref = glyph47848;
+},
+{
+ref = glyph48016;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB534;
+unicode = 46388;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "nalt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47965;
+},
+{
+ref = glyph47499;
+},
+{
+ref = glyph47973;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB0A5;
+unicode = 45221;
+}

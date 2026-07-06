@@ -1,0 +1,23 @@
+{
+glyphname = "silb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48904;
+},
+{
+ref = glyph47841;
+},
+{
+ref = glyph48034;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC2E7;
+unicode = 49895;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "tyalb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49257;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph47971;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD103;
+unicode = 53507;
+}

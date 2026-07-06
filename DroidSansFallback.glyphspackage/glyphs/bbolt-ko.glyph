@@ -1,0 +1,23 @@
+{
+glyphname = "bbolt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48812;
+},
+{
+ref = glyph48813;
+},
+{
+ref = glyph48082;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBF4D;
+unicode = 48973;
+}

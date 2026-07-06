@@ -1,0 +1,23 @@
+{
+glyphname = "sswigg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49015;
+},
+{
+ref = glyph48448;
+},
+{
+ref = glyph48208;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC4BA;
+unicode = 50362;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ib-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49025;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48040;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC785;
+unicode = 51077;
+}

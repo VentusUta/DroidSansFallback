@@ -1,0 +1,23 @@
+{
+glyphname = "mep-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48671;
+},
+{
+ref = glyph48683;
+},
+{
+ref = glyph48014;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBA6E;
+unicode = 47726;
+}

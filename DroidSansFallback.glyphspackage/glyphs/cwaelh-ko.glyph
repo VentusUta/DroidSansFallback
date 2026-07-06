@@ -1,0 +1,23 @@
+{
+glyphname = "cwaelh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49168;
+},
+{
+ref = glyph48549;
+},
+{
+ref = glyph48528;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD4F;
+unicode = 52559;
+}

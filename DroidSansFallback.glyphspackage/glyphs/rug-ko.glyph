@@ -1,0 +1,23 @@
+{
+glyphname = "rug-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48563;
+},
+{
+ref = glyph48564;
+},
+{
+ref = glyph48069;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB8E9;
+unicode = 47337;
+}

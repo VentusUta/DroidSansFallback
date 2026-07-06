@@ -1,0 +1,20 @@
+{
+glyphname = "ci-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49128;
+},
+{
+ref = glyph47838;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE58;
+unicode = 52824;
+}

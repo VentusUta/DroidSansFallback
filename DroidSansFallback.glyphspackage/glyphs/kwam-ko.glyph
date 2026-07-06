@@ -1,0 +1,23 @@
+{
+glyphname = "kwam-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49207;
+},
+{
+ref = glyph49208;
+},
+{
+ref = glyph48117;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCF80;
+unicode = 53120;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ryac-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48473;
+},
+{
+ref = glyph47560;
+},
+{
+ref = glyph47982;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB7CB;
+unicode = 47051;
+}

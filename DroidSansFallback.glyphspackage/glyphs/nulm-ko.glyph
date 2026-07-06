@@ -1,0 +1,23 @@
+{
+glyphname = "nulm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48154;
+},
+{
+ref = glyph48155;
+},
+{
+ref = glyph48079;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB20E;
+unicode = 45582;
+}

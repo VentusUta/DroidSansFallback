@@ -1,0 +1,23 @@
+{
+glyphname = "myogg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48696;
+},
+{
+ref = glyph48317;
+},
+{
+ref = glyph48070;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBB1A;
+unicode = 47898;
+}

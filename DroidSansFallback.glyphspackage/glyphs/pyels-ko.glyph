@@ -1,0 +1,23 @@
+{
+glyphname = "pyels-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49300;
+},
+{
+ref = glyph48283;
+},
+{
+ref = glyph48001;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD3DC;
+unicode = 54236;
+}

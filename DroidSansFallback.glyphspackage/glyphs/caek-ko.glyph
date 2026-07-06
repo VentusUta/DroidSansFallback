@@ -1,0 +1,23 @@
+{
+glyphname = "caek-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49133;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph48012;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCC5C;
+unicode = 52316;
+}

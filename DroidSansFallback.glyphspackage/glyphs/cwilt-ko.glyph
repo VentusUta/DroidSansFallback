@@ -1,0 +1,23 @@
+{
+glyphname = "cwilt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49177;
+},
+{
+ref = glyph48626;
+},
+{
+ref = glyph48634;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCDF5;
+unicode = 52725;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "jweogg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49085;
+},
+{
+ref = glyph48332;
+},
+{
+ref = glyph48163;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC91A;
+unicode = 51482;
+}

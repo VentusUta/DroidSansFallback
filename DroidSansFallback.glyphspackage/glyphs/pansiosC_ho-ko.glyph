@@ -1,0 +1,30 @@
+{
+glyphname = "pansiosCho-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(209,29,l),
+(129,164,l),
+(42,29,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(75,48,l),
+(129,129,l),
+(177,48,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni317F;
+unicode = (4416,4587,12671);
+}

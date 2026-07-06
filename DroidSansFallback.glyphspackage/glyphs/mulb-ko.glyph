@@ -1,0 +1,23 @@
+{
+glyphname = "mulb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48710;
+},
+{
+ref = glyph48327;
+},
+{
+ref = glyph48080;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBB3F;
+unicode = 47935;
+}

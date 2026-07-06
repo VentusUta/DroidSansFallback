@@ -1,0 +1,23 @@
+{
+glyphname = "ggelb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47858;
+},
+{
+ref = glyph47884;
+},
+{
+ref = glyph47541;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAEE3;
+unicode = 44771;
+}

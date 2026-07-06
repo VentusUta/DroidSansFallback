@@ -1,0 +1,23 @@
+{
+glyphname = "ddyun-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48421;
+},
+{
+ref = glyph48455;
+},
+{
+ref = glyph48148;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB710;
+unicode = 46864;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = uni6D9F;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph33741;
+},
+{
+ref = glyph39399;
+},
+{
+ref = glyph39306;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni6D9F;
+unicode = 28063;
+}

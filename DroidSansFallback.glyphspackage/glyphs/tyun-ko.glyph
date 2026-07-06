@@ -1,0 +1,23 @@
+{
+glyphname = "tyun-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49283;
+},
+{
+ref = glyph48652;
+},
+{
+ref = glyph48148;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD2A0;
+unicode = 53920;
+}

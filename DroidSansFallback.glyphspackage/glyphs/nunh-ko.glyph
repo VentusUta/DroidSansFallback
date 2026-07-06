@@ -1,0 +1,23 @@
+{
+glyphname = "nunh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48154;
+},
+{
+ref = glyph48155;
+},
+{
+ref = glyph48076;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB20A;
+unicode = 45578;
+}

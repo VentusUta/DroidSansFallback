@@ -1,0 +1,23 @@
+{
+glyphname = "heogs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49342;
+},
+{
+ref = glyph49343;
+},
+{
+ref = glyph48209;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD5CB;
+unicode = 54731;
+}

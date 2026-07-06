@@ -1,0 +1,23 @@
+{
+glyphname = "rwelm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48614;
+},
+{
+ref = glyph48615;
+},
+{
+ref = glyph48588;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB92A;
+unicode = 47402;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "cwaes-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49166;
+},
+{
+ref = glyph48550;
+},
+{
+ref = glyph48533;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD53;
+unicode = 52563;
+}

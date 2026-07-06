@@ -1,0 +1,23 @@
+{
+glyphname = "myolt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48698;
+},
+{
+ref = glyph48319;
+},
+{
+ref = glyph48082;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBB25;
+unicode = 47909;
+}

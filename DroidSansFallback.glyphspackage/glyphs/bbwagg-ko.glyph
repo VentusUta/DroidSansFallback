@@ -1,0 +1,23 @@
+{
+glyphname = "bbwagg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48817;
+},
+{
+ref = glyph48818;
+},
+{
+ref = glyph48100;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBF5E;
+unicode = 48990;
+}

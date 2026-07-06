@@ -1,0 +1,23 @@
+{
+glyphname = "ceong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49142;
+},
+{
+ref = glyph49129;
+},
+{
+ref = glyph47981;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCCAD;
+unicode = 52397;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "bup-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48745;
+},
+{
+ref = glyph48323;
+},
+{
+ref = glyph48093;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBD9A;
+unicode = 48538;
+}

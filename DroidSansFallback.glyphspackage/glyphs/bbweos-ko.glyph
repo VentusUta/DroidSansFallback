@@ -1,0 +1,23 @@
+{
+glyphname = "bbweos-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48854;
+},
+{
+ref = glyph48860;
+},
+{
+ref = glyph48185;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBFFB;
+unicode = 49147;
+}

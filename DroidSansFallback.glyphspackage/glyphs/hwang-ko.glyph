@@ -1,0 +1,23 @@
+{
+glyphname = "hwang-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49399;
+},
+{
+ref = glyph49423;
+},
+{
+ref = glyph49426;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD669;
+unicode = 54889;
+}

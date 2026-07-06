@@ -1,0 +1,23 @@
+{
+glyphname = "jjyalm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49095;
+},
+{
+ref = glyph47864;
+},
+{
+ref = glyph47970;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCA1E;
+unicode = 51742;
+}

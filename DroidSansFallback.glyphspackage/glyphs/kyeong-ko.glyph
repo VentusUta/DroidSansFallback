@@ -1,0 +1,23 @@
+{
+glyphname = "kyeong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49194;
+},
+{
+ref = glyph47621;
+},
+{
+ref = glyph48043;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCF31;
+unicode = 53041;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "hyon-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49368;
+},
+{
+ref = glyph49449;
+},
+{
+ref = glyph49370;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD6AC;
+unicode = 54956;
+}

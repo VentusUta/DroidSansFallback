@@ -1,0 +1,23 @@
+{
+glyphname = "jwan-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49073;
+},
+{
+ref = glyph48928;
+},
+{
+ref = glyph47496;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC890;
+unicode = 51344;
+}

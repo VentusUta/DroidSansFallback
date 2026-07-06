@@ -1,0 +1,23 @@
+{
+glyphname = "sig-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47839;
+},
+{
+ref = glyph48902;
+},
+{
+ref = glyph47490;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC2DD;
+unicode = 49885;
+}

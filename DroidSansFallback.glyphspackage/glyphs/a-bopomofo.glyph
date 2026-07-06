@@ -1,0 +1,29 @@
+{
+glyphname = "a-bopomofo";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(127,111,l),
+(47,190,l),
+(30,175,l),
+(68,143,o),
+(112,91,q),
+(112,-10,l),
+(135,-10,l),
+(135,91,l),
+(226,172,l),
+(210,188,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni311A;
+unicode = 12570;
+}

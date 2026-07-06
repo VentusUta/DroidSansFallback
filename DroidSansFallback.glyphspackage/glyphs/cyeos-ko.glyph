@@ -1,0 +1,23 @@
+{
+glyphname = "cyeos-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49137;
+},
+{
+ref = glyph49150;
+},
+{
+ref = glyph47598;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCCE3;
+unicode = 52451;
+}

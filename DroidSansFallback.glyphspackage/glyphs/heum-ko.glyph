@@ -1,0 +1,23 @@
+{
+glyphname = "heum-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49363;
+},
+{
+ref = glyph49547;
+},
+{
+ref = glyph49384;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD760;
+unicode = 55136;
+}

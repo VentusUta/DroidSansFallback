@@ -1,0 +1,23 @@
+{
+glyphname = "sswad-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48984;
+},
+{
+ref = glyph48985;
+},
+{
+ref = glyph48108;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC3FB;
+unicode = 50171;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "beod-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48729;
+},
+{
+ref = glyph48678;
+},
+{
+ref = glyph48030;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBC8B;
+unicode = 48267;
+}

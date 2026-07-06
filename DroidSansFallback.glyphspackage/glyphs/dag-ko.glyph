@@ -1,0 +1,23 @@
+{
+glyphname = "dag-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48256;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47490;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB2E5;
+unicode = 45797;
+}

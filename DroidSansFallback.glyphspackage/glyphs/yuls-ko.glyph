@@ -1,0 +1,23 @@
+{
+glyphname = "yuls-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49047;
+},
+{
+ref = glyph48357;
+},
+{
+ref = glyph48081;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC72C;
+unicode = 50988;
+}

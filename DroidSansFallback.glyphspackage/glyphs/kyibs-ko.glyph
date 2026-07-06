@@ -1,0 +1,23 @@
+{
+glyphname = "kyibs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49253;
+},
+{
+ref = glyph48252;
+},
+{
+ref = glyph48119;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD09A;
+unicode = 53402;
+}

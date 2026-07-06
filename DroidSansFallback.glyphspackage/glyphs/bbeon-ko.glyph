@@ -1,0 +1,23 @@
+{
+glyphname = "bbeon-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48786;
+},
+{
+ref = glyph48787;
+},
+{
+ref = glyph47580;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBED4;
+unicode = 48852;
+}

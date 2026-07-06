@@ -1,0 +1,23 @@
+{
+glyphname = "ssyon-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48977;
+},
+{
+ref = glyph49007;
+},
+{
+ref = glyph48148;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC44C;
+unicode = 50252;
+}

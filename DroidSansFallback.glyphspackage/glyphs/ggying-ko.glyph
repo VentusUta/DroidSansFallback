@@ -1,0 +1,23 @@
+{
+glyphname = "ggying-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47951;
+},
+{
+ref = glyph47836;
+},
+{
+ref = glyph47691;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB075;
+unicode = 45173;
+}

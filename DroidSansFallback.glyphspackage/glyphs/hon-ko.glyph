@@ -1,0 +1,23 @@
+{
+glyphname = "hon-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49368;
+},
+{
+ref = glyph49369;
+},
+{
+ref = glyph49370;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD63C;
+unicode = 54844;
+}

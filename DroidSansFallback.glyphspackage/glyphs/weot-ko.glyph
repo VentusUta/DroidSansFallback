@@ -1,0 +1,23 @@
+{
+glyphname = "weot-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49051;
+},
+{
+ref = glyph48335;
+},
+{
+ref = glyph48192;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC6E5;
+unicode = 50917;
+}

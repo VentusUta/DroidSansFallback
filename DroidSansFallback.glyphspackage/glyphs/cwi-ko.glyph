@@ -1,0 +1,20 @@
+{
+glyphname = "cwi-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49174;
+},
+{
+ref = glyph48618;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCDE8;
+unicode = 52712;
+}

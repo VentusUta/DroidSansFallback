@@ -1,0 +1,23 @@
+{
+glyphname = "gas-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47488;
+},
+{
+ref = glyph47513;
+},
+{
+ref = glyph47514;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC13;
+unicode = 44051;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "tyaed-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49259;
+},
+{
+ref = glyph47568;
+},
+{
+ref = glyph47997;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD11B;
+unicode = 53531;
+}

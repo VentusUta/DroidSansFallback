@@ -1,0 +1,23 @@
+{
+glyphname = "ddyaeng-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48376;
+},
+{
+ref = glyph47870;
+},
+{
+ref = glyph48009;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB599;
+unicode = 46489;
+}

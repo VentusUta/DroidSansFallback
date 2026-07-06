@@ -1,0 +1,23 @@
+{
+glyphname = "daeng-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48261;
+},
+{
+ref = glyph47549;
+},
+{
+ref = glyph48009;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB315;
+unicode = 45845;
+}

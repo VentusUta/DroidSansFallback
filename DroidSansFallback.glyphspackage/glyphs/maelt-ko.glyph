@@ -1,0 +1,23 @@
+{
+glyphname = "maelt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48673;
+},
+{
+ref = glyph47535;
+},
+{
+ref = glyph48002;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB9F1;
+unicode = 47601;
+}

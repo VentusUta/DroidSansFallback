@@ -1,0 +1,23 @@
+{
+glyphname = "pyaegs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49298;
+},
+{
+ref = glyph47568;
+},
+{
+ref = glyph47991;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD363;
+unicode = 54115;
+}

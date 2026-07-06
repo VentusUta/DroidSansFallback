@@ -1,0 +1,23 @@
+{
+glyphname = "eulg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49036;
+},
+{
+ref = glyph48362;
+},
+{
+ref = glyph48078;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC745;
+unicode = 51013;
+}

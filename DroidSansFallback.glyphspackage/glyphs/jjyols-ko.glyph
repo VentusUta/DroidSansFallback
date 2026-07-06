@@ -1,0 +1,23 @@
+{
+glyphname = "jjyols-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49107;
+},
+{
+ref = glyph49008;
+},
+{
+ref = glyph48081;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCB38;
+unicode = 52024;
+}

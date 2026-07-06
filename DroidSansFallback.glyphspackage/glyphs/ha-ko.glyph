@@ -1,0 +1,20 @@
+{
+glyphname = "ha-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47487;
+},
+{
+ref = glyph49332;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD558;
+unicode = 54616;
+}

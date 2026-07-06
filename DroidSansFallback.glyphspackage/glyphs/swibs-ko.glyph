@@ -1,0 +1,23 @@
+{
+glyphname = "swibs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48956;
+},
+{
+ref = glyph48351;
+},
+{
+ref = glyph48226;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC27E;
+unicode = 49790;
+}

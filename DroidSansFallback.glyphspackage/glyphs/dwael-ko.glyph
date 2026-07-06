@@ -1,0 +1,23 @@
+{
+glyphname = "dwael-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48308;
+},
+{
+ref = glyph48309;
+},
+{
+ref = glyph48109;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB404;
+unicode = 46084;
+}

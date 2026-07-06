@@ -1,0 +1,23 @@
+{
+glyphname = "wass-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49038;
+},
+{
+ref = glyph48296;
+},
+{
+ref = glyph47980;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC654;
+unicode = 50772;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "tyeoss-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49263;
+},
+{
+ref = glyph48490;
+},
+{
+ref = glyph47890;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD17C;
+unicode = 53628;
+}

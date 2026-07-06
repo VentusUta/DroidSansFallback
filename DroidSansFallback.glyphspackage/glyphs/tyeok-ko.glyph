@@ -1,0 +1,23 @@
+{
+glyphname = "tyeok-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49263;
+},
+{
+ref = glyph48490;
+},
+{
+ref = glyph48046;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD180;
+unicode = 53632;
+}

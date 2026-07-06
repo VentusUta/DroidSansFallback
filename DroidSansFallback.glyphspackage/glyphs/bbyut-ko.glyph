@@ -1,0 +1,23 @@
+{
+glyphname = "bbyut-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48848;
+},
+{
+ref = glyph48881;
+},
+{
+ref = glyph48092;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC055;
+unicode = 49237;
+}

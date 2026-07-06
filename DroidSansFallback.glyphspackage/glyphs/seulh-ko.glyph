@@ -1,0 +1,23 @@
+{
+glyphname = "seulh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48920;
+},
+{
+ref = glyph48362;
+},
+{
+ref = glyph48084;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC2B3;
+unicode = 49843;
+}

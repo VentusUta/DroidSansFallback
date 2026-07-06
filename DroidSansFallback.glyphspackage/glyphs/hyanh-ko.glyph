@@ -1,0 +1,23 @@
+{
+glyphname = "hyanh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49335;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph48107;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD596;
+unicode = 54678;
+}

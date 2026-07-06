@@ -1,0 +1,20 @@
+{
+glyphname = "gya-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47486;
+},
+{
+ref = glyph47559;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC38;
+unicode = 44088;
+}

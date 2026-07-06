@@ -1,0 +1,23 @@
+{
+glyphname = "rwaes-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48544;
+},
+{
+ref = glyph48550;
+},
+{
+ref = glyph48533;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB8A7;
+unicode = 47271;
+}

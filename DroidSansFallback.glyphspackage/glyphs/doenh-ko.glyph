@@ -1,0 +1,23 @@
+{
+glyphname = "doenh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48299;
+},
+{
+ref = glyph48314;
+},
+{
+ref = glyph48107;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB41E;
+unicode = 46110;
+}

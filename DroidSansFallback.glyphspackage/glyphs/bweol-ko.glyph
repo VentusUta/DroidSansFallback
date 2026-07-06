@@ -1,0 +1,23 @@
+{
+glyphname = "bweol-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48751;
+},
+{
+ref = glyph48335;
+},
+{
+ref = glyph48173;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBDA4;
+unicode = 48548;
+}

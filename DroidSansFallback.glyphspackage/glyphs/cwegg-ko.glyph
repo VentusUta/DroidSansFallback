@@ -1,0 +1,23 @@
+{
+glyphname = "cwegg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49179;
+},
+{
+ref = glyph48611;
+},
+{
+ref = glyph48576;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCDCE;
+unicode = 52686;
+}

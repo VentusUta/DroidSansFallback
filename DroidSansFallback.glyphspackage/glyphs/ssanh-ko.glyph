@@ -1,0 +1,23 @@
+{
+glyphname = "ssanh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48965;
+},
+{
+ref = glyph47850;
+},
+{
+ref = glyph47966;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC2FE;
+unicode = 49918;
+}

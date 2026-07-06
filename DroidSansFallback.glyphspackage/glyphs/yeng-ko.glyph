@@ -1,0 +1,23 @@
+{
+glyphname = "yeng-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49027;
+},
+{
+ref = glyph48694;
+},
+{
+ref = glyph48009;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC61D;
+unicode = 50717;
+}

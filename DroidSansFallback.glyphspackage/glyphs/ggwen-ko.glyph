@@ -1,0 +1,23 @@
+{
+glyphname = "ggwen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47943;
+},
+{
+ref = glyph47774;
+},
+{
+ref = glyph47741;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAFF4;
+unicode = 45044;
+}

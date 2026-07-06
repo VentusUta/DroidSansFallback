@@ -1,0 +1,41 @@
+{
+glyphname = lowlinecenterline;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(138,-27,o),
+(138,-7,o),
+(118,-7,o),
+(118,-27,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(170,-9,l),
+(170,-26,l),
+(237,-26,l),
+(237,-9,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(19,-9,l),
+(19,-26,l),
+(86,-26,l),
+(86,-9,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniFE4E;
+unicode = 65102;
+}

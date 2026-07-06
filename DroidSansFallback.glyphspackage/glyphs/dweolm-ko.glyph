@@ -1,0 +1,23 @@
+{
+glyphname = "dweolm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48334;
+},
+{
+ref = glyph48335;
+},
+{
+ref = glyph48175;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB476;
+unicode = 46198;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "cwils-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49177;
+},
+{
+ref = glyph48626;
+},
+{
+ref = glyph48633;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCDF4;
+unicode = 52724;
+}

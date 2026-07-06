@@ -1,0 +1,23 @@
+{
+glyphname = "heud-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49363;
+},
+{
+ref = glyph49547;
+},
+{
+ref = glyph49375;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD757;
+unicode = 55127;
+}

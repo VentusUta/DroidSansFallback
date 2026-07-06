@@ -1,0 +1,23 @@
+{
+glyphname = "pun-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49322;
+},
+{
+ref = glyph48325;
+},
+{
+ref = glyph48148;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD47C;
+unicode = 54396;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "caen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49134;
+},
+{
+ref = glyph47531;
+},
+{
+ref = glyph47993;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCC48;
+unicode = 52296;
+}

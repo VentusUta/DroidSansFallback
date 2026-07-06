@@ -1,0 +1,23 @@
+{
+glyphname = "kyaen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49191;
+},
+{
+ref = glyph47569;
+},
+{
+ref = glyph47993;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCECC;
+unicode = 52940;
+}

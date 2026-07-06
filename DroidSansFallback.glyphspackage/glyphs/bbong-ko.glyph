@@ -1,0 +1,23 @@
+{
+glyphname = "bbong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48808;
+},
+{
+ref = glyph48814;
+},
+{
+ref = glyph47731;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBF55;
+unicode = 48981;
+}

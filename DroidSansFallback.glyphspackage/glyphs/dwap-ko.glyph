@@ -1,0 +1,23 @@
+{
+glyphname = "dwap-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48295;
+},
+{
+ref = glyph48296;
+},
+{
+ref = glyph48128;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB3FA;
+unicode = 46074;
+}

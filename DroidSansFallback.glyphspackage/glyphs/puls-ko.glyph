@@ -1,0 +1,23 @@
+{
+glyphname = "puls-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49323;
+},
+{
+ref = glyph48327;
+},
+{
+ref = glyph48081;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD484;
+unicode = 54404;
+}

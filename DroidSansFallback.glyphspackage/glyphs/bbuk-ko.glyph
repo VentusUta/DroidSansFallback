@@ -1,0 +1,23 @@
+{
+glyphname = "bbuk-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48845;
+},
+{
+ref = glyph48846;
+},
+{
+ref = glyph48091;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBFE4;
+unicode = 49124;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "hweong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49462;
+},
+{
+ref = glyph49486;
+},
+{
+ref = glyph49489;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD6F5;
+unicode = 55029;
+}

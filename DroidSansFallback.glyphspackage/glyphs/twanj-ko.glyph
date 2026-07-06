@@ -1,0 +1,23 @@
+{
+glyphname = "twanj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49274;
+},
+{
+ref = glyph48509;
+},
+{
+ref = glyph48516;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD1C1;
+unicode = 53697;
+}

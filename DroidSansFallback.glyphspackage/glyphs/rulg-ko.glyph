@@ -1,0 +1,23 @@
+{
+glyphname = "rulg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48567;
+},
+{
+ref = glyph48568;
+},
+{
+ref = glyph48078;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB8F1;
+unicode = 47345;
+}

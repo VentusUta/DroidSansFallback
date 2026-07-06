@@ -1,0 +1,23 @@
+{
+glyphname = "kec-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49192;
+},
+{
+ref = glyph47611;
+},
+{
+ref = glyph48011;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCF17;
+unicode = 53015;
+}

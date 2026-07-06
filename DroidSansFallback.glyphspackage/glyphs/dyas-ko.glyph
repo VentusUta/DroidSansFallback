@@ -1,0 +1,23 @@
+{
+glyphname = "dyas-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48256;
+},
+{
+ref = glyph47565;
+},
+{
+ref = glyph47979;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB32F;
+unicode = 45871;
+}

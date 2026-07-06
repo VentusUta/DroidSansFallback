@@ -1,0 +1,23 @@
+{
+glyphname = "maels-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48673;
+},
+{
+ref = glyph47535;
+},
+{
+ref = glyph48001;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB9F0;
+unicode = 47600;
+}

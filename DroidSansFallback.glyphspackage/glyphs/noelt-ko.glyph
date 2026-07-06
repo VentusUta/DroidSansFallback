@@ -1,0 +1,23 @@
+{
+glyphname = "noelt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48105;
+},
+{
+ref = glyph48142;
+},
+{
+ref = glyph48114;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB1D9;
+unicode = 45529;
+}

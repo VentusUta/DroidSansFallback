@@ -1,0 +1,23 @@
+{
+glyphname = "kwes-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49243;
+},
+{
+ref = glyph48203;
+},
+{
+ref = glyph48185;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD02B;
+unicode = 53291;
+}

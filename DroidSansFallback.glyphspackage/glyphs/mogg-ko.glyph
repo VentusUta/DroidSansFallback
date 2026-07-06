@@ -1,0 +1,23 @@
+{
+glyphname = "mogg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48287;
+},
+{
+ref = glyph48070;
+},
+{
+ref = glyph48696;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBAAA;
+unicode = 47786;
+}

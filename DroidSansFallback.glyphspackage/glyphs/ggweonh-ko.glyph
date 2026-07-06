@@ -1,0 +1,23 @@
+{
+glyphname = "ggweonh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47940;
+},
+{
+ref = glyph47744;
+},
+{
+ref = glyph47745;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAFDA;
+unicode = 45018;
+}

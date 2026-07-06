@@ -1,0 +1,23 @@
+{
+glyphname = "byen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48724;
+},
+{
+ref = glyph48692;
+},
+{
+ref = glyph47993;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBCDC;
+unicode = 48348;
+}

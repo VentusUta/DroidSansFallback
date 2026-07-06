@@ -1,0 +1,23 @@
+{
+glyphname = "baj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48720;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47517;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBC2A;
+unicode = 48170;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "dwegg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48340;
+},
+{
+ref = glyph48341;
+},
+{
+ref = glyph48163;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB48A;
+unicode = 46218;
+}

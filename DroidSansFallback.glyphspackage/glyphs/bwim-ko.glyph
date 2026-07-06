@@ -1,0 +1,23 @@
+{
+glyphname = "bwim-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48749;
+},
+{
+ref = glyph48349;
+},
+{
+ref = glyph48224;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBDE4;
+unicode = 48612;
+}

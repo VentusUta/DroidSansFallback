@@ -1,0 +1,29 @@
+{
+glyphname = "dot-kata";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(118,69,o),
+(138,69,o),
+(152,83,o),
+(152,92,qs),
+(152,102,o),
+(138,116,o),
+(118,116,o),
+(104,102,o),
+(104,92,qs),
+(104,83,o)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni30FB;
+unicode = 12539;
+}

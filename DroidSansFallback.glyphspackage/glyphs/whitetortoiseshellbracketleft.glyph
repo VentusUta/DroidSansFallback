@@ -1,0 +1,40 @@
+{
+glyphname = whitetortoiseshellbracketleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(241,168,l),
+(188,148,l),
+(188,36,l),
+(241,17,l),
+(241,35,l),
+(205,47,l),
+(205,137,l),
+(241,151,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(241,211,l),
+(152,177,l),
+(152,7,l),
+(241,-26,l),
+(241,-9,l),
+(169,17,l),
+(169,167,l),
+(241,194,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni3018;
+unicode = 12312;
+}

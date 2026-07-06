@@ -1,0 +1,23 @@
+{
+glyphname = "ceult-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49160;
+},
+{
+ref = glyph48658;
+},
+{
+ref = glyph48082;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE2D;
+unicode = 52781;
+}

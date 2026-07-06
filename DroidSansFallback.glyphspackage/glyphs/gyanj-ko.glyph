@@ -1,0 +1,23 @@
+{
+glyphname = "gyanj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47488;
+},
+{
+ref = glyph47560;
+},
+{
+ref = glyph47497;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC3D;
+unicode = 44093;
+}

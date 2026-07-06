@@ -1,0 +1,23 @@
+{
+glyphname = "tweolp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49288;
+},
+{
+ref = glyph48583;
+},
+{
+ref = glyph48592;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD256;
+unicode = 53846;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "byeok-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48729;
+},
+{
+ref = glyph48687;
+},
+{
+ref = glyph48046;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBCD4;
+unicode = 48340;
+}

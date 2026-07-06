@@ -1,0 +1,23 @@
+{
+glyphname = "bbelp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48769;
+},
+{
+ref = glyph48794;
+},
+{
+ref = glyph48003;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBEFA;
+unicode = 48890;
+}

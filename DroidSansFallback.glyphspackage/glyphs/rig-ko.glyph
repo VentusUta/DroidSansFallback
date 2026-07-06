@@ -1,0 +1,23 @@
+{
+glyphname = "rig-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48471;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48021;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB9AD;
+unicode = 47533;
+}

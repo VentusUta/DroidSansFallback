@@ -1,0 +1,23 @@
+{
+glyphname = "bbas-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48758;
+},
+{
+ref = glyph48259;
+},
+{
+ref = glyph47979;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBE73;
+unicode = 48755;
+}

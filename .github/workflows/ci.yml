@@ -1,0 +1,47 @@
+name: Compile Glyphs Font
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v7
+
+    - name: Set up Python
+      uses: actions/setup-python@v6
+      with:
+        python-version: "3.12"
+
+    - name: Install fontmake
+      run: |
+        python -m pip install --upgrade pip
+        pip install fontmake
+
+    - name: Install woff2
+      run: |
+        sudo apt update
+        sudo apt install -y woff2
+
+    - name: Compile Glyphs to TTF
+      run: |
+        mkdir -p build
+        # Original font don't have overlaps, skip remove overlaps
+        fontmake -g DroidSansFallback.glyphspackage -o ttf --keep-overlaps --output-dir build/
+
+    - name: Compress TTF to WOFF2
+      run: |
+        woff2_compress build/DroidSansFallback-Regular.ttf
+
+    - name: Upload Font
+      uses: actions/upload-artifact@v7
+      with:
+        name: DroidSansFallback
+        path: build/*

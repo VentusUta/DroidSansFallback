@@ -1,0 +1,23 @@
+{
+glyphname = "muk-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48708;
+},
+{
+ref = glyph48323;
+},
+{
+ref = glyph48091;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBB4C;
+unicode = 47948;
+}

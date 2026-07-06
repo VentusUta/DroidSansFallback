@@ -1,0 +1,23 @@
+{
+glyphname = "ddyelt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48378;
+},
+{
+ref = glyph48400;
+},
+{
+ref = glyph48002;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB601;
+unicode = 46593;
+}

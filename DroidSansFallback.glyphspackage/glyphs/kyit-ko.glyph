@@ -1,0 +1,23 @@
+{
+glyphname = "kyit-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49253;
+},
+{
+ref = glyph48252;
+},
+{
+ref = glyph48127;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD0A1;
+unicode = 53409;
+}

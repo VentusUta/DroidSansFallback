@@ -1,0 +1,23 @@
+{
+glyphname = "peud-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49309;
+},
+{
+ref = glyph48360;
+},
+{
+ref = glyph47728;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD50B;
+unicode = 54539;
+}

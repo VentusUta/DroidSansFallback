@@ -1,0 +1,23 @@
+{
+glyphname = "geon-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47579;
+},
+{
+ref = glyph47580;
+},
+{
+ref = glyph47494;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC74;
+unicode = 44148;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "gyet-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47534;
+},
+{
+ref = glyph47626;
+},
+{
+ref = glyph47556;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniACDD;
+unicode = 44253;
+}

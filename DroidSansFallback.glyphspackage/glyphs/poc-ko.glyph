@@ -1,0 +1,23 @@
+{
+glyphname = "poc-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49311;
+},
+{
+ref = glyph48291;
+},
+{
+ref = glyph48090;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD403;
+unicode = 54275;
+}

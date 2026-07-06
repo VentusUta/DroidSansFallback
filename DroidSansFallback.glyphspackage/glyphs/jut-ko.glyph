@@ -1,0 +1,23 @@
+{
+glyphname = "jut-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49083;
+},
+{
+ref = glyph48327;
+},
+{
+ref = glyph48092;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC915;
+unicode = 51477;
+}

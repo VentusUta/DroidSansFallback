@@ -1,0 +1,23 @@
+{
+glyphname = "ggyolp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47902;
+},
+{
+ref = glyph47931;
+},
+{
+ref = glyph47649;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAFAA;
+unicode = 44970;
+}

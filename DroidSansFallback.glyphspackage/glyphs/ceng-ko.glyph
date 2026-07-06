@@ -1,0 +1,23 @@
+{
+glyphname = "ceng-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49133;
+},
+{
+ref = glyph49145;
+},
+{
+ref = glyph48009;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCCC9;
+unicode = 52425;
+}

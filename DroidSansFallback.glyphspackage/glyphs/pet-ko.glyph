@@ -1,0 +1,23 @@
+{
+glyphname = "pet-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49300;
+},
+{
+ref = glyph48272;
+},
+{
+ref = glyph48013;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD3B1;
+unicode = 54193;
+}

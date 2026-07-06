@@ -1,0 +1,23 @@
+{
+glyphname = "bbess-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48765;
+},
+{
+ref = glyph48792;
+},
+{
+ref = glyph47614;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBF00;
+unicode = 48896;
+}

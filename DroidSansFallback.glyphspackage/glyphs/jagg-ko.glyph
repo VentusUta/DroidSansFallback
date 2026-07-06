@@ -1,0 +1,23 @@
+{
+glyphname = "jagg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49057;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47960;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC792;
+unicode = 51090;
+}

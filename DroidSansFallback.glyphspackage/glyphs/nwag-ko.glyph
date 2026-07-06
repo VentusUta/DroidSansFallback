@@ -1,0 +1,23 @@
+{
+glyphname = "nwag-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48097;
+},
+{
+ref = glyph48098;
+},
+{
+ref = glyph48099;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB195;
+unicode = 45461;
+}

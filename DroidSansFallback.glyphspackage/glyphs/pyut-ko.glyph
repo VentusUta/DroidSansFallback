@@ -1,0 +1,23 @@
+{
+glyphname = "pyut-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49323;
+},
+{
+ref = glyph48357;
+},
+{
+ref = glyph48092;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD501;
+unicode = 54529;
+}

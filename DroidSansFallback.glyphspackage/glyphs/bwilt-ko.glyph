@@ -1,0 +1,23 @@
+{
+glyphname = "bwilt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48751;
+},
+{
+ref = glyph48351;
+},
+{
+ref = glyph48221;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBDE1;
+unicode = 48609;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "cwang-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49162;
+},
+{
+ref = glyph48532;
+},
+{
+ref = glyph48535;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD39;
+unicode = 52537;
+}

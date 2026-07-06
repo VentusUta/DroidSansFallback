@@ -1,0 +1,23 @@
+{
+glyphname = "ssweod-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49015;
+},
+{
+ref = glyph48430;
+},
+{
+ref = glyph48172;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC487;
+unicode = 50311;
+}

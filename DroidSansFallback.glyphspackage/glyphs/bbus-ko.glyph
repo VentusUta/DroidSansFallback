@@ -1,0 +1,23 @@
+{
+glyphname = "bbus-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48845;
+},
+{
+ref = glyph48850;
+},
+{
+ref = glyph47654;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBFDF;
+unicode = 49119;
+}

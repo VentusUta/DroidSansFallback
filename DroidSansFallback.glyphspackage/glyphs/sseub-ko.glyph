@@ -1,0 +1,23 @@
+{
+glyphname = "sseub-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48975;
+},
+{
+ref = glyph48459;
+},
+{
+ref = glyph48086;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC501;
+unicode = 50433;
+}

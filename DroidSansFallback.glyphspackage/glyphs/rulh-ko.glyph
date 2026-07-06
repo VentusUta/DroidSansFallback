@@ -1,0 +1,23 @@
+{
+glyphname = "rulh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48567;
+},
+{
+ref = glyph48568;
+},
+{
+ref = glyph48084;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB8F7;
+unicode = 47351;
+}

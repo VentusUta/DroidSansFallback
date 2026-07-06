@@ -1,0 +1,23 @@
+{
+glyphname = "syaes-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48906;
+},
+{
+ref = glyph47571;
+},
+{
+ref = glyph48008;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC113;
+unicode = 49427;
+}

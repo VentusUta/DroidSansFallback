@@ -1,0 +1,26 @@
+{
+glyphname = uniFA15;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph40147;
+},
+{
+ref = glyph40049;
+},
+{
+ref = glyph40148;
+},
+{
+ref = glyph49716;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniFA15;
+unicode = 64021;
+}

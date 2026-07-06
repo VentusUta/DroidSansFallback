@@ -1,0 +1,23 @@
+{
+glyphname = "rweolp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48582;
+},
+{
+ref = glyph48583;
+},
+{
+ref = glyph48592;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB912;
+unicode = 47378;
+}

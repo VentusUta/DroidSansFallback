@@ -1,0 +1,23 @@
+{
+glyphname = "neoh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48027;
+},
+{
+ref = glyph48028;
+},
+{
+ref = glyph48049;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB123;
+unicode = 45347;
+}

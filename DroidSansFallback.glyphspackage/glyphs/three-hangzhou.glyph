@@ -1,0 +1,41 @@
+{
+glyphname = "three-hangzhou";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(208,-23,l),
+(208,204,l),
+(188,204,l),
+(188,-23,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(72,6,l),
+(72,184,l),
+(52,184,l),
+(52,6,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(139,21,l),
+(139,167,l),
+(119,167,l),
+(119,21,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni3023;
+unicode = 12323;
+}

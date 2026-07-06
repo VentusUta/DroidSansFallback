@@ -1,0 +1,23 @@
+{
+glyphname = "hyeos-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49342;
+},
+{
+ref = glyph49355;
+},
+{
+ref = glyph48228;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD613;
+unicode = 54803;
+}

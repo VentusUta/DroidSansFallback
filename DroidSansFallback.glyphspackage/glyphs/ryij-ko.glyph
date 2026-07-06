@@ -1,0 +1,23 @@
+{
+glyphname = "ryij-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48508;
+},
+{
+ref = glyph48662;
+},
+{
+ref = glyph48536;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB9A6;
+unicode = 47526;
+}

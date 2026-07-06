@@ -1,0 +1,23 @@
+{
+glyphname = "wilm-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49051;
+},
+{
+ref = glyph48351;
+},
+{
+ref = glyph48218;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC70E;
+unicode = 50958;
+}

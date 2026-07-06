@@ -1,0 +1,23 @@
+{
+glyphname = "ryic-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48517;
+},
+{
+ref = glyph48666;
+},
+{
+ref = glyph48537;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB9A7;
+unicode = 47527;
+}

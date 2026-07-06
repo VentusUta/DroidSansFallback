@@ -1,0 +1,23 @@
+{
+glyphname = "geud-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47822;
+},
+{
+ref = glyph47821;
+},
+{
+ref = glyph47642;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniADFF;
+unicode = 44543;
+}

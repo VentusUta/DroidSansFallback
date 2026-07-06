@@ -1,0 +1,23 @@
+{
+glyphname = "myunj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48708;
+},
+{
+ref = glyph48355;
+},
+{
+ref = glyph48073;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBBA9;
+unicode = 48041;
+}

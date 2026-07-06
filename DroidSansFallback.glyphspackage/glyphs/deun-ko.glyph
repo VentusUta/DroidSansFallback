@@ -1,0 +1,23 @@
+{
+glyphname = "deun-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48324;
+},
+{
+ref = glyph48148;
+},
+{
+ref = glyph48361;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB4E0;
+unicode = 46304;
+}

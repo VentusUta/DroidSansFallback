@@ -1,0 +1,23 @@
+{
+glyphname = "taep-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49259;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph48014;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD0F6;
+unicode = 53494;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "doej-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48295;
+},
+{
+ref = glyph48312;
+},
+{
+ref = glyph48124;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB42E;
+unicode = 46126;
+}

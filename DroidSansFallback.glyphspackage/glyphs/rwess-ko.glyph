@@ -1,0 +1,23 @@
+{
+glyphname = "rwess-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48610;
+},
+{
+ref = glyph48611;
+},
+{
+ref = glyph48599;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB934;
+unicode = 47412;
+}

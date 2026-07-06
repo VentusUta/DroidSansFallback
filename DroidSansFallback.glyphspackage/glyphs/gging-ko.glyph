@@ -1,0 +1,23 @@
+{
+glyphname = "gging-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47846;
+},
+{
+ref = glyph47957;
+},
+{
+ref = glyph47601;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB091;
+unicode = 45201;
+}

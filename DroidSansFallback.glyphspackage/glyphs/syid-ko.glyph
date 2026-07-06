@@ -1,0 +1,23 @@
+{
+glyphname = "syid-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48925;
+},
+{
+ref = glyph48366;
+},
+{
+ref = glyph48108;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC2C7;
+unicode = 49863;
+}

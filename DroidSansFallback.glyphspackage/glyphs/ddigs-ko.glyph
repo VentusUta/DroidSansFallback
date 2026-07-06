@@ -1,0 +1,23 @@
+{
+glyphname = "ddigs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48372;
+},
+{
+ref = glyph47842;
+},
+{
+ref = glyph48023;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB763;
+unicode = 46947;
+}

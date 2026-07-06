@@ -1,0 +1,23 @@
+{
+glyphname = "maj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48668;
+},
+{
+ref = glyph47489;
+},
+{
+ref = glyph47566;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB9DE;
+unicode = 47582;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ssen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48968;
+},
+{
+ref = glyph48389;
+},
+{
+ref = glyph47993;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC388;
+unicode = 50056;
+}

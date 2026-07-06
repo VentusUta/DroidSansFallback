@@ -1,0 +1,23 @@
+{
+glyphname = "yeolp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49032;
+},
+{
+ref = glyph48688;
+},
+{
+ref = glyph48037;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC5FA;
+unicode = 50682;
+}

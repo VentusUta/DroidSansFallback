@@ -1,0 +1,23 @@
+{
+glyphname = "mwaeg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48704;
+},
+{
+ref = glyph48305;
+},
+{
+ref = glyph48099;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBAE1;
+unicode = 47841;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "poej-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49313;
+},
+{
+ref = glyph48312;
+},
+{
+ref = glyph48124;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD456;
+unicode = 54358;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "pwab-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49313;
+},
+{
+ref = glyph48296;
+},
+{
+ref = glyph48118;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD419;
+unicode = 54297;
+}

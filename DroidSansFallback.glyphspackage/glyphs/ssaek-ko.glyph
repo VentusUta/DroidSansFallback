@@ -1,0 +1,23 @@
+{
+glyphname = "ssaek-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48967;
+},
+{
+ref = glyph47855;
+},
+{
+ref = glyph48012;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC32C;
+unicode = 49964;
+}

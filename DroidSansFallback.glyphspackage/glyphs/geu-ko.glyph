@@ -1,0 +1,20 @@
+{
+glyphname = "geu-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47819;
+},
+{
+ref = glyph47820;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniADF8;
+unicode = 44536;
+}

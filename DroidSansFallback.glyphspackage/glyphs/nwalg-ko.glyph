@@ -1,0 +1,23 @@
+{
+glyphname = "nwalg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48105;
+},
+{
+ref = glyph48106;
+},
+{
+ref = glyph48110;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB19D;
+unicode = 45469;
+}

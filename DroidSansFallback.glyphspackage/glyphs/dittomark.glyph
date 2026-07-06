@@ -1,0 +1,32 @@
+{
+glyphname = dittomark;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(127,44,l),
+(146,40,l),
+(181,140,l),
+(156,145,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(77,45,l),
+(96,40,l),
+(130,140,l),
+(105,145,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni3003;
+unicode = 12291;
+}

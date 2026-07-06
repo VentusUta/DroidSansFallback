@@ -1,0 +1,20 @@
+{
+glyphname = "hoe-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49442;
+},
+{
+ref = glyph49398;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD68C;
+unicode = 54924;
+}

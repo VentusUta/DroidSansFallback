@@ -1,0 +1,23 @@
+{
+glyphname = "raegg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48475;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph47990;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB79A;
+unicode = 47002;
+}

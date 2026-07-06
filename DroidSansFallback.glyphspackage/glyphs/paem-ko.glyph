@@ -1,0 +1,23 @@
+{
+glyphname = "paem-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49298;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph48005;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD338;
+unicode = 54072;
+}

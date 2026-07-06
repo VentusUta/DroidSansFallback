@@ -1,0 +1,23 @@
+{
+glyphname = "yaelh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49029;
+},
+{
+ref = glyph47570;
+},
+{
+ref = glyph48004;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC5A7;
+unicode = 50599;
+}

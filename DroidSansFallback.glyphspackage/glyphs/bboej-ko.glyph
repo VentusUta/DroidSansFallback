@@ -1,0 +1,23 @@
+{
+glyphname = "bboej-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48817;
+},
+{
+ref = glyph48834;
+},
+{
+ref = glyph48124;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBFAA;
+unicode = 49066;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "holg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49372;
+},
+{
+ref = glyph49373;
+},
+{
+ref = glyph49377;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD641;
+unicode = 54849;
+}

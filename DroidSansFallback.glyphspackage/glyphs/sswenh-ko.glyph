@@ -1,0 +1,23 @@
+{
+glyphname = "sswenh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49021;
+},
+{
+ref = glyph48444;
+},
+{
+ref = glyph48171;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC4A2;
+unicode = 50338;
+}

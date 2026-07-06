@@ -1,0 +1,23 @@
+{
+glyphname = "gom-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47630;
+},
+{
+ref = glyph47631;
+},
+{
+ref = glyph47651;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniACF0;
+unicode = 44272;
+}

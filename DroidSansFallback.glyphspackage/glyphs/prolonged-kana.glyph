@@ -1,0 +1,23 @@
+{
+glyphname = "prolonged-kana";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(35,107,l),
+(35,78,l),
+(220,78,l),
+(220,107,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni30FC;
+unicode = 12540;
+}

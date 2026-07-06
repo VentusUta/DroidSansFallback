@@ -1,0 +1,23 @@
+{
+glyphname = "tilh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49257;
+},
+{
+ref = glyph47841;
+},
+{
+ref = glyph48038;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD2FF;
+unicode = 54015;
+}

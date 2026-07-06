@@ -1,0 +1,23 @@
+{
+glyphname = "ssok-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48975;
+},
+{
+ref = glyph48976;
+},
+{
+ref = glyph48091;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC3F0;
+unicode = 50160;
+}

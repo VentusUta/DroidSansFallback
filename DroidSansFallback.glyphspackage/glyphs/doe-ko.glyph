@@ -1,0 +1,20 @@
+{
+glyphname = "doe-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48139;
+},
+{
+ref = glyph48311;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB418;
+unicode = 46104;
+}

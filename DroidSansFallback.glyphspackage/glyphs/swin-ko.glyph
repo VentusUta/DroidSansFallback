@@ -1,0 +1,23 @@
+{
+glyphname = "swin-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48955;
+},
+{
+ref = glyph48350;
+},
+{
+ref = glyph48211;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC270;
+unicode = 49776;
+}

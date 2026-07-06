@@ -1,0 +1,34 @@
+{
+glyphname = exclam.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(114,183,l),
+(121,52,l),
+(136,52,l),
+(142,183,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(112,31,o),
+(112,14,qs),
+(112,-4,o),
+(144,-4,o),
+(144,14,qs),
+(144,31,o)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniFF01;
+unicode = 65281;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "joen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49073;
+},
+{
+ref = glyph48942;
+},
+{
+ref = glyph47496;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC8C8;
+unicode = 51400;
+}

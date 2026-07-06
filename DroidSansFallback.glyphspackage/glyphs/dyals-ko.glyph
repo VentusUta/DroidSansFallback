@@ -1,0 +1,23 @@
+{
+glyphname = "dyals-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48258;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph47972;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB328;
+unicode = 45864;
+}

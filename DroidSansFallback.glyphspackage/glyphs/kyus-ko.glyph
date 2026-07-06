@@ -1,0 +1,23 @@
+{
+glyphname = "kyus-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49234;
+},
+{
+ref = glyph48243;
+},
+{
+ref = glyph47654;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD063;
+unicode = 53347;
+}

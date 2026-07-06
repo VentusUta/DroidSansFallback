@@ -1,0 +1,23 @@
+{
+glyphname = "cyep-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49133;
+},
+{
+ref = glyph49152;
+},
+{
+ref = glyph48014;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD06;
+unicode = 52486;
+}

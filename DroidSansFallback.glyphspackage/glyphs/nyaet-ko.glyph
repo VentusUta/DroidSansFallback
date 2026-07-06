@@ -1,0 +1,23 @@
+{
+glyphname = "nyaet-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47995;
+},
+{
+ref = glyph47570;
+},
+{
+ref = glyph48013;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB105;
+unicode = 45317;
+}

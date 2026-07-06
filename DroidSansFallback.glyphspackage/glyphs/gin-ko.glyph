@@ -1,0 +1,23 @@
+{
+glyphname = "gin-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47840;
+},
+{
+ref = glyph47494;
+},
+{
+ref = glyph47496;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAE34;
+unicode = 44596;
+}

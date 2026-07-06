@@ -1,0 +1,23 @@
+{
+glyphname = "wegs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49053;
+},
+{
+ref = glyph48341;
+},
+{
+ref = glyph48164;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC6EB;
+unicode = 50923;
+}

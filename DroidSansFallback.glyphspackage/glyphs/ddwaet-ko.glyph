@@ -1,0 +1,23 @@
+{
+glyphname = "ddwaet-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48414;
+},
+{
+ref = glyph48309;
+},
+{
+ref = glyph48127;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB661;
+unicode = 46689;
+}

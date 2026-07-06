@@ -1,0 +1,23 @@
+{
+glyphname = "tit-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49257;
+},
+{
+ref = glyph47841;
+},
+{
+ref = glyph48047;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD309;
+unicode = 54025;
+}

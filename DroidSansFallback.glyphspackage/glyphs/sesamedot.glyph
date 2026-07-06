@@ -1,0 +1,24 @@
+{
+glyphname = sesamedot;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(110,128,q),
+(96,115,l),
+(145,61,l),
+(160,75,l),
+(140,101,o)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniFE45;
+unicode = 65093;
+}

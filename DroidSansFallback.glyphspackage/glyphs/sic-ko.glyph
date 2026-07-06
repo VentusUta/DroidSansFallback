@@ -1,0 +1,23 @@
+{
+glyphname = "sic-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48904;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48045;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC2F3;
+unicode = 49907;
+}

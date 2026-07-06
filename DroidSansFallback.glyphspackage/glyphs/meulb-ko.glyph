@@ -1,0 +1,23 @@
+{
+glyphname = "meulb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48698;
+},
+{
+ref = glyph48362;
+},
+{
+ref = glyph48080;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBBCB;
+unicode = 48075;
+}

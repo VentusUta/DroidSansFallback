@@ -1,0 +1,23 @@
+{
+glyphname = "nong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48067;
+},
+{
+ref = glyph48072;
+},
+{
+ref = glyph47731;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB18D;
+unicode = 45453;
+}

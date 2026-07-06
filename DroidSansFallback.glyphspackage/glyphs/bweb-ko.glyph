@@ -1,0 +1,23 @@
+{
+glyphname = "bweb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48753;
+},
+{
+ref = glyph48341;
+},
+{
+ref = glyph48182;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBDC9;
+unicode = 48585;
+}

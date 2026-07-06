@@ -1,0 +1,23 @@
+{
+glyphname = "jjwaeng-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49113;
+},
+{
+ref = glyph48999;
+},
+{
+ref = glyph48123;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCB09;
+unicode = 51977;
+}

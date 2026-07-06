@@ -1,0 +1,23 @@
+{
+glyphname = "pweos-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49325;
+},
+{
+ref = glyph48336;
+},
+{
+ref = glyph48185;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD4A7;
+unicode = 54439;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "pwes-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49329;
+},
+{
+ref = glyph48346;
+},
+{
+ref = glyph48185;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD4C3;
+unicode = 54467;
+}

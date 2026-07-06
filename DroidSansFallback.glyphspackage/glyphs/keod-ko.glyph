@@ -1,0 +1,23 @@
+{
+glyphname = "keod-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49194;
+},
+{
+ref = glyph47575;
+},
+{
+ref = glyph48030;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCEEB;
+unicode = 52971;
+}

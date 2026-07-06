@@ -1,0 +1,23 @@
+{
+glyphname = "selp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48908;
+},
+{
+ref = glyph48272;
+},
+{
+ref = glyph48003;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC146;
+unicode = 49478;
+}

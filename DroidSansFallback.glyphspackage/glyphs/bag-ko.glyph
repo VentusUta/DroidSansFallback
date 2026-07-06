@@ -1,0 +1,23 @@
+{
+glyphname = "bag-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48720;
+},
+{
+ref = glyph47489;
+},
+{
+ref = glyph47490;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBC15;
+unicode = 48149;
+}

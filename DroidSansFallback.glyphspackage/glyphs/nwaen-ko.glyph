@@ -1,0 +1,23 @@
+{
+glyphname = "nwaen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48134;
+},
+{
+ref = glyph48135;
+},
+{
+ref = glyph47496;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB1B4;
+unicode = 45492;
+}

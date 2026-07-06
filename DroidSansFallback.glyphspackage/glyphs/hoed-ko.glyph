@@ -1,0 +1,23 @@
+{
+glyphname = "hoed-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49399;
+},
+{
+ref = glyph49443;
+},
+{
+ref = glyph49411;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD693;
+unicode = 54931;
+}

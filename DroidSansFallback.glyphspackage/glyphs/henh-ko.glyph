@@ -1,0 +1,23 @@
+{
+glyphname = "henh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49339;
+},
+{
+ref = glyph49350;
+},
+{
+ref = glyph48171;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD5EA;
+unicode = 54762;
+}

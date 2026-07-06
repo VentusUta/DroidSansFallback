@@ -1,0 +1,23 @@
+{
+glyphname = "cyigs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49162;
+},
+{
+ref = glyph48662;
+},
+{
+ref = glyph48512;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE3F;
+unicode = 52799;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "geol-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47586;
+},
+{
+ref = glyph47574;
+},
+{
+ref = glyph47575;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC78;
+unicode = 44152;
+}

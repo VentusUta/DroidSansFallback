@@ -1,0 +1,20 @@
+{
+glyphname = "dae-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47524;
+},
+{
+ref = glyph48260;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB300;
+unicode = 45824;
+}

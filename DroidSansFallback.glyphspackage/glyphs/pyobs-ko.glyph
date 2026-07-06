@@ -1,0 +1,23 @@
+{
+glyphname = "pyobs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49311;
+},
+{
+ref = glyph48319;
+},
+{
+ref = glyph48087;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD46E;
+unicode = 54382;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "cweh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49181;
+},
+{
+ref = glyph48617;
+},
+{
+ref = glyph48607;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCDE7;
+unicode = 52711;
+}

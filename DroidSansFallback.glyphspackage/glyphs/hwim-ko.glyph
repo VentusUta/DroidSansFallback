@@ -1,0 +1,23 @@
+{
+glyphname = "hwim-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49462;
+},
+{
+ref = glyph49508;
+},
+{
+ref = glyph49526;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD728;
+unicode = 55080;
+}

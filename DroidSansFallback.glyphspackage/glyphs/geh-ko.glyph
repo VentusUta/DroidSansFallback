@@ -1,0 +1,23 @@
+{
+glyphname = "geh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47534;
+},
+{
+ref = glyph47611;
+},
+{
+ref = glyph47558;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniACA7;
+unicode = 44199;
+}

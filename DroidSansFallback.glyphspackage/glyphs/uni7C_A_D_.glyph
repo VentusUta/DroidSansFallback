@@ -1,0 +1,20 @@
+{
+glyphname = uni7CAD;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph41900;
+},
+{
+ref = glyph36820;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni7CAD;
+unicode = 31917;
+}

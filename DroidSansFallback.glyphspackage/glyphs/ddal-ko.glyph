@@ -1,0 +1,23 @@
+{
+glyphname = "ddal-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48374;
+},
+{
+ref = glyph47850;
+},
+{
+ref = glyph47968;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB538;
+unicode = 46392;
+}

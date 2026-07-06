@@ -1,0 +1,23 @@
+{
+glyphname = "ddwen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48441;
+},
+{
+ref = glyph48442;
+},
+{
+ref = glyph48167;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB6D8;
+unicode = 46808;
+}

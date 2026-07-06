@@ -1,0 +1,23 @@
+{
+glyphname = "ddwic-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48433;
+},
+{
+ref = glyph48452;
+},
+{
+ref = glyph48233;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB707;
+unicode = 46855;
+}

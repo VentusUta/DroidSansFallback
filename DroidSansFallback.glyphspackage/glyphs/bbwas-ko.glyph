@@ -1,0 +1,23 @@
+{
+glyphname = "bbwas-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48817;
+},
+{
+ref = glyph48823;
+},
+{
+ref = glyph48121;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBF6F;
+unicode = 49007;
+}

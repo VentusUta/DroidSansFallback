@@ -1,0 +1,23 @@
+{
+glyphname = "keug-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49248;
+},
+{
+ref = glyph47824;
+},
+{
+ref = glyph48069;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD06D;
+unicode = 53357;
+}

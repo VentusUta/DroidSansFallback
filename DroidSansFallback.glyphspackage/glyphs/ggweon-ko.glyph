@@ -1,0 +1,23 @@
+{
+glyphname = "ggweon-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47939;
+},
+{
+ref = glyph47740;
+},
+{
+ref = glyph47741;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAFD8;
+unicode = 45016;
+}

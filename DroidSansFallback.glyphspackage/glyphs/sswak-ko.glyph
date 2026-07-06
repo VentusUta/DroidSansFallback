@@ -1,0 +1,23 @@
+{
+glyphname = "sswak-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48984;
+},
+{
+ref = glyph48985;
+},
+{
+ref = glyph48126;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC40C;
+unicode = 50188;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "nelh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47995;
+},
+{
+ref = glyph48053;
+},
+{
+ref = glyph48004;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB133;
+unicode = 45363;
+}

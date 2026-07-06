@@ -1,0 +1,23 @@
+{
+glyphname = "ddyik-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48408;
+},
+{
+ref = glyph48465;
+},
+{
+ref = glyph48126;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB75C;
+unicode = 46940;
+}

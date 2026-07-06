@@ -1,0 +1,23 @@
+{
+glyphname = "beogg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48729;
+},
+{
+ref = glyph48678;
+},
+{
+ref = glyph48022;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBC86;
+unicode = 48262;
+}

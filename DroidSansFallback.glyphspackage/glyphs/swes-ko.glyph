@@ -1,0 +1,23 @@
+{
+glyphname = "swes-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48958;
+},
+{
+ref = glyph48346;
+},
+{
+ref = glyph48185;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC263;
+unicode = 49763;
+}

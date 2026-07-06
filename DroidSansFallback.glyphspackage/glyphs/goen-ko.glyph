@@ -1,0 +1,23 @@
+{
+glyphname = "goen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47671;
+},
+{
+ref = glyph47710;
+},
+{
+ref = glyph47704;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAD38;
+unicode = 44344;
+}

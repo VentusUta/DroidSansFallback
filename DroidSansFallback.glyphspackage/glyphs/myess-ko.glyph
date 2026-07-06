@@ -1,0 +1,23 @@
+{
+glyphname = "myess-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48671;
+},
+{
+ref = glyph48691;
+},
+{
+ref = glyph47614;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBAA0;
+unicode = 47776;
+}

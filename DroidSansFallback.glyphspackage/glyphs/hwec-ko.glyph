@@ -1,0 +1,23 @@
+{
+glyphname = "hwec-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49503;
+},
+{
+ref = glyph49506;
+},
+{
+ref = glyph49492;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD713;
+unicode = 55059;
+}

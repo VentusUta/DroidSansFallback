@@ -1,0 +1,23 @@
+{
+glyphname = "ssoec-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48988;
+},
+{
+ref = glyph49003;
+},
+{
+ref = glyph48125;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC443;
+unicode = 50243;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "bbalg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48761;
+},
+{
+ref = glyph48762;
+},
+{
+ref = glyph47969;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBE69;
+unicode = 48745;
+}

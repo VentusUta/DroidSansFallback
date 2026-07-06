@@ -1,0 +1,23 @@
+{
+glyphname = "cej-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49133;
+},
+{
+ref = glyph47613;
+},
+{
+ref = glyph48010;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCCCA;
+unicode = 52426;
+}

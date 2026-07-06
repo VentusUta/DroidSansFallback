@@ -1,0 +1,23 @@
+{
+glyphname = "hwaet-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49439;
+},
+{
+ref = glyph49440;
+},
+{
+ref = glyph49430;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD689;
+unicode = 54921;
+}

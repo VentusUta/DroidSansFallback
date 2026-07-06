@@ -1,0 +1,23 @@
+{
+glyphname = "sswaep-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48993;
+},
+{
+ref = glyph48994;
+},
+{
+ref = glyph48128;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC42A;
+unicode = 50218;
+}

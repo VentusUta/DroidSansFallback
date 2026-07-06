@@ -1,0 +1,23 @@
+{
+glyphname = "sanj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48902;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47964;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC0B1;
+unicode = 49329;
+}

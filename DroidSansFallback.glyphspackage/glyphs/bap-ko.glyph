@@ -1,0 +1,23 @@
+{
+glyphname = "bap-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48720;
+},
+{
+ref = glyph47491;
+},
+{
+ref = glyph47985;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBC2E;
+unicode = 48174;
+}

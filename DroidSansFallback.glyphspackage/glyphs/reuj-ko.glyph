@@ -1,0 +1,23 @@
+{
+glyphname = "reuj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48499;
+},
+{
+ref = glyph48657;
+},
+{
+ref = glyph48089;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB98A;
+unicode = 47498;
+}

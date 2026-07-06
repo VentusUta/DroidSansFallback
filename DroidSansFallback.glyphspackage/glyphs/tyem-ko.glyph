@@ -1,0 +1,23 @@
+{
+glyphname = "tyem-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49259;
+},
+{
+ref = glyph48493;
+},
+{
+ref = glyph48005;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD194;
+unicode = 53652;
+}

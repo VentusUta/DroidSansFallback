@@ -1,0 +1,23 @@
+{
+glyphname = "byeolt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48730;
+},
+{
+ref = glyph48688;
+},
+{
+ref = glyph48036;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBCC9;
+unicode = 48329;
+}

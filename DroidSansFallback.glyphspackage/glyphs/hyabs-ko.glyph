@@ -1,0 +1,23 @@
+{
+glyphname = "hyabs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49335;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph48119;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD5A2;
+unicode = 54690;
+}

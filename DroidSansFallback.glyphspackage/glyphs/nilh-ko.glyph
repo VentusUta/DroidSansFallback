@@ -1,0 +1,23 @@
+{
+glyphname = "nilh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47965;
+},
+{
+ref = glyph47841;
+},
+{
+ref = glyph48038;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB2D7;
+unicode = 45783;
+}

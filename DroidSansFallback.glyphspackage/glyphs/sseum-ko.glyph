@@ -1,0 +1,23 @@
+{
+glyphname = "sseum-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48975;
+},
+{
+ref = glyph48459;
+},
+{
+ref = glyph48085;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC500;
+unicode = 50432;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "byal-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48721;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph47968;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBC54;
+unicode = 48212;
+}

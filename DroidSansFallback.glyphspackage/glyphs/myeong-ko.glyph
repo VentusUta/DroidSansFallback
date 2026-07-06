@@ -1,0 +1,23 @@
+{
+glyphname = "myeong-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48677;
+},
+{
+ref = glyph48689;
+},
+{
+ref = glyph47981;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBA85;
+unicode = 47749;
+}

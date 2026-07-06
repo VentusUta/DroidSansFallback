@@ -1,0 +1,23 @@
+{
+glyphname = "noebs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48105;
+},
+{
+ref = glyph48142;
+},
+{
+ref = glyph48119;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB1DE;
+unicode = 45534;
+}

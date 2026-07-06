@@ -1,0 +1,23 @@
+{
+glyphname = "ceolp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49141;
+},
+{
+ref = glyph48913;
+},
+{
+ref = glyph48037;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCCA6;
+unicode = 52390;
+}

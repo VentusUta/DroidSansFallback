@@ -1,0 +1,23 @@
+{
+glyphname = "peom-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49303;
+},
+{
+ref = glyph48266;
+},
+{
+ref = glyph48039;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD38C;
+unicode = 54156;
+}

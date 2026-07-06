@@ -1,0 +1,23 @@
+{
+glyphname = "kyeot-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49196;
+},
+{
+ref = glyph47618;
+},
+{
+ref = glyph48047;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCF35;
+unicode = 53045;
+}

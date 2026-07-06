@@ -1,0 +1,23 @@
+{
+glyphname = "gaegg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47525;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph47528;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC1E;
+unicode = 44062;
+}

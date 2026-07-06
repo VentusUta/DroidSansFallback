@@ -1,0 +1,23 @@
+{
+glyphname = "nwan-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48102;
+},
+{
+ref = glyph48103;
+},
+{
+ref = glyph47496;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB198;
+unicode = 45464;
+}

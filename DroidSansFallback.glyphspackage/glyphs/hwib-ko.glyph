@@ -1,0 +1,23 @@
+{
+glyphname = "hwib-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49462;
+},
+{
+ref = glyph49508;
+},
+{
+ref = glyph49527;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD729;
+unicode = 55081;
+}

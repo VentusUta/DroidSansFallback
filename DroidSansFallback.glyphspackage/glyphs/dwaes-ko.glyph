@@ -1,0 +1,23 @@
+{
+glyphname = "dwaes-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48304;
+},
+{
+ref = glyph48310;
+},
+{
+ref = glyph48121;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB40F;
+unicode = 46095;
+}

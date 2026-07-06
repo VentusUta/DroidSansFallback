@@ -1,0 +1,23 @@
+{
+glyphname = "ec-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49029;
+},
+{
+ref = glyph48685;
+},
+{
+ref = glyph48011;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC5E7;
+unicode = 50663;
+}

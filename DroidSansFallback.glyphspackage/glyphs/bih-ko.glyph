@@ -1,0 +1,23 @@
+{
+glyphname = "bih-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48721;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48049;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBE5F;
+unicode = 48735;
+}

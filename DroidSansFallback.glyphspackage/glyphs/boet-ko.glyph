@@ -1,0 +1,23 @@
+{
+glyphname = "boet-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48739;
+},
+{
+ref = glyph48314;
+},
+{
+ref = glyph48127;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBD61;
+unicode = 48481;
+}

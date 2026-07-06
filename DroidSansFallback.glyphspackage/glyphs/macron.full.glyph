@@ -1,0 +1,23 @@
+{
+glyphname = macron.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(35,212,l),
+(35,195,l),
+(221,195,l),
+(221,212,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniFFE3;
+unicode = 65507;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "yils-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49040;
+},
+{
+ref = glyph48368;
+},
+{
+ref = glyph48113;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC764;
+unicode = 51044;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ddaeh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48378;
+},
+{
+ref = glyph47855;
+},
+{
+ref = glyph48015;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB567;
+unicode = 46439;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ryel-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48477;
+},
+{
+ref = glyph48495;
+},
+{
+ref = glyph47620;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB848;
+unicode = 47176;
+}

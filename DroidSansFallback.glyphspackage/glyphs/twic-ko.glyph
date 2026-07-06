@@ -1,0 +1,23 @@
+{
+glyphname = "twic-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49288;
+},
+{
+ref = glyph48645;
+},
+{
+ref = glyph48646;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD297;
+unicode = 53911;
+}

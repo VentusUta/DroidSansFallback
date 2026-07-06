@@ -1,0 +1,23 @@
+{
+glyphname = "duls-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48326;
+},
+{
+ref = glyph48327;
+},
+{
+ref = glyph48081;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB45C;
+unicode = 46172;
+}

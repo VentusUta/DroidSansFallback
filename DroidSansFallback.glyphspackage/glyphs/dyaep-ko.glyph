@@ -1,0 +1,23 @@
+{
+glyphname = "dyaep-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48261;
+},
+{
+ref = glyph47568;
+},
+{
+ref = glyph48014;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB352;
+unicode = 45906;
+}

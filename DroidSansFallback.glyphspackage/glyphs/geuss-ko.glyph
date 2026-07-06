@@ -1,0 +1,23 @@
+{
+glyphname = "geuss-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47822;
+},
+{
+ref = glyph47821;
+},
+{
+ref = glyph47655;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAE0C;
+unicode = 44556;
+}

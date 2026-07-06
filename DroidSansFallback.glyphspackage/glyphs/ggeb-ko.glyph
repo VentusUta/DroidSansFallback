@@ -1,0 +1,23 @@
+{
+glyphname = "ggeb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47854;
+},
+{
+ref = glyph47882;
+},
+{
+ref = glyph47547;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAEE9;
+unicode = 44777;
+}

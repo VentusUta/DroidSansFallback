@@ -1,0 +1,23 @@
+{
+glyphname = "tigg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49255;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48022;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD2F2;
+unicode = 54002;
+}

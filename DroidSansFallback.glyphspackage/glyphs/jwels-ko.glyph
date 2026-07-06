@@ -1,0 +1,23 @@
+{
+glyphname = "jwels-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49091;
+},
+{
+ref = glyph48345;
+},
+{
+ref = glyph48177;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC940;
+unicode = 51520;
+}

@@ -1,0 +1,29 @@
+{
+glyphname = "yusmall-kata";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(178,23,l),
+(184,133,l),
+(65,133,l),
+(65,111,l),
+(159,111,l),
+(154,23,l),
+(41,23,l),
+(41,0,l),
+(215,0,l),
+(215,22,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni30E5;
+unicode = 12517;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "beun-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48734;
+},
+{
+ref = glyph48361;
+},
+{
+ref = glyph48148;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBE10;
+unicode = 48656;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "rwenh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48614;
+},
+{
+ref = glyph48615;
+},
+{
+ref = glyph48584;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB926;
+unicode = 47398;
+}

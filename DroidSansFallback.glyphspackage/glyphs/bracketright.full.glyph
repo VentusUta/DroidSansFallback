@@ -1,0 +1,27 @@
+{
+glyphname = bracketright.full;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(153,-40,l),
+(153,183,l),
+(82,183,l),
+(82,164,l),
+(131,164,l),
+(131,-22,l),
+(82,-22,l),
+(82,-40,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniFF3D;
+unicode = 65341;
+}

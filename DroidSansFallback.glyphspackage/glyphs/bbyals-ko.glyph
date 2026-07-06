@@ -1,0 +1,23 @@
+{
+glyphname = "bbyals-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48761;
+},
+{
+ref = glyph48775;
+},
+{
+ref = glyph47972;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBEA4;
+unicode = 48804;
+}

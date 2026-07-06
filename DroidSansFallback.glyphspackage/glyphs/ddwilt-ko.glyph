@@ -1,0 +1,23 @@
+{
+glyphname = "ddwilt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48433;
+},
+{
+ref = glyph48450;
+},
+{
+ref = glyph48221;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB6FD;
+unicode = 46845;
+}

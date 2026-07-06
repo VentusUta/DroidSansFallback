@@ -1,0 +1,23 @@
+{
+glyphname = "nyaek-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47988;
+},
+{
+ref = glyph47568;
+},
+{
+ref = glyph48012;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB104;
+unicode = 45316;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "wim-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49049;
+},
+{
+ref = glyph48349;
+},
+{
+ref = glyph48224;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC714;
+unicode = 50964;
+}

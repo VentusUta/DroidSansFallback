@@ -1,0 +1,23 @@
+{
+glyphname = "dyem-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48261;
+},
+{
+ref = glyph48281;
+},
+{
+ref = glyph48005;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB3B8;
+unicode = 46008;
+}

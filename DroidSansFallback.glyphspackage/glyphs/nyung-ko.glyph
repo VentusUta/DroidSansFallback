@@ -1,0 +1,23 @@
+{
+glyphname = "nyung-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48153;
+},
+{
+ref = glyph48243;
+},
+{
+ref = glyph47731;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB289;
+unicode = 45705;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "twen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49291;
+},
+{
+ref = glyph48613;
+},
+{
+ref = glyph48580;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD268;
+unicode = 53864;
+}

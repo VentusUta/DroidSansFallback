@@ -1,0 +1,23 @@
+{
+glyphname = "bed-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48723;
+},
+{
+ref = glyph48683;
+},
+{
+ref = glyph47997;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBCA7;
+unicode = 48295;
+}

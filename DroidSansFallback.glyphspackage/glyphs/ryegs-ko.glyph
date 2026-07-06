@@ -1,0 +1,23 @@
+{
+glyphname = "ryegs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48475;
+},
+{
+ref = glyph48493;
+},
+{
+ref = glyph47991;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB843;
+unicode = 47171;
+}

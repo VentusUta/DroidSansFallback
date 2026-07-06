@@ -1,0 +1,23 @@
+{
+glyphname = "tenj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49259;
+},
+{
+ref = glyph48486;
+},
+{
+ref = glyph47994;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD151;
+unicode = 53585;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "waenj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49042;
+},
+{
+ref = glyph48305;
+},
+{
+ref = glyph48104;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC661;
+unicode = 50785;
+}

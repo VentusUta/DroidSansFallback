@@ -1,0 +1,23 @@
+{
+glyphname = "mwalt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48702;
+},
+{
+ref = glyph48300;
+},
+{
+ref = glyph48114;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBAD1;
+unicode = 47825;
+}

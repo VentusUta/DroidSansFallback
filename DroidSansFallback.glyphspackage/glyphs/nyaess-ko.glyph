@@ -1,0 +1,23 @@
+{
+glyphname = "nyaess-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47988;
+},
+{
+ref = glyph47568;
+},
+{
+ref = glyph47614;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB100;
+unicode = 45312;
+}

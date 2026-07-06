@@ -1,0 +1,23 @@
+{
+glyphname = "hogs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49363;
+},
+{
+ref = glyph49364;
+},
+{
+ref = glyph49367;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD63B;
+unicode = 54843;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "keuls-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49249;
+},
+{
+ref = glyph48246;
+},
+{
+ref = glyph48081;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD078;
+unicode = 53368;
+}

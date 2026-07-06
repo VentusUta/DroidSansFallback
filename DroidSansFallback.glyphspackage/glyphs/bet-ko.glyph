@@ -1,0 +1,23 @@
+{
+glyphname = "bet-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48725;
+},
+{
+ref = glyph48685;
+},
+{
+ref = glyph48013;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBCB9;
+unicode = 48313;
+}

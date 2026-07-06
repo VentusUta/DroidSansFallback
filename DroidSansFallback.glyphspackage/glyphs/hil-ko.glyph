@@ -1,0 +1,23 @@
+{
+glyphname = "hil-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47841;
+},
+{
+ref = glyph49344;
+},
+{
+ref = glyph48216;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD790;
+unicode = 55184;
+}

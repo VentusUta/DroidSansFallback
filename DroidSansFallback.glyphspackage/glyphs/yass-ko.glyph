@@ -1,0 +1,23 @@
+{
+glyphname = "yass-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49023;
+},
+{
+ref = glyph47560;
+},
+{
+ref = glyph47980;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC590;
+unicode = 50576;
+}

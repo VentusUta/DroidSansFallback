@@ -1,0 +1,23 @@
+{
+glyphname = "ggwelt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47944;
+},
+{
+ref = glyph47776;
+},
+{
+ref = glyph47752;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAFFD;
+unicode = 45053;
+}

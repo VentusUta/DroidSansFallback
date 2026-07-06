@@ -1,0 +1,23 @@
+{
+glyphname = "kwid-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49239;
+},
+{
+ref = glyph48206;
+},
+{
+ref = glyph48215;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD03B;
+unicode = 53307;
+}

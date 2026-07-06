@@ -1,0 +1,23 @@
+{
+glyphname = "daels-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48263;
+},
+{
+ref = glyph47535;
+},
+{
+ref = glyph48001;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB30C;
+unicode = 45836;
+}

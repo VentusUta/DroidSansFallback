@@ -1,0 +1,20 @@
+{
+glyphname = "cyi-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49161;
+},
+{
+ref = glyph48661;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCE3C;
+unicode = 52796;
+}

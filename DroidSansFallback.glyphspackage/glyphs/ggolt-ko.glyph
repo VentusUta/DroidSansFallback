@@ -1,0 +1,23 @@
+{
+glyphname = "ggolt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47902;
+},
+{
+ref = glyph47903;
+},
+{
+ref = glyph47648;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAF39;
+unicode = 44857;
+}

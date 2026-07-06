@@ -1,0 +1,23 @@
+{
+glyphname = "ress-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48475;
+},
+{
+ref = glyph48486;
+},
+{
+ref = glyph47614;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB81C;
+unicode = 47132;
+}

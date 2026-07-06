@@ -1,0 +1,23 @@
+{
+glyphname = "jet-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49063;
+},
+{
+ref = glyph48272;
+},
+{
+ref = glyph48013;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC835;
+unicode = 51253;
+}

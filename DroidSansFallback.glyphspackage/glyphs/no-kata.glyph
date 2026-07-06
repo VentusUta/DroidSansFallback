@@ -1,0 +1,27 @@
+{
+glyphname = "no-kata";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(157,103,o),
+(108,24,o),
+(60,2,q),
+(76,-17,l),
+(127,9,o),
+(182,97,o),
+(195,187,q),
+(171,193,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni30CE;
+unicode = 12494;
+}

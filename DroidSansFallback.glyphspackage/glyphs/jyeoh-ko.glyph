@@ -1,0 +1,23 @@
+{
+glyphname = "jyeoh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49067;
+},
+{
+ref = glyph48278;
+},
+{
+ref = glyph48049;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC853;
+unicode = 51283;
+}

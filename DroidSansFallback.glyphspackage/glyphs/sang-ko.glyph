@@ -1,0 +1,23 @@
+{
+glyphname = "sang-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48902;
+},
+{
+ref = glyph47513;
+},
+{
+ref = glyph47656;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC0C1;
+unicode = 49345;
+}

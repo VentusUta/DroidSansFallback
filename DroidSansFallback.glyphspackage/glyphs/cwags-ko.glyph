@@ -1,0 +1,23 @@
+{
+glyphname = "cwags-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49162;
+},
+{
+ref = glyph48509;
+},
+{
+ref = glyph48512;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD27;
+unicode = 52519;
+}

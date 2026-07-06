@@ -1,0 +1,23 @@
+{
+glyphname = "ddoess-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48408;
+},
+{
+ref = glyph48312;
+},
+{
+ref = glyph48122;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB678;
+unicode = 46712;
+}

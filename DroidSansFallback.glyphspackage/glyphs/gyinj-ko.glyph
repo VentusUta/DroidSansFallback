@@ -1,0 +1,23 @@
+{
+glyphname = "gyinj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47830;
+},
+{
+ref = glyph47831;
+},
+{
+ref = glyph47672;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAE19;
+unicode = 44569;
+}

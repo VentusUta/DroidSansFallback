@@ -1,0 +1,20 @@
+{
+glyphname = "dyae-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48260;
+},
+{
+ref = glyph47567;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB338;
+unicode = 45880;
+}

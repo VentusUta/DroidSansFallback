@@ -1,0 +1,23 @@
+{
+glyphname = "nib-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47959;
+},
+{
+ref = glyph47839;
+},
+{
+ref = glyph48040;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB2D9;
+unicode = 45785;
+}

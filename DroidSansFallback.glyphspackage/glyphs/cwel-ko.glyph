@@ -1,0 +1,23 @@
+{
+glyphname = "cwel-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49181;
+},
+{
+ref = glyph48615;
+},
+{
+ref = glyph48586;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCDD4;
+unicode = 52692;
+}

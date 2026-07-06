@@ -1,0 +1,23 @@
+{
+glyphname = "keung-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49248;
+},
+{
+ref = glyph48247;
+},
+{
+ref = glyph47731;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD081;
+unicode = 53377;
+}

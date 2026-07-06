@@ -1,0 +1,23 @@
+{
+glyphname = "cyels-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49135;
+},
+{
+ref = glyph49154;
+},
+{
+ref = glyph48001;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCCF8;
+unicode = 52472;
+}

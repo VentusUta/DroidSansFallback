@@ -1,0 +1,23 @@
+{
+glyphname = "pwak-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49313;
+},
+{
+ref = glyph48296;
+},
+{
+ref = glyph48126;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD420;
+unicode = 54304;
+}

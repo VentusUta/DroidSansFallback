@@ -1,0 +1,23 @@
+{
+glyphname = "myal-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48669;
+},
+{
+ref = glyph47564;
+},
+{
+ref = glyph47968;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBA08;
+unicode = 47624;
+}

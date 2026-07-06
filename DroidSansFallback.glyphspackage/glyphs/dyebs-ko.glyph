@@ -1,0 +1,23 @@
+{
+glyphname = "dyebs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48263;
+},
+{
+ref = glyph48283;
+},
+{
+ref = glyph48007;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB3BA;
+unicode = 46010;
+}

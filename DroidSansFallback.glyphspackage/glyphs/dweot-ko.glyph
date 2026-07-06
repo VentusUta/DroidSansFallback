@@ -1,0 +1,23 @@
+{
+glyphname = "dweot-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48334;
+},
+{
+ref = glyph48335;
+},
+{
+ref = glyph48192;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB485;
+unicode = 46213;
+}

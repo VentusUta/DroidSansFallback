@@ -1,0 +1,36 @@
+{
+glyphname = postalmark;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,183,l),
+(40,162,l),
+(216,162,l),
+(216,183,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(40,130,l),
+(40,109,l),
+(117,109,l),
+(117,0,l),
+(139,0,l),
+(139,109,l),
+(216,109,l),
+(216,130,l)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni3012;
+unicode = 12306;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "sos-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48917;
+},
+{
+ref = glyph48922;
+},
+{
+ref = glyph47654;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC19F;
+unicode = 49567;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "ryil-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48517;
+},
+{
+ref = glyph48664;
+},
+{
+ref = glyph48521;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB998;
+unicode = 47512;
+}

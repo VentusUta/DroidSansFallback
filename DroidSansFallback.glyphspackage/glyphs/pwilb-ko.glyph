@@ -1,0 +1,23 @@
+{
+glyphname = "pwilb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49327;
+},
+{
+ref = glyph48351;
+},
+{
+ref = glyph48219;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD4D7;
+unicode = 54487;
+}

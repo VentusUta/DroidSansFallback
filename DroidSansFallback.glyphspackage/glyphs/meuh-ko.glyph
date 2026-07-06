@@ -1,0 +1,23 @@
+{
+glyphname = "meuh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48698;
+},
+{
+ref = glyph48364;
+},
+{
+ref = glyph48094;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBBDB;
+unicode = 48091;
+}

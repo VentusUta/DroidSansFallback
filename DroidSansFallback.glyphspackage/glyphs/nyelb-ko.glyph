@@ -1,0 +1,23 @@
+{
+glyphname = "nyelb-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47995;
+},
+{
+ref = glyph48063;
+},
+{
+ref = glyph48000;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB167;
+unicode = 45415;
+}

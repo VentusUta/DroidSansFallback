@@ -1,0 +1,23 @@
+{
+glyphname = "ggwil-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47940;
+},
+{
+ref = glyph47788;
+},
+{
+ref = glyph47791;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB014;
+unicode = 45076;
+}

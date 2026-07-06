@@ -1,0 +1,23 @@
+{
+glyphname = "pwaek-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49317;
+},
+{
+ref = glyph48305;
+},
+{
+ref = glyph48126;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD43C;
+unicode = 54332;
+}

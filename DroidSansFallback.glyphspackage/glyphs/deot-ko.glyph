@@ -1,0 +1,23 @@
+{
+glyphname = "deot-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48267;
+},
+{
+ref = glyph48268;
+},
+{
+ref = glyph48047;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB36D;
+unicode = 45933;
+}

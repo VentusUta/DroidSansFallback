@@ -1,0 +1,23 @@
+{
+glyphname = "gag-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47488;
+},
+{
+ref = glyph47489;
+},
+{
+ref = glyph47490;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC01;
+unicode = 44033;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "cweogg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49175;
+},
+{
+ref = glyph48574;
+},
+{
+ref = glyph48576;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCDB2;
+unicode = 52658;
+}

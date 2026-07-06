@@ -1,0 +1,23 @@
+{
+glyphname = "neng-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47988;
+},
+{
+ref = glyph48054;
+},
+{
+ref = glyph48009;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB139;
+unicode = 45369;
+}

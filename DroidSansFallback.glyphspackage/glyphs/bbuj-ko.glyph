@@ -1,0 +1,23 @@
+{
+glyphname = "bbuj-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48845;
+},
+{
+ref = glyph48846;
+},
+{
+ref = glyph48089;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBFE2;
+unicode = 49122;
+}

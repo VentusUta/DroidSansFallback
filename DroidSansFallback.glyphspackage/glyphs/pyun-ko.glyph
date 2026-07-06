@@ -1,0 +1,23 @@
+{
+glyphname = "pyun-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49322;
+},
+{
+ref = glyph48356;
+},
+{
+ref = glyph48148;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD4EC;
+unicode = 54508;
+}

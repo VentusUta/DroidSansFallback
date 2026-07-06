@@ -1,0 +1,23 @@
+{
+glyphname = "relp-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48477;
+},
+{
+ref = glyph48488;
+},
+{
+ref = glyph48003;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB816;
+unicode = 47126;
+}

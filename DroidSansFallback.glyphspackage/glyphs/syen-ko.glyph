@@ -1,0 +1,23 @@
+{
+glyphname = "syen-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48907;
+},
+{
+ref = glyph48282;
+},
+{
+ref = glyph47993;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC174;
+unicode = 49524;
+}

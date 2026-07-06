@@ -1,0 +1,23 @@
+{
+glyphname = "seol-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48910;
+},
+{
+ref = glyph48031;
+},
+{
+ref = glyph48913;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC124;
+unicode = 49444;
+}

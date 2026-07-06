@@ -1,0 +1,23 @@
+{
+glyphname = "yenh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49029;
+},
+{
+ref = glyph48693;
+},
+{
+ref = glyph47996;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC60E;
+unicode = 50702;
+}

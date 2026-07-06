@@ -1,0 +1,23 @@
+{
+glyphname = "gat-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47498;
+},
+{
+ref = glyph47499;
+},
+{
+ref = glyph47520;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniAC19;
+unicode = 44057;
+}

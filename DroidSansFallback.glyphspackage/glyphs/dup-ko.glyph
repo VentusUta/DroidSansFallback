@@ -1,0 +1,23 @@
+{
+glyphname = "dup-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48322;
+},
+{
+ref = glyph48323;
+},
+{
+ref = glyph48093;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB46A;
+unicode = 46186;
+}

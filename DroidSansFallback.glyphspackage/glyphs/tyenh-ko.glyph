@@ -1,0 +1,23 @@
+{
+glyphname = "tyenh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49261;
+},
+{
+ref = glyph48495;
+},
+{
+ref = glyph47996;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD18A;
+unicode = 53642;
+}

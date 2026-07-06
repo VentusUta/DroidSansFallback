@@ -1,0 +1,23 @@
+{
+glyphname = "bugs-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48745;
+},
+{
+ref = glyph48323;
+},
+{
+ref = glyph48071;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBD83;
+unicode = 48515;
+}

@@ -1,0 +1,23 @@
+{
+glyphname = "nep-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph47988;
+},
+{
+ref = glyph48051;
+},
+{
+ref = glyph48014;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB13E;
+unicode = 45374;
+}

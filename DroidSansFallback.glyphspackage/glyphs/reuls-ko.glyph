@@ -1,0 +1,23 @@
+{
+glyphname = "reuls-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48503;
+},
+{
+ref = glyph48658;
+},
+{
+ref = glyph48081;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniB980;
+unicode = 47488;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = "hyo-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49361;
+},
+{
+ref = glyph49447;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniD6A8;
+unicode = 54952;
+}

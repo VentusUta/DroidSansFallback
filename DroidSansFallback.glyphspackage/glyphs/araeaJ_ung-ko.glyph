@@ -1,0 +1,25 @@
+{
+glyphname = "araeaJung-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(153,92,qs),
+(153,118,o),
+(103,118,o),
+(103,92,qs),
+(103,67,o),
+(153,67,o)
+);
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uni318D;
+unicode = (4510,12685);
+}

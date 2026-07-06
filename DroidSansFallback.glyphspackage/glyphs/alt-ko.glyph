@@ -1,0 +1,23 @@
+{
+glyphname = "alt-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49025;
+},
+{
+ref = glyph47499;
+},
+{
+ref = glyph47973;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC551;
+unicode = 50513;
+}

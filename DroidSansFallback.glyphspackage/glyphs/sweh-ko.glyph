@@ -1,0 +1,23 @@
+{
+glyphname = "sweh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48960;
+},
+{
+ref = glyph48347;
+},
+{
+ref = glyph48194;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniC26B;
+unicode = 49771;
+}

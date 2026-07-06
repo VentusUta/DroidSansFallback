@@ -1,0 +1,23 @@
+{
+glyphname = "jjyegg-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49097;
+},
+{
+ref = glyph48398;
+},
+{
+ref = glyph47990;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCAA2;
+unicode = 51874;
+}

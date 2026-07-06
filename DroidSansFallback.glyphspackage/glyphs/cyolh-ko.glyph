@@ -1,0 +1,23 @@
+{
+glyphname = "cyolh-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph49160;
+},
+{
+ref = glyph48559;
+},
+{
+ref = glyph48084;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniCD87;
+unicode = 52615;
+}

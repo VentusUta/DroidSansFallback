@@ -1,0 +1,23 @@
+{
+glyphname = "baed-ko";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph48723;
+},
+{
+ref = glyph47526;
+},
+{
+ref = glyph47997;
+}
+);
+vertWidth = 256;
+width = 256;
+}
+);
+note = uniBC37;
+unicode = 48183;
+}
