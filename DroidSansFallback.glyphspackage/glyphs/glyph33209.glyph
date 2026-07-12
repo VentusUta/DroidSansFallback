@@ -7,15 +7,15 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(231,0,l),
-(231,21,l),
-(23,21,l),
-(23,0,l)
+(924,0,l),
+(924,84,l),
+(92,84,l),
+(92,0,l)
 );
 }
 );
-vertWidth = 256;
-width = 256;
+vertWidth = 1024;
+width = 1024;
 }
 );
 note = glyph33209;

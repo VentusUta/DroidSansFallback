@@ -7,15 +7,15 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(66,0,l),
-(91,0,l),
-(190,183,l),
-(165,183,l)
+(264,0,l),
+(364,0,l),
+(760,732,l),
+(660,732,l)
 );
 }
 );
-vertWidth = 256;
-width = 256;
+vertWidth = 1024;
+width = 1024;
 }
 );
 note = uniFF0F;

@@ -43,56 +43,56 @@ value = "(
 },
 {
 name = typoAscender;
-value = 196;
+value = 784;
 },
 {
 name = typoDescender;
-value = -61;
+value = -244;
 },
 {
 name = typoLineGap;
-value = 16;
+value = 64;
 },
 {
 name = hheaAscender;
-value = 267;
+value = 1068;
 },
 {
 name = hheaDescender;
-value = -68;
+value = -272;
 },
 {
 name = winAscent;
-value = 267;
+value = 1068;
 },
 {
 name = winDescent;
-value = 68;
+value = 272;
 },
 {
 name = strikeoutPosition;
-value = 62;
+value = 248;
 },
 {
 name = strikeoutSize;
-value = 13;
+value = 52;
 }
 );
 id = m01;
 metricValues = (
 {
-pos = 196;
+pos = 784;
 },
 {
-pos = 183;
+pos = 732;
 },
 {
-pos = 137;
+pos = 548;
 },
 {
 },
 {
-pos = -61;
+pos = -244;
 },
 {
 }
@@ -132,7 +132,7 @@ settings = {
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 };
-unitsPerEm = 256;
+unitsPerEm = 1024;
 userData = {
 UFO.lib = {
 public.postscriptNames = {
@@ -12018,5 +12018,5 @@ zero.full = uniFF10;
 UFOFormat = 3;
 };
 versionMajor = 3;
-versionMinor = 7;
+versionMinor = 8;
 }
