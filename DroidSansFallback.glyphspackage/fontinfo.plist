@@ -134,62 +134,6 @@ type = descender;
 type = "italic angle";
 }
 );
-properties = (
-{
-key = copyrights;
-values = (
-{
-language = dflt;
-value = "Digitized data copyright Google Corporation © 2006";
-}
-);
-},
-{
-key = descriptions;
-values = (
-{
-language = dflt;
-value = "Droid Sans is a humanist sans serif typeface designed for user interfaces and electronic communications.";
-}
-);
-},
-{
-key = designers;
-values = (
-{
-language = dflt;
-value = "Steve Matteson";
-}
-);
-},
-{
-key = licenses;
-values = (
-{
-language = dflt;
-value = "Licensed under the Apache License, Version 2.0";
-}
-);
-},
-{
-key = manufacturers;
-values = (
-{
-language = dflt;
-value = "Ascender Corporation";
-}
-);
-},
-{
-key = trademarks;
-values = (
-{
-language = dflt;
-value = "Droid is a trademark of Google and may be registered in certain jurisdictions.";
-}
-);
-}
-);
 settings = {
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
@@ -12080,5 +12024,5 @@ zero.full = uniFF10;
 UFOFormat = 3;
 };
 versionMajor = 3;
-versionMinor = 6;
+versionMinor = 7;
 }
