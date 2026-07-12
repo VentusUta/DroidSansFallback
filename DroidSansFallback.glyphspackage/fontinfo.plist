@@ -7,41 +7,6 @@ fontMaster = (
 {
 customParameters = (
 {
-name = "prep Table Assembly";
-value = "MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-200
-LTEQ[ ]	/* LessThenOrEqual */
-MPPEM[ ]	/* MeasurePixelPerEm */
-PUSHB[ ]	/* 1 value pushed */
-7
-GTEQ[ ]	/* GreaterThanOrEqual */
-AND[ ]	/* LogicalAnd */
-IF[ ]	/* If */
-PUSHW[ ]	/* 2 values pushed */
-1 511
-SCANCTRL[ ]	/* ScanConversionControl */
-SCANTYPE[ ]	/* ScanType */
-EIF[ ]	/* EndIf */";
-},
-{
-name = "fpgm Table Assembly";
-value = "PUSHB[ ]	/* 1 value pushed */
-0
-FDEF[ ]	/* FunctionDefinition */
-PUSHB[ ]	/* 1 value pushed */
-0
-POP[ ]	/* PopTopStack */
-ENDF[ ]	/* EndFunctionDefinition */";
-},
-{
-name = "CVT Table";
-value = "(
-    0,
-    0
-)";
-},
-{
 name = typoAscender;
 value = 784;
 },
@@ -12018,5 +11983,5 @@ zero.full = uniFF10;
 UFOFormat = 3;
 };
 versionMajor = 3;
-versionMinor = 8;
+versionMinor = 9;
 }

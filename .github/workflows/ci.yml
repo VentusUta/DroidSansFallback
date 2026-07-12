@@ -34,11 +34,11 @@ jobs:
       run: |
         mkdir -p build
         # Original font don't have overlaps, skip remove overlaps
-        fontmake -g DroidSansFallback.glyphspackage -o ttf --keep-overlaps --output-dir build/
+        fontmake -g DroidSansFallback.glyphspackage -o ttf --keep-overlaps --output-path build/DroidSansFallback.ttf
 
     - name: Compress TTF to WOFF2
       run: |
-        woff2_compress build/DroidSansFallback-Regular.ttf
+        woff2_compress build/DroidSansFallback.ttf
 
     - name: Upload Font
       uses: actions/upload-artifact@v7
