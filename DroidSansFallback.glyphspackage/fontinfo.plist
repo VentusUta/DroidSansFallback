@@ -106,12 +106,6 @@ instanceInterpolations = {
 m01 = 1;
 };
 name = Regular;
-properties = (
-{
-key = postscriptFontName;
-value = DroidSansFallback;
-}
-);
 }
 );
 metrics = (
