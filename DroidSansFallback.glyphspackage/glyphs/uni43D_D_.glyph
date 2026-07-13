@@ -1,0 +1,18 @@
+{
+glyphname = uni43DD;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph38370;
+},
+{
+ref = glyph41127;
+}
+);
+width = 1024;
+}
+);
+unicode = 17373;
+}
