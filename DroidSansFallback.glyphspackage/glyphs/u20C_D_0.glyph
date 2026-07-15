@@ -1,0 +1,21 @@
+{
+glyphname = u20CD0;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph42232;
+},
+{
+ref = glyph34672;
+},
+{
+ref = glyph34591;
+}
+);
+width = 2048;
+}
+);
+unicode = 134352;
+}

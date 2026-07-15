@@ -1,0 +1,20 @@
+{
+glyphname = u2C27C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-20,0);
+ref = glyph35762;
+},
+{
+pos = (30,0);
+ref = glyph40010;
+}
+);
+width = 2048;
+}
+);
+unicode = 180860;
+}
