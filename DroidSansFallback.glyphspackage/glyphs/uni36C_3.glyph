@@ -1,0 +1,21 @@
+{
+glyphname = uni36C3;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = glyph35885;
+},
+{
+ref = glyph35678;
+},
+{
+ref = glyph35679;
+}
+);
+width = 2048;
+}
+);
+unicode = 14019;
+}
