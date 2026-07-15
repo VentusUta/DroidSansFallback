@@ -8,56 +8,56 @@ fontMaster = (
 customParameters = (
 {
 name = typoAscender;
-value = 784;
+value = 1568;
 },
 {
 name = typoDescender;
-value = -244;
+value = -488;
 },
 {
 name = typoLineGap;
-value = 64;
+value = 128;
 },
 {
 name = hheaAscender;
-value = 1068;
+value = 2136;
 },
 {
 name = hheaDescender;
-value = -272;
+value = -544;
 },
 {
 name = winAscent;
-value = 1068;
+value = 2136;
 },
 {
 name = winDescent;
-value = 272;
+value = 544;
 },
 {
 name = strikeoutPosition;
-value = 248;
+value = 496;
 },
 {
 name = strikeoutSize;
-value = 52;
+value = 104;
 }
 );
 id = m01;
 metricValues = (
 {
-pos = 784;
+pos = 1568;
 },
 {
-pos = 732;
+pos = 1464;
 },
 {
-pos = 548;
+pos = 1096;
 },
 {
 },
 {
-pos = -244;
+pos = -488;
 },
 {
 }
@@ -97,7 +97,7 @@ settings = {
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 };
-unitsPerEm = 1024;
+unitsPerEm = 2048;
 userData = {
 UFO.lib = {
 public.postscriptNames = {
