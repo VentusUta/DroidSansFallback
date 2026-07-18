@@ -5,12 +5,11 @@ layers = (
 layerId = m01;
 shapes = (
 {
-pos = (28,0);
-ref = glyph41899;
+ref = glyph41900;
 },
 {
-pos = (-40,0);
-ref = glyph47408;
+pos = (50,0);
+ref = glyph36638;
 }
 );
 width = 2048;
